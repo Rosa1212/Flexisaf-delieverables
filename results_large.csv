@@ -1,0 +1,6301 @@
+student_id,term,subject,score
+S2000,Term1,Math,74.6
+S2000,Term1,English,74.2
+S2000,Term1,Science,81.7
+S2000,Term1,History,69.3
+S2000,Term1,Computer Science,68.4
+S2000,Term1,Economics,70.0
+S2000,Term1,Biology,48.5
+S2000,Term2,Math,57.8
+S2000,Term2,English,44.4
+S2000,Term2,Science,63.4
+S2000,Term2,History,48.2
+S2000,Term2,Computer Science,58.1
+S2000,Term2,Economics,57.8
+S2000,Term2,Biology,54.6
+S2000,Term3,Math,66.3
+S2000,Term3,English,61.3
+S2000,Term3,Science,55.8
+S2000,Term3,History,40.5
+S2000,Term3,Computer Science,65.7
+S2000,Term3,Economics,58.7
+S2000,Term3,Biology,46.0
+S2001,Term1,Math,64.4
+S2001,Term1,English,45.1
+S2001,Term1,Science,56.0
+S2001,Term1,History,60.0
+S2001,Term1,Computer Science,69.4
+S2001,Term1,Economics,52.0
+S2001,Term1,Biology,66.9
+S2001,Term2,Math,50.6
+S2001,Term2,English,61.9
+S2001,Term2,Science,65.1
+S2001,Term2,History,67.1
+S2001,Term2,Computer Science,60.5
+S2001,Term2,Economics,66.1
+S2001,Term2,Biology,45.5
+S2001,Term3,Math,71.2
+S2001,Term3,English,57.7
+S2001,Term3,Science,75.2
+S2001,Term3,History,75.0
+S2001,Term3,Computer Science,66.0
+S2001,Term3,Economics,79.5
+S2001,Term3,Biology,75.2
+S2002,Term1,Math,64.2
+S2002,Term1,English,61.5
+S2002,Term1,Science,62.5
+S2002,Term1,History,67.1
+S2002,Term1,Computer Science,53.7
+S2002,Term1,Economics,61.5
+S2002,Term1,Biology,61.5
+S2002,Term2,Math,78.0
+S2002,Term2,English,69.5
+S2002,Term2,Science,61.2
+S2002,Term2,History,89.0
+S2002,Term2,Computer Science,70.7
+S2002,Term2,Economics,59.6
+S2002,Term2,Biology,79.6
+S2002,Term3,Math,80.5
+S2002,Term3,English,72.0
+S2002,Term3,Science,73.7
+S2002,Term3,History,71.4
+S2002,Term3,Computer Science,58.5
+S2002,Term3,Economics,64.7
+S2002,Term3,Biology,67.4
+S2003,Term1,Math,74.8
+S2003,Term1,English,73.9
+S2003,Term1,Science,91.9
+S2003,Term1,History,75.5
+S2003,Term1,Computer Science,87.8
+S2003,Term1,Economics,65.0
+S2003,Term1,Biology,85.0
+S2003,Term2,Math,63.5
+S2003,Term2,English,70.8
+S2003,Term2,Science,79.6
+S2003,Term2,History,59.9
+S2003,Term2,Computer Science,62.3
+S2003,Term2,Economics,79.9
+S2003,Term2,Biology,71.9
+S2003,Term3,Math,87.6
+S2003,Term3,English,62.1
+S2003,Term3,Science,59.0
+S2003,Term3,History,71.5
+S2003,Term3,Computer Science,76.9
+S2003,Term3,Economics,80.8
+S2003,Term3,Biology,89.8
+S2004,Term1,Math,59.3
+S2004,Term1,English,71.4
+S2004,Term1,Science,77.9
+S2004,Term1,History,64.2
+S2004,Term1,Computer Science,61.6
+S2004,Term1,Economics,76.4
+S2004,Term1,Biology,67.7
+S2004,Term2,Math,66.5
+S2004,Term2,English,59.9
+S2004,Term2,Science,74.8
+S2004,Term2,History,81.6
+S2004,Term2,Computer Science,55.8
+S2004,Term2,Economics,75.0
+S2004,Term2,Biology,100.0
+S2004,Term3,Math,82.9
+S2004,Term3,English,70.8
+S2004,Term3,Science,67.6
+S2004,Term3,History,65.9
+S2004,Term3,Computer Science,89.6
+S2004,Term3,Economics,68.7
+S2004,Term3,Biology,60.5
+S2005,Term1,Math,67.5
+S2005,Term1,English,78.5
+S2005,Term1,Science,74.7
+S2005,Term1,History,70.9
+S2005,Term1,Computer Science,89.5
+S2005,Term1,Economics,69.3
+S2005,Term1,Biology,80.1
+S2005,Term2,Math,60.7
+S2005,Term2,English,50.9
+S2005,Term2,Science,51.9
+S2005,Term2,History,68.6
+S2005,Term2,Computer Science,48.6
+S2005,Term2,Economics,77.7
+S2005,Term2,Biology,49.0
+S2005,Term3,Math,59.6
+S2005,Term3,English,68.1
+S2005,Term3,Science,56.0
+S2005,Term3,History,39.0
+S2005,Term3,Computer Science,49.2
+S2005,Term3,Economics,55.2
+S2005,Term3,Biology,59.4
+S2006,Term1,Math,83.0
+S2006,Term1,English,71.6
+S2006,Term1,Science,82.9
+S2006,Term1,History,77.6
+S2006,Term1,Computer Science,78.8
+S2006,Term1,Economics,94.7
+S2006,Term1,Biology,91.5
+S2006,Term2,Math,49.6
+S2006,Term2,English,41.6
+S2006,Term2,Science,40.7
+S2006,Term2,History,49.9
+S2006,Term2,Computer Science,41.4
+S2006,Term2,Economics,51.5
+S2006,Term2,Biology,53.8
+S2006,Term3,Math,60.4
+S2006,Term3,English,59.0
+S2006,Term3,Science,67.4
+S2006,Term3,History,58.7
+S2006,Term3,Computer Science,54.2
+S2006,Term3,Economics,67.7
+S2006,Term3,Biology,70.4
+S2007,Term1,Math,65.5
+S2007,Term1,English,65.5
+S2007,Term1,Science,70.4
+S2007,Term1,History,78.7
+S2007,Term1,Computer Science,51.5
+S2007,Term1,Economics,76.2
+S2007,Term1,Biology,72.7
+S2007,Term2,Math,61.9
+S2007,Term2,English,70.0
+S2007,Term2,Science,57.7
+S2007,Term2,History,66.9
+S2007,Term2,Computer Science,56.0
+S2007,Term2,Economics,67.8
+S2007,Term2,Biology,59.1
+S2007,Term3,Math,50.3
+S2007,Term3,English,62.7
+S2007,Term3,Science,80.4
+S2007,Term3,History,69.5
+S2007,Term3,Computer Science,59.2
+S2007,Term3,Economics,64.9
+S2007,Term3,Biology,62.0
+S2008,Term1,Math,75.5
+S2008,Term1,English,77.3
+S2008,Term1,Science,70.4
+S2008,Term1,History,71.0
+S2008,Term1,Computer Science,67.3
+S2008,Term1,Economics,83.8
+S2008,Term1,Biology,91.3
+S2008,Term2,Math,62.3
+S2008,Term2,English,59.6
+S2008,Term2,Science,49.2
+S2008,Term2,History,44.6
+S2008,Term2,Computer Science,55.5
+S2008,Term2,Economics,73.7
+S2008,Term2,Biology,56.5
+S2008,Term3,Math,47.4
+S2008,Term3,English,72.8
+S2008,Term3,Science,40.4
+S2008,Term3,History,60.5
+S2008,Term3,Computer Science,48.2
+S2008,Term3,Economics,53.7
+S2008,Term3,Biology,52.6
+S2009,Term1,Math,65.8
+S2009,Term1,English,75.8
+S2009,Term1,Science,65.1
+S2009,Term1,History,75.3
+S2009,Term1,Computer Science,66.6
+S2009,Term1,Economics,78.4
+S2009,Term1,Biology,76.5
+S2009,Term2,Math,90.6
+S2009,Term2,English,94.7
+S2009,Term2,Science,83.4
+S2009,Term2,History,96.8
+S2009,Term2,Computer Science,69.1
+S2009,Term2,Economics,75.3
+S2009,Term2,Biology,100.0
+S2009,Term3,Math,61.2
+S2009,Term3,English,58.5
+S2009,Term3,Science,67.0
+S2009,Term3,History,56.8
+S2009,Term3,Computer Science,65.9
+S2009,Term3,Economics,59.7
+S2009,Term3,Biology,55.2
+S2010,Term1,Math,60.3
+S2010,Term1,English,62.1
+S2010,Term1,Science,60.3
+S2010,Term1,History,55.8
+S2010,Term1,Computer Science,75.3
+S2010,Term1,Economics,58.9
+S2010,Term1,Biology,64.3
+S2010,Term2,Math,71.3
+S2010,Term2,English,56.1
+S2010,Term2,Science,43.3
+S2010,Term2,History,67.7
+S2010,Term2,Computer Science,67.4
+S2010,Term2,Economics,67.6
+S2010,Term2,Biology,84.1
+S2010,Term3,Math,47.0
+S2010,Term3,English,58.5
+S2010,Term3,Science,52.9
+S2010,Term3,History,72.9
+S2010,Term3,Computer Science,67.2
+S2010,Term3,Economics,70.3
+S2010,Term3,Biology,72.5
+S2011,Term1,Math,64.7
+S2011,Term1,English,55.8
+S2011,Term1,Science,89.4
+S2011,Term1,History,69.3
+S2011,Term1,Computer Science,63.9
+S2011,Term1,Economics,61.1
+S2011,Term1,Biology,63.9
+S2011,Term2,Math,65.6
+S2011,Term2,English,59.5
+S2011,Term2,Science,74.7
+S2011,Term2,History,64.6
+S2011,Term2,Computer Science,57.4
+S2011,Term2,Economics,64.6
+S2011,Term2,Biology,63.9
+S2011,Term3,Math,40.8
+S2011,Term3,English,40.8
+S2011,Term3,Science,36.2
+S2011,Term3,History,37.0
+S2011,Term3,Computer Science,44.7
+S2011,Term3,Economics,40.4
+S2011,Term3,Biology,46.4
+S2012,Term1,Math,73.1
+S2012,Term1,English,59.4
+S2012,Term1,Science,74.8
+S2012,Term1,History,75.5
+S2012,Term1,Computer Science,71.6
+S2012,Term1,Economics,82.1
+S2012,Term1,Biology,77.1
+S2012,Term2,Math,55.5
+S2012,Term2,English,59.1
+S2012,Term2,Science,78.6
+S2012,Term2,History,61.8
+S2012,Term2,Computer Science,62.4
+S2012,Term2,Economics,44.7
+S2012,Term2,Biology,50.6
+S2012,Term3,Math,74.5
+S2012,Term3,English,70.9
+S2012,Term3,Science,58.2
+S2012,Term3,History,56.4
+S2012,Term3,Computer Science,72.5
+S2012,Term3,Economics,68.6
+S2012,Term3,Biology,75.7
+S2013,Term1,Math,58.8
+S2013,Term1,English,64.0
+S2013,Term1,Science,63.9
+S2013,Term1,History,72.1
+S2013,Term1,Computer Science,67.6
+S2013,Term1,Economics,58.6
+S2013,Term1,Biology,68.7
+S2013,Term2,Math,75.8
+S2013,Term2,English,81.3
+S2013,Term2,Science,73.9
+S2013,Term2,History,53.4
+S2013,Term2,Computer Science,83.8
+S2013,Term2,Economics,74.6
+S2013,Term2,Biology,87.6
+S2013,Term3,Math,72.5
+S2013,Term3,English,70.0
+S2013,Term3,Science,66.9
+S2013,Term3,History,84.6
+S2013,Term3,Computer Science,68.6
+S2013,Term3,Economics,61.3
+S2013,Term3,Biology,75.3
+S2014,Term1,Math,52.9
+S2014,Term1,English,38.3
+S2014,Term1,Science,48.0
+S2014,Term1,History,38.0
+S2014,Term1,Computer Science,40.2
+S2014,Term1,Economics,52.7
+S2014,Term1,Biology,40.1
+S2014,Term2,Math,51.1
+S2014,Term2,English,66.9
+S2014,Term2,Science,78.7
+S2014,Term2,History,52.3
+S2014,Term2,Computer Science,73.0
+S2014,Term2,Economics,62.1
+S2014,Term2,Biology,61.9
+S2014,Term3,Math,56.8
+S2014,Term3,English,51.4
+S2014,Term3,Science,57.6
+S2014,Term3,History,44.1
+S2014,Term3,Computer Science,73.6
+S2014,Term3,Economics,48.2
+S2014,Term3,Biology,46.5
+S2015,Term1,Math,66.8
+S2015,Term1,English,71.1
+S2015,Term1,Science,51.1
+S2015,Term1,History,59.0
+S2015,Term1,Computer Science,58.0
+S2015,Term1,Economics,53.3
+S2015,Term1,Biology,63.6
+S2015,Term2,Math,57.4
+S2015,Term2,English,68.6
+S2015,Term2,Science,62.8
+S2015,Term2,History,63.8
+S2015,Term2,Computer Science,56.5
+S2015,Term2,Economics,60.0
+S2015,Term2,Biology,43.3
+S2015,Term3,Math,80.0
+S2015,Term3,English,76.3
+S2015,Term3,Science,71.1
+S2015,Term3,History,72.1
+S2015,Term3,Computer Science,79.7
+S2015,Term3,Economics,72.7
+S2015,Term3,Biology,69.2
+S2016,Term1,Math,50.5
+S2016,Term1,English,72.4
+S2016,Term1,Science,67.5
+S2016,Term1,History,65.2
+S2016,Term1,Computer Science,66.5
+S2016,Term1,Economics,67.4
+S2016,Term1,Biology,69.5
+S2016,Term2,Math,78.6
+S2016,Term2,English,84.5
+S2016,Term2,Science,52.1
+S2016,Term2,History,67.4
+S2016,Term2,Computer Science,66.0
+S2016,Term2,Economics,64.4
+S2016,Term2,Biology,56.0
+S2016,Term3,Math,42.6
+S2016,Term3,English,52.4
+S2016,Term3,Science,70.2
+S2016,Term3,History,49.6
+S2016,Term3,Computer Science,54.0
+S2016,Term3,Economics,76.7
+S2016,Term3,Biology,64.6
+S2017,Term1,Math,72.0
+S2017,Term1,English,70.0
+S2017,Term1,Science,56.3
+S2017,Term1,History,68.3
+S2017,Term1,Computer Science,47.9
+S2017,Term1,Economics,53.1
+S2017,Term1,Biology,62.6
+S2017,Term2,Math,64.5
+S2017,Term2,English,73.7
+S2017,Term2,Science,77.8
+S2017,Term2,History,68.1
+S2017,Term2,Computer Science,63.6
+S2017,Term2,Economics,69.8
+S2017,Term2,Biology,53.0
+S2017,Term3,Math,80.8
+S2017,Term3,English,75.9
+S2017,Term3,Science,75.2
+S2017,Term3,History,72.2
+S2017,Term3,Computer Science,71.3
+S2017,Term3,Economics,72.6
+S2017,Term3,Biology,73.4
+S2018,Term1,Math,72.9
+S2018,Term1,English,72.2
+S2018,Term1,Science,59.3
+S2018,Term1,History,67.3
+S2018,Term1,Computer Science,63.3
+S2018,Term1,Economics,87.2
+S2018,Term1,Biology,58.1
+S2018,Term2,Math,81.7
+S2018,Term2,English,75.6
+S2018,Term2,Science,66.8
+S2018,Term2,History,69.4
+S2018,Term2,Computer Science,81.3
+S2018,Term2,Economics,77.7
+S2018,Term2,Biology,81.8
+S2018,Term3,Math,58.2
+S2018,Term3,English,67.4
+S2018,Term3,Science,68.8
+S2018,Term3,History,69.2
+S2018,Term3,Computer Science,57.4
+S2018,Term3,Economics,57.2
+S2018,Term3,Biology,80.6
+S2019,Term1,Math,59.7
+S2019,Term1,English,62.1
+S2019,Term1,Science,48.0
+S2019,Term1,History,79.8
+S2019,Term1,Computer Science,53.7
+S2019,Term1,Economics,63.1
+S2019,Term1,Biology,78.0
+S2019,Term2,Math,49.0
+S2019,Term2,English,60.0
+S2019,Term2,Science,66.3
+S2019,Term2,History,64.0
+S2019,Term2,Computer Science,88.2
+S2019,Term2,Economics,57.2
+S2019,Term2,Biology,72.9
+S2019,Term3,Math,82.9
+S2019,Term3,English,94.7
+S2019,Term3,Science,90.8
+S2019,Term3,History,97.1
+S2019,Term3,Computer Science,94.2
+S2019,Term3,Economics,84.0
+S2019,Term3,Biology,81.8
+S2020,Term1,Math,67.3
+S2020,Term1,English,75.3
+S2020,Term1,Science,58.0
+S2020,Term1,History,76.8
+S2020,Term1,Computer Science,74.9
+S2020,Term1,Economics,71.6
+S2020,Term1,Biology,74.2
+S2020,Term2,Math,71.7
+S2020,Term2,English,67.6
+S2020,Term2,Science,63.9
+S2020,Term2,History,62.7
+S2020,Term2,Computer Science,60.4
+S2020,Term2,Economics,68.6
+S2020,Term2,Biology,73.5
+S2020,Term3,Math,55.4
+S2020,Term3,English,54.2
+S2020,Term3,Science,49.3
+S2020,Term3,History,64.2
+S2020,Term3,Computer Science,46.9
+S2020,Term3,Economics,68.1
+S2020,Term3,Biology,73.8
+S2021,Term1,Math,42.7
+S2021,Term1,English,56.1
+S2021,Term1,Science,56.2
+S2021,Term1,History,60.8
+S2021,Term1,Computer Science,62.9
+S2021,Term1,Economics,59.3
+S2021,Term1,Biology,60.2
+S2021,Term2,Math,78.3
+S2021,Term2,English,73.5
+S2021,Term2,Science,71.8
+S2021,Term2,History,78.3
+S2021,Term2,Computer Science,66.7
+S2021,Term2,Economics,75.4
+S2021,Term2,Biology,65.2
+S2021,Term3,Math,24.9
+S2021,Term3,English,45.9
+S2021,Term3,Science,52.7
+S2021,Term3,History,41.9
+S2021,Term3,Computer Science,36.8
+S2021,Term3,Economics,59.1
+S2021,Term3,Biology,45.4
+S2022,Term1,Math,56.9
+S2022,Term1,English,56.3
+S2022,Term1,Science,80.3
+S2022,Term1,History,65.1
+S2022,Term1,Computer Science,80.6
+S2022,Term1,Economics,71.3
+S2022,Term1,Biology,70.1
+S2022,Term2,Math,77.6
+S2022,Term2,English,68.9
+S2022,Term2,Science,75.8
+S2022,Term2,History,71.7
+S2022,Term2,Computer Science,77.5
+S2022,Term2,Economics,62.5
+S2022,Term2,Biology,71.0
+S2022,Term3,Math,67.7
+S2022,Term3,English,92.6
+S2022,Term3,Science,72.3
+S2022,Term3,History,75.6
+S2022,Term3,Computer Science,64.1
+S2022,Term3,Economics,66.7
+S2022,Term3,Biology,69.0
+S2023,Term1,Math,64.1
+S2023,Term1,English,90.0
+S2023,Term1,Science,83.8
+S2023,Term1,History,84.7
+S2023,Term1,Computer Science,87.1
+S2023,Term1,Economics,70.7
+S2023,Term1,Biology,97.7
+S2023,Term2,Math,64.3
+S2023,Term2,English,55.4
+S2023,Term2,Science,55.9
+S2023,Term2,History,67.8
+S2023,Term2,Computer Science,63.4
+S2023,Term2,Economics,56.5
+S2023,Term2,Biology,48.9
+S2023,Term3,Math,57.9
+S2023,Term3,English,54.7
+S2023,Term3,Science,57.4
+S2023,Term3,History,43.8
+S2023,Term3,Computer Science,53.8
+S2023,Term3,Economics,44.2
+S2023,Term3,Biology,66.6
+S2024,Term1,Math,57.5
+S2024,Term1,English,72.9
+S2024,Term1,Science,71.5
+S2024,Term1,History,60.4
+S2024,Term1,Computer Science,60.2
+S2024,Term1,Economics,67.2
+S2024,Term1,Biology,67.6
+S2024,Term2,Math,48.5
+S2024,Term2,English,70.6
+S2024,Term2,Science,45.0
+S2024,Term2,History,71.4
+S2024,Term2,Computer Science,60.3
+S2024,Term2,Economics,58.2
+S2024,Term2,Biology,77.0
+S2024,Term3,Math,70.9
+S2024,Term3,English,66.3
+S2024,Term3,Science,83.8
+S2024,Term3,History,64.5
+S2024,Term3,Computer Science,76.1
+S2024,Term3,Economics,73.0
+S2024,Term3,Biology,71.6
+S2025,Term1,Math,48.7
+S2025,Term1,English,55.9
+S2025,Term1,Science,58.2
+S2025,Term1,History,63.6
+S2025,Term1,Computer Science,60.3
+S2025,Term1,Economics,48.5
+S2025,Term1,Biology,61.5
+S2025,Term2,Math,66.3
+S2025,Term2,English,61.1
+S2025,Term2,Science,53.3
+S2025,Term2,History,69.0
+S2025,Term2,Computer Science,50.7
+S2025,Term2,Economics,48.3
+S2025,Term2,Biology,69.9
+S2025,Term3,Math,90.4
+S2025,Term3,English,76.4
+S2025,Term3,Science,83.4
+S2025,Term3,History,56.4
+S2025,Term3,Computer Science,98.7
+S2025,Term3,Economics,85.1
+S2025,Term3,Biology,84.3
+S2026,Term1,Math,74.5
+S2026,Term1,English,66.3
+S2026,Term1,Science,57.9
+S2026,Term1,History,64.3
+S2026,Term1,Computer Science,69.6
+S2026,Term1,Economics,85.5
+S2026,Term1,Biology,58.4
+S2026,Term2,Math,68.7
+S2026,Term2,English,68.9
+S2026,Term2,Science,64.2
+S2026,Term2,History,74.6
+S2026,Term2,Computer Science,71.6
+S2026,Term2,Economics,78.7
+S2026,Term2,Biology,86.2
+S2026,Term3,Math,65.5
+S2026,Term3,English,68.8
+S2026,Term3,Science,60.8
+S2026,Term3,History,52.4
+S2026,Term3,Computer Science,63.3
+S2026,Term3,Economics,57.7
+S2026,Term3,Biology,67.5
+S2027,Term1,Math,77.0
+S2027,Term1,English,91.3
+S2027,Term1,Science,75.2
+S2027,Term1,History,83.3
+S2027,Term1,Computer Science,75.7
+S2027,Term1,Economics,76.5
+S2027,Term1,Biology,99.0
+S2027,Term2,Math,53.2
+S2027,Term2,English,63.3
+S2027,Term2,Science,79.4
+S2027,Term2,History,61.8
+S2027,Term2,Computer Science,62.9
+S2027,Term2,Economics,54.0
+S2027,Term2,Biology,50.2
+S2027,Term3,Math,46.7
+S2027,Term3,English,41.2
+S2027,Term3,Science,60.8
+S2027,Term3,History,47.8
+S2027,Term3,Computer Science,48.0
+S2027,Term3,Economics,62.8
+S2027,Term3,Biology,49.5
+S2028,Term1,Math,75.2
+S2028,Term1,English,68.3
+S2028,Term1,Science,64.0
+S2028,Term1,History,61.1
+S2028,Term1,Computer Science,84.3
+S2028,Term1,Economics,64.3
+S2028,Term1,Biology,79.0
+S2028,Term2,Math,78.8
+S2028,Term2,English,64.7
+S2028,Term2,Science,65.7
+S2028,Term2,History,76.9
+S2028,Term2,Computer Science,52.6
+S2028,Term2,Economics,63.1
+S2028,Term2,Biology,44.8
+S2028,Term3,Math,78.8
+S2028,Term3,English,72.9
+S2028,Term3,Science,75.8
+S2028,Term3,History,69.9
+S2028,Term3,Computer Science,64.8
+S2028,Term3,Economics,71.5
+S2028,Term3,Biology,70.2
+S2029,Term1,Math,56.1
+S2029,Term1,English,64.2
+S2029,Term1,Science,62.5
+S2029,Term1,History,66.0
+S2029,Term1,Computer Science,45.6
+S2029,Term1,Economics,49.3
+S2029,Term1,Biology,52.1
+S2029,Term2,Math,67.1
+S2029,Term2,English,68.0
+S2029,Term2,Science,50.1
+S2029,Term2,History,55.3
+S2029,Term2,Computer Science,80.2
+S2029,Term2,Economics,68.7
+S2029,Term2,Biology,72.7
+S2029,Term3,Math,56.8
+S2029,Term3,English,61.4
+S2029,Term3,Science,62.3
+S2029,Term3,History,72.9
+S2029,Term3,Computer Science,53.5
+S2029,Term3,Economics,58.9
+S2029,Term3,Biology,54.4
+S2030,Term1,Math,50.4
+S2030,Term1,English,51.7
+S2030,Term1,Science,38.6
+S2030,Term1,History,43.0
+S2030,Term1,Computer Science,53.9
+S2030,Term1,Economics,56.6
+S2030,Term1,Biology,59.0
+S2030,Term2,Math,55.8
+S2030,Term2,English,54.6
+S2030,Term2,Science,76.4
+S2030,Term2,History,45.0
+S2030,Term2,Computer Science,67.6
+S2030,Term2,Economics,69.1
+S2030,Term2,Biology,75.6
+S2030,Term3,Math,87.1
+S2030,Term3,English,75.3
+S2030,Term3,Science,83.4
+S2030,Term3,History,78.3
+S2030,Term3,Computer Science,72.4
+S2030,Term3,Economics,85.2
+S2030,Term3,Biology,69.4
+S2031,Term1,Math,53.7
+S2031,Term1,English,66.4
+S2031,Term1,Science,67.0
+S2031,Term1,History,77.3
+S2031,Term1,Computer Science,64.8
+S2031,Term1,Economics,73.2
+S2031,Term1,Biology,63.5
+S2031,Term2,Math,84.2
+S2031,Term2,English,81.8
+S2031,Term2,Science,82.4
+S2031,Term2,History,91.6
+S2031,Term2,Computer Science,84.6
+S2031,Term2,Economics,79.7
+S2031,Term2,Biology,66.6
+S2031,Term3,Math,44.7
+S2031,Term3,English,42.2
+S2031,Term3,Science,53.1
+S2031,Term3,History,44.1
+S2031,Term3,Computer Science,46.9
+S2031,Term3,Economics,57.2
+S2031,Term3,Biology,53.2
+S2032,Term1,Math,77.8
+S2032,Term1,English,69.6
+S2032,Term1,Science,64.8
+S2032,Term1,History,83.9
+S2032,Term1,Computer Science,74.2
+S2032,Term1,Economics,80.4
+S2032,Term1,Biology,86.6
+S2032,Term2,Math,53.5
+S2032,Term2,English,57.9
+S2032,Term2,Science,37.0
+S2032,Term2,History,39.8
+S2032,Term2,Computer Science,49.8
+S2032,Term2,Economics,57.2
+S2032,Term2,Biology,46.2
+S2032,Term3,Math,73.5
+S2032,Term3,English,70.7
+S2032,Term3,Science,78.6
+S2032,Term3,History,71.5
+S2032,Term3,Computer Science,81.0
+S2032,Term3,Economics,89.3
+S2032,Term3,Biology,77.2
+S2033,Term1,Math,54.6
+S2033,Term1,English,78.3
+S2033,Term1,Science,92.6
+S2033,Term1,History,73.5
+S2033,Term1,Computer Science,96.5
+S2033,Term1,Economics,92.2
+S2033,Term1,Biology,83.2
+S2033,Term2,Math,64.0
+S2033,Term2,English,71.4
+S2033,Term2,Science,76.5
+S2033,Term2,History,77.3
+S2033,Term2,Computer Science,69.6
+S2033,Term2,Economics,66.3
+S2033,Term2,Biology,64.7
+S2033,Term3,Math,74.9
+S2033,Term3,English,74.5
+S2033,Term3,Science,73.3
+S2033,Term3,History,55.2
+S2033,Term3,Computer Science,71.0
+S2033,Term3,Economics,83.7
+S2033,Term3,Biology,52.9
+S2034,Term1,Math,61.9
+S2034,Term1,English,62.1
+S2034,Term1,Science,64.1
+S2034,Term1,History,54.9
+S2034,Term1,Computer Science,54.7
+S2034,Term1,Economics,86.8
+S2034,Term1,Biology,59.8
+S2034,Term2,Math,68.1
+S2034,Term2,English,82.6
+S2034,Term2,Science,67.7
+S2034,Term2,History,59.6
+S2034,Term2,Computer Science,71.7
+S2034,Term2,Economics,66.9
+S2034,Term2,Biology,73.5
+S2034,Term3,Math,42.4
+S2034,Term3,English,74.2
+S2034,Term3,Science,64.2
+S2034,Term3,History,54.3
+S2034,Term3,Computer Science,69.0
+S2034,Term3,Economics,62.1
+S2034,Term3,Biology,63.1
+S2035,Term1,Math,67.5
+S2035,Term1,English,55.2
+S2035,Term1,Science,74.6
+S2035,Term1,History,61.1
+S2035,Term1,Computer Science,71.9
+S2035,Term1,Economics,62.4
+S2035,Term1,Biology,62.0
+S2035,Term2,Math,46.1
+S2035,Term2,English,39.0
+S2035,Term2,Science,55.2
+S2035,Term2,History,62.7
+S2035,Term2,Computer Science,49.9
+S2035,Term2,Economics,54.6
+S2035,Term2,Biology,47.2
+S2035,Term3,Math,69.0
+S2035,Term3,English,54.7
+S2035,Term3,Science,41.8
+S2035,Term3,History,58.4
+S2035,Term3,Computer Science,80.3
+S2035,Term3,Economics,50.6
+S2035,Term3,Biology,62.9
+S2036,Term1,Math,67.7
+S2036,Term1,English,78.4
+S2036,Term1,Science,66.9
+S2036,Term1,History,71.8
+S2036,Term1,Computer Science,73.4
+S2036,Term1,Economics,57.6
+S2036,Term1,Biology,67.6
+S2036,Term2,Math,60.5
+S2036,Term2,English,60.7
+S2036,Term2,Science,72.4
+S2036,Term2,History,64.3
+S2036,Term2,Computer Science,60.1
+S2036,Term2,Economics,68.1
+S2036,Term2,Biology,86.4
+S2036,Term3,Math,73.7
+S2036,Term3,English,72.1
+S2036,Term3,Science,71.0
+S2036,Term3,History,68.0
+S2036,Term3,Computer Science,85.9
+S2036,Term3,Economics,53.3
+S2036,Term3,Biology,78.7
+S2037,Term1,Math,56.7
+S2037,Term1,English,72.5
+S2037,Term1,Science,60.9
+S2037,Term1,History,55.8
+S2037,Term1,Computer Science,68.7
+S2037,Term1,Economics,81.8
+S2037,Term1,Biology,65.3
+S2037,Term2,Math,61.7
+S2037,Term2,English,60.9
+S2037,Term2,Science,70.1
+S2037,Term2,History,72.1
+S2037,Term2,Computer Science,72.7
+S2037,Term2,Economics,74.1
+S2037,Term2,Biology,64.7
+S2037,Term3,Math,75.0
+S2037,Term3,English,87.9
+S2037,Term3,Science,89.7
+S2037,Term3,History,95.8
+S2037,Term3,Computer Science,84.1
+S2037,Term3,Economics,100.0
+S2037,Term3,Biology,76.1
+S2038,Term1,Math,58.2
+S2038,Term1,English,75.2
+S2038,Term1,Science,78.4
+S2038,Term1,History,82.5
+S2038,Term1,Computer Science,78.4
+S2038,Term1,Economics,80.9
+S2038,Term1,Biology,71.0
+S2038,Term2,Math,80.2
+S2038,Term2,English,92.0
+S2038,Term2,Science,72.2
+S2038,Term2,History,73.4
+S2038,Term2,Computer Science,66.1
+S2038,Term2,Economics,63.1
+S2038,Term2,Biology,93.3
+S2038,Term3,Math,63.8
+S2038,Term3,English,61.2
+S2038,Term3,Science,72.7
+S2038,Term3,History,67.5
+S2038,Term3,Computer Science,46.3
+S2038,Term3,Economics,61.4
+S2038,Term3,Biology,60.7
+S2039,Term1,Math,85.8
+S2039,Term1,English,95.7
+S2039,Term1,Science,91.2
+S2039,Term1,History,66.2
+S2039,Term1,Computer Science,71.0
+S2039,Term1,Economics,86.0
+S2039,Term1,Biology,83.6
+S2039,Term2,Math,67.2
+S2039,Term2,English,60.3
+S2039,Term2,Science,55.3
+S2039,Term2,History,61.9
+S2039,Term2,Computer Science,51.4
+S2039,Term2,Economics,53.1
+S2039,Term2,Biology,69.1
+S2039,Term3,Math,43.2
+S2039,Term3,English,62.4
+S2039,Term3,Science,43.8
+S2039,Term3,History,55.2
+S2039,Term3,Computer Science,45.3
+S2039,Term3,Economics,42.8
+S2039,Term3,Biology,54.9
+S2040,Term1,Math,78.1
+S2040,Term1,English,63.5
+S2040,Term1,Science,79.8
+S2040,Term1,History,73.4
+S2040,Term1,Computer Science,83.7
+S2040,Term1,Economics,97.5
+S2040,Term1,Biology,85.5
+S2040,Term2,Math,41.7
+S2040,Term2,English,47.3
+S2040,Term2,Science,56.2
+S2040,Term2,History,50.0
+S2040,Term2,Computer Science,60.3
+S2040,Term2,Economics,63.0
+S2040,Term2,Biology,55.8
+S2040,Term3,Math,80.6
+S2040,Term3,English,68.3
+S2040,Term3,Science,64.4
+S2040,Term3,History,72.3
+S2040,Term3,Computer Science,70.2
+S2040,Term3,Economics,60.2
+S2040,Term3,Biology,73.7
+S2041,Term1,Math,52.9
+S2041,Term1,English,62.0
+S2041,Term1,Science,66.3
+S2041,Term1,History,57.3
+S2041,Term1,Computer Science,53.4
+S2041,Term1,Economics,58.3
+S2041,Term1,Biology,58.0
+S2041,Term2,Math,73.2
+S2041,Term2,English,67.1
+S2041,Term2,Science,65.3
+S2041,Term2,History,59.4
+S2041,Term2,Computer Science,53.2
+S2041,Term2,Economics,60.3
+S2041,Term2,Biology,77.3
+S2041,Term3,Math,75.0
+S2041,Term3,English,65.8
+S2041,Term3,Science,95.7
+S2041,Term3,History,69.3
+S2041,Term3,Computer Science,81.1
+S2041,Term3,Economics,79.1
+S2041,Term3,Biology,76.9
+S2042,Term1,Math,67.0
+S2042,Term1,English,69.3
+S2042,Term1,Science,66.9
+S2042,Term1,History,81.3
+S2042,Term1,Computer Science,74.9
+S2042,Term1,Economics,78.5
+S2042,Term1,Biology,71.1
+S2042,Term2,Math,54.2
+S2042,Term2,English,65.8
+S2042,Term2,Science,94.3
+S2042,Term2,History,76.0
+S2042,Term2,Computer Science,57.9
+S2042,Term2,Economics,61.4
+S2042,Term2,Biology,65.0
+S2042,Term3,Math,39.6
+S2042,Term3,English,62.8
+S2042,Term3,Science,21.3
+S2042,Term3,History,52.9
+S2042,Term3,Computer Science,43.2
+S2042,Term3,Economics,43.5
+S2042,Term3,Biology,65.9
+S2043,Term1,Math,54.7
+S2043,Term1,English,55.1
+S2043,Term1,Science,48.1
+S2043,Term1,History,48.3
+S2043,Term1,Computer Science,49.5
+S2043,Term1,Economics,51.2
+S2043,Term1,Biology,54.1
+S2043,Term2,Math,45.1
+S2043,Term2,English,39.9
+S2043,Term2,Science,35.7
+S2043,Term2,History,68.3
+S2043,Term2,Computer Science,47.7
+S2043,Term2,Economics,52.6
+S2043,Term2,Biology,54.3
+S2043,Term3,Math,63.9
+S2043,Term3,English,74.2
+S2043,Term3,Science,44.7
+S2043,Term3,History,70.1
+S2043,Term3,Computer Science,62.7
+S2043,Term3,Economics,78.0
+S2043,Term3,Biology,66.1
+S2044,Term1,Math,44.8
+S2044,Term1,English,66.4
+S2044,Term1,Science,63.1
+S2044,Term1,History,52.2
+S2044,Term1,Computer Science,63.4
+S2044,Term1,Economics,67.8
+S2044,Term1,Biology,60.9
+S2044,Term2,Math,68.5
+S2044,Term2,English,69.1
+S2044,Term2,Science,71.8
+S2044,Term2,History,70.1
+S2044,Term2,Computer Science,69.8
+S2044,Term2,Economics,69.2
+S2044,Term2,Biology,85.8
+S2044,Term3,Math,39.7
+S2044,Term3,English,51.8
+S2044,Term3,Science,46.0
+S2044,Term3,History,46.0
+S2044,Term3,Computer Science,44.4
+S2044,Term3,Economics,60.9
+S2044,Term3,Biology,19.5
+S2045,Term1,Math,84.0
+S2045,Term1,English,63.7
+S2045,Term1,Science,62.3
+S2045,Term1,History,72.8
+S2045,Term1,Computer Science,93.2
+S2045,Term1,Economics,64.3
+S2045,Term1,Biology,52.6
+S2045,Term2,Math,52.2
+S2045,Term2,English,52.1
+S2045,Term2,Science,62.5
+S2045,Term2,History,55.4
+S2045,Term2,Computer Science,65.3
+S2045,Term2,Economics,49.3
+S2045,Term2,Biology,46.1
+S2045,Term3,Math,61.9
+S2045,Term3,English,59.4
+S2045,Term3,Science,59.1
+S2045,Term3,History,57.5
+S2045,Term3,Computer Science,53.2
+S2045,Term3,Economics,46.0
+S2045,Term3,Biology,69.9
+S2046,Term1,Math,80.3
+S2046,Term1,English,70.5
+S2046,Term1,Science,78.3
+S2046,Term1,History,78.4
+S2046,Term1,Computer Science,72.9
+S2046,Term1,Economics,65.5
+S2046,Term1,Biology,61.1
+S2046,Term2,Math,49.6
+S2046,Term2,English,62.6
+S2046,Term2,Science,56.5
+S2046,Term2,History,46.2
+S2046,Term2,Computer Science,56.3
+S2046,Term2,Economics,46.9
+S2046,Term2,Biology,53.1
+S2046,Term3,Math,58.2
+S2046,Term3,English,63.8
+S2046,Term3,Science,68.1
+S2046,Term3,History,68.7
+S2046,Term3,Computer Science,66.8
+S2046,Term3,Economics,68.4
+S2046,Term3,Biology,70.7
+S2047,Term1,Math,51.0
+S2047,Term1,English,48.1
+S2047,Term1,Science,75.8
+S2047,Term1,History,57.7
+S2047,Term1,Computer Science,64.3
+S2047,Term1,Economics,64.1
+S2047,Term1,Biology,68.5
+S2047,Term2,Math,74.8
+S2047,Term2,English,68.9
+S2047,Term2,Science,67.9
+S2047,Term2,History,65.7
+S2047,Term2,Computer Science,64.8
+S2047,Term2,Economics,71.0
+S2047,Term2,Biology,68.6
+S2047,Term3,Math,66.9
+S2047,Term3,English,66.3
+S2047,Term3,Science,92.5
+S2047,Term3,History,81.8
+S2047,Term3,Computer Science,69.9
+S2047,Term3,Economics,75.9
+S2047,Term3,Biology,89.5
+S2048,Term1,Math,58.9
+S2048,Term1,English,71.1
+S2048,Term1,Science,43.3
+S2048,Term1,History,47.0
+S2048,Term1,Computer Science,63.6
+S2048,Term1,Economics,51.0
+S2048,Term1,Biology,47.8
+S2048,Term2,Math,80.9
+S2048,Term2,English,94.0
+S2048,Term2,Science,82.3
+S2048,Term2,History,96.2
+S2048,Term2,Computer Science,89.3
+S2048,Term2,Economics,78.1
+S2048,Term2,Biology,88.9
+S2048,Term3,Math,67.1
+S2048,Term3,English,45.1
+S2048,Term3,Science,49.8
+S2048,Term3,History,44.0
+S2048,Term3,Computer Science,65.4
+S2048,Term3,Economics,54.0
+S2048,Term3,Biology,36.2
+S2049,Term1,Math,78.5
+S2049,Term1,English,68.5
+S2049,Term1,Science,69.6
+S2049,Term1,History,69.6
+S2049,Term1,Computer Science,70.0
+S2049,Term1,Economics,67.4
+S2049,Term1,Biology,76.1
+S2049,Term2,Math,64.8
+S2049,Term2,English,55.5
+S2049,Term2,Science,78.1
+S2049,Term2,History,44.1
+S2049,Term2,Computer Science,60.0
+S2049,Term2,Economics,48.8
+S2049,Term2,Biology,55.3
+S2049,Term3,Math,64.7
+S2049,Term3,English,76.2
+S2049,Term3,Science,77.4
+S2049,Term3,History,67.7
+S2049,Term3,Computer Science,79.6
+S2049,Term3,Economics,58.1
+S2049,Term3,Biology,78.9
+S2050,Term1,Math,58.2
+S2050,Term1,English,53.7
+S2050,Term1,Science,72.3
+S2050,Term1,History,41.2
+S2050,Term1,Computer Science,68.0
+S2050,Term1,Economics,75.2
+S2050,Term1,Biology,64.9
+S2050,Term2,Math,72.4
+S2050,Term2,English,74.3
+S2050,Term2,Science,74.4
+S2050,Term2,History,74.5
+S2050,Term2,Computer Science,63.9
+S2050,Term2,Economics,70.5
+S2050,Term2,Biology,83.3
+S2050,Term3,Math,54.6
+S2050,Term3,English,40.1
+S2050,Term3,Science,55.9
+S2050,Term3,History,42.0
+S2050,Term3,Computer Science,67.3
+S2050,Term3,Economics,52.3
+S2050,Term3,Biology,37.9
+S2051,Term1,Math,83.1
+S2051,Term1,English,60.8
+S2051,Term1,Science,66.4
+S2051,Term1,History,70.7
+S2051,Term1,Computer Science,100.0
+S2051,Term1,Economics,71.2
+S2051,Term1,Biology,79.5
+S2051,Term2,Math,70.8
+S2051,Term2,English,69.1
+S2051,Term2,Science,70.2
+S2051,Term2,History,54.9
+S2051,Term2,Computer Science,60.9
+S2051,Term2,Economics,68.6
+S2051,Term2,Biology,68.4
+S2051,Term3,Math,64.2
+S2051,Term3,English,81.3
+S2051,Term3,Science,69.9
+S2051,Term3,History,62.8
+S2051,Term3,Computer Science,79.9
+S2051,Term3,Economics,74.1
+S2051,Term3,Biology,66.4
+S2052,Term1,Math,77.6
+S2052,Term1,English,52.7
+S2052,Term1,Science,72.5
+S2052,Term1,History,74.1
+S2052,Term1,Computer Science,78.9
+S2052,Term1,Economics,79.9
+S2052,Term1,Biology,76.2
+S2052,Term2,Math,67.3
+S2052,Term2,English,63.8
+S2052,Term2,Science,52.7
+S2052,Term2,History,70.4
+S2052,Term2,Computer Science,77.4
+S2052,Term2,Economics,51.8
+S2052,Term2,Biology,73.0
+S2052,Term3,Math,62.5
+S2052,Term3,English,74.4
+S2052,Term3,Science,66.4
+S2052,Term3,History,54.8
+S2052,Term3,Computer Science,56.8
+S2052,Term3,Economics,62.4
+S2052,Term3,Biology,63.5
+S2053,Term1,Math,49.1
+S2053,Term1,English,69.3
+S2053,Term1,Science,42.6
+S2053,Term1,History,46.2
+S2053,Term1,Computer Science,45.5
+S2053,Term1,Economics,45.7
+S2053,Term1,Biology,58.8
+S2053,Term2,Math,54.1
+S2053,Term2,English,70.1
+S2053,Term2,Science,52.7
+S2053,Term2,History,67.6
+S2053,Term2,Computer Science,59.7
+S2053,Term2,Economics,55.0
+S2053,Term2,Biology,62.3
+S2053,Term3,Math,72.6
+S2053,Term3,English,58.7
+S2053,Term3,Science,81.3
+S2053,Term3,History,66.4
+S2053,Term3,Computer Science,65.7
+S2053,Term3,Economics,69.5
+S2053,Term3,Biology,69.5
+S2054,Term1,Math,66.4
+S2054,Term1,English,71.8
+S2054,Term1,Science,68.1
+S2054,Term1,History,70.5
+S2054,Term1,Computer Science,78.2
+S2054,Term1,Economics,65.8
+S2054,Term1,Biology,69.4
+S2054,Term2,Math,66.9
+S2054,Term2,English,59.0
+S2054,Term2,Science,57.3
+S2054,Term2,History,61.6
+S2054,Term2,Computer Science,82.3
+S2054,Term2,Economics,67.2
+S2054,Term2,Biology,73.4
+S2054,Term3,Math,72.6
+S2054,Term3,English,67.8
+S2054,Term3,Science,63.2
+S2054,Term3,History,71.4
+S2054,Term3,Computer Science,73.5
+S2054,Term3,Economics,68.9
+S2054,Term3,Biology,62.7
+S2055,Term1,Math,82.9
+S2055,Term1,English,72.4
+S2055,Term1,Science,83.5
+S2055,Term1,History,74.1
+S2055,Term1,Computer Science,76.9
+S2055,Term1,Economics,70.3
+S2055,Term1,Biology,57.0
+S2055,Term2,Math,58.2
+S2055,Term2,English,60.6
+S2055,Term2,Science,65.9
+S2055,Term2,History,70.1
+S2055,Term2,Computer Science,70.8
+S2055,Term2,Economics,66.1
+S2055,Term2,Biology,53.7
+S2055,Term3,Math,78.5
+S2055,Term3,English,40.8
+S2055,Term3,Science,63.1
+S2055,Term3,History,56.9
+S2055,Term3,Computer Science,58.9
+S2055,Term3,Economics,39.3
+S2055,Term3,Biology,49.0
+S2056,Term1,Math,81.6
+S2056,Term1,English,72.9
+S2056,Term1,Science,72.0
+S2056,Term1,History,85.6
+S2056,Term1,Computer Science,66.0
+S2056,Term1,Economics,67.5
+S2056,Term1,Biology,59.7
+S2056,Term2,Math,73.3
+S2056,Term2,English,57.5
+S2056,Term2,Science,49.1
+S2056,Term2,History,58.7
+S2056,Term2,Computer Science,75.2
+S2056,Term2,Economics,52.0
+S2056,Term2,Biology,82.8
+S2056,Term3,Math,56.6
+S2056,Term3,English,43.8
+S2056,Term3,Science,30.2
+S2056,Term3,History,51.8
+S2056,Term3,Computer Science,44.7
+S2056,Term3,Economics,42.1
+S2056,Term3,Biology,43.0
+S2057,Term1,Math,62.1
+S2057,Term1,English,62.5
+S2057,Term1,Science,49.5
+S2057,Term1,History,59.3
+S2057,Term1,Computer Science,62.5
+S2057,Term1,Economics,74.8
+S2057,Term1,Biology,76.1
+S2057,Term2,Math,69.9
+S2057,Term2,English,82.4
+S2057,Term2,Science,55.7
+S2057,Term2,History,61.5
+S2057,Term2,Computer Science,78.4
+S2057,Term2,Economics,66.5
+S2057,Term2,Biology,75.7
+S2057,Term3,Math,41.8
+S2057,Term3,English,43.4
+S2057,Term3,Science,40.0
+S2057,Term3,History,30.5
+S2057,Term3,Computer Science,38.6
+S2057,Term3,Economics,22.5
+S2057,Term3,Biology,56.3
+S2058,Term1,Math,65.4
+S2058,Term1,English,76.3
+S2058,Term1,Science,68.3
+S2058,Term1,History,75.5
+S2058,Term1,Computer Science,83.0
+S2058,Term1,Economics,75.3
+S2058,Term1,Biology,80.4
+S2058,Term2,Math,67.6
+S2058,Term2,English,50.8
+S2058,Term2,Science,61.3
+S2058,Term2,History,59.7
+S2058,Term2,Computer Science,71.8
+S2058,Term2,Economics,64.7
+S2058,Term2,Biology,55.4
+S2058,Term3,Math,75.4
+S2058,Term3,English,71.8
+S2058,Term3,Science,77.0
+S2058,Term3,History,77.6
+S2058,Term3,Computer Science,79.4
+S2058,Term3,Economics,93.3
+S2058,Term3,Biology,82.0
+S2059,Term1,Math,76.3
+S2059,Term1,English,78.7
+S2059,Term1,Science,61.7
+S2059,Term1,History,68.3
+S2059,Term1,Computer Science,64.5
+S2059,Term1,Economics,67.1
+S2059,Term1,Biology,80.8
+S2059,Term2,Math,62.4
+S2059,Term2,English,47.8
+S2059,Term2,Science,53.0
+S2059,Term2,History,52.5
+S2059,Term2,Computer Science,62.4
+S2059,Term2,Economics,54.2
+S2059,Term2,Biology,63.6
+S2059,Term3,Math,57.8
+S2059,Term3,English,76.1
+S2059,Term3,Science,62.1
+S2059,Term3,History,66.9
+S2059,Term3,Computer Science,80.9
+S2059,Term3,Economics,62.0
+S2059,Term3,Biology,81.3
+S2060,Term1,Math,89.3
+S2060,Term1,English,75.0
+S2060,Term1,Science,74.2
+S2060,Term1,History,66.2
+S2060,Term1,Computer Science,68.6
+S2060,Term1,Economics,79.0
+S2060,Term1,Biology,66.2
+S2060,Term2,Math,53.6
+S2060,Term2,English,42.6
+S2060,Term2,Science,47.8
+S2060,Term2,History,51.6
+S2060,Term2,Computer Science,51.9
+S2060,Term2,Economics,58.8
+S2060,Term2,Biology,37.1
+S2060,Term3,Math,88.6
+S2060,Term3,English,89.7
+S2060,Term3,Science,72.5
+S2060,Term3,History,91.1
+S2060,Term3,Computer Science,84.0
+S2060,Term3,Economics,79.5
+S2060,Term3,Biology,59.3
+S2061,Term1,Math,53.8
+S2061,Term1,English,61.9
+S2061,Term1,Science,81.6
+S2061,Term1,History,59.0
+S2061,Term1,Computer Science,58.1
+S2061,Term1,Economics,56.7
+S2061,Term1,Biology,62.5
+S2061,Term2,Math,75.2
+S2061,Term2,English,70.8
+S2061,Term2,Science,74.3
+S2061,Term2,History,69.0
+S2061,Term2,Computer Science,68.9
+S2061,Term2,Economics,66.9
+S2061,Term2,Biology,61.2
+S2061,Term3,Math,59.2
+S2061,Term3,English,65.7
+S2061,Term3,Science,60.5
+S2061,Term3,History,49.0
+S2061,Term3,Computer Science,57.4
+S2061,Term3,Economics,48.7
+S2061,Term3,Biology,61.8
+S2062,Term1,Math,65.4
+S2062,Term1,English,67.0
+S2062,Term1,Science,72.1
+S2062,Term1,History,60.9
+S2062,Term1,Computer Science,73.6
+S2062,Term1,Economics,84.5
+S2062,Term1,Biology,66.2
+S2062,Term2,Math,40.3
+S2062,Term2,English,46.5
+S2062,Term2,Science,41.7
+S2062,Term2,History,51.6
+S2062,Term2,Computer Science,61.1
+S2062,Term2,Economics,52.1
+S2062,Term2,Biology,33.4
+S2062,Term3,Math,65.2
+S2062,Term3,English,56.2
+S2062,Term3,Science,79.0
+S2062,Term3,History,69.6
+S2062,Term3,Computer Science,47.1
+S2062,Term3,Economics,71.0
+S2062,Term3,Biology,59.2
+S2063,Term1,Math,82.6
+S2063,Term1,English,69.6
+S2063,Term1,Science,51.1
+S2063,Term1,History,58.6
+S2063,Term1,Computer Science,54.1
+S2063,Term1,Economics,52.9
+S2063,Term1,Biology,55.3
+S2063,Term2,Math,54.0
+S2063,Term2,English,70.1
+S2063,Term2,Science,51.7
+S2063,Term2,History,68.0
+S2063,Term2,Computer Science,56.0
+S2063,Term2,Economics,52.6
+S2063,Term2,Biology,65.5
+S2063,Term3,Math,51.5
+S2063,Term3,English,73.9
+S2063,Term3,Science,63.0
+S2063,Term3,History,48.9
+S2063,Term3,Computer Science,54.5
+S2063,Term3,Economics,52.8
+S2063,Term3,Biology,61.6
+S2064,Term1,Math,29.3
+S2064,Term1,English,22.5
+S2064,Term1,Science,36.4
+S2064,Term1,History,45.1
+S2064,Term1,Computer Science,45.3
+S2064,Term1,Economics,40.2
+S2064,Term1,Biology,47.5
+S2064,Term2,Math,100.0
+S2064,Term2,English,99.1
+S2064,Term2,Science,94.4
+S2064,Term2,History,98.4
+S2064,Term2,Computer Science,97.9
+S2064,Term2,Economics,87.3
+S2064,Term2,Biology,100.0
+S2064,Term3,Math,55.2
+S2064,Term3,English,68.2
+S2064,Term3,Science,65.6
+S2064,Term3,History,63.1
+S2064,Term3,Computer Science,59.1
+S2064,Term3,Economics,61.1
+S2064,Term3,Biology,60.1
+S2065,Term1,Math,68.8
+S2065,Term1,English,81.7
+S2065,Term1,Science,67.4
+S2065,Term1,History,71.6
+S2065,Term1,Computer Science,82.8
+S2065,Term1,Economics,63.3
+S2065,Term1,Biology,57.8
+S2065,Term2,Math,78.2
+S2065,Term2,English,76.8
+S2065,Term2,Science,71.1
+S2065,Term2,History,61.5
+S2065,Term2,Computer Science,78.1
+S2065,Term2,Economics,81.8
+S2065,Term2,Biology,73.5
+S2065,Term3,Math,84.3
+S2065,Term3,English,78.2
+S2065,Term3,Science,74.3
+S2065,Term3,History,71.9
+S2065,Term3,Computer Science,85.3
+S2065,Term3,Economics,79.3
+S2065,Term3,Biology,77.4
+S2066,Term1,Math,34.7
+S2066,Term1,English,61.1
+S2066,Term1,Science,56.4
+S2066,Term1,History,46.8
+S2066,Term1,Computer Science,48.8
+S2066,Term1,Economics,56.8
+S2066,Term1,Biology,33.8
+S2066,Term2,Math,55.7
+S2066,Term2,English,70.2
+S2066,Term2,Science,66.3
+S2066,Term2,History,54.0
+S2066,Term2,Computer Science,52.2
+S2066,Term2,Economics,46.5
+S2066,Term2,Biology,55.5
+S2066,Term3,Math,39.2
+S2066,Term3,English,57.9
+S2066,Term3,Science,44.5
+S2066,Term3,History,48.4
+S2066,Term3,Computer Science,43.3
+S2066,Term3,Economics,40.9
+S2066,Term3,Biology,35.7
+S2067,Term1,Math,46.6
+S2067,Term1,English,78.0
+S2067,Term1,Science,76.5
+S2067,Term1,History,83.0
+S2067,Term1,Computer Science,64.8
+S2067,Term1,Economics,79.7
+S2067,Term1,Biology,73.6
+S2067,Term2,Math,41.1
+S2067,Term2,English,36.7
+S2067,Term2,Science,39.2
+S2067,Term2,History,33.1
+S2067,Term2,Computer Science,44.2
+S2067,Term2,Economics,36.1
+S2067,Term2,Biology,46.7
+S2067,Term3,Math,46.4
+S2067,Term3,English,55.8
+S2067,Term3,Science,33.3
+S2067,Term3,History,37.1
+S2067,Term3,Computer Science,44.6
+S2067,Term3,Economics,43.9
+S2067,Term3,Biology,36.5
+S2068,Term1,Math,66.1
+S2068,Term1,English,53.9
+S2068,Term1,Science,83.5
+S2068,Term1,History,70.1
+S2068,Term1,Computer Science,60.8
+S2068,Term1,Economics,76.6
+S2068,Term1,Biology,68.8
+S2068,Term2,Math,90.7
+S2068,Term2,English,82.1
+S2068,Term2,Science,89.1
+S2068,Term2,History,66.4
+S2068,Term2,Computer Science,84.9
+S2068,Term2,Economics,92.7
+S2068,Term2,Biology,76.5
+S2068,Term3,Math,49.1
+S2068,Term3,English,41.6
+S2068,Term3,Science,60.3
+S2068,Term3,History,48.1
+S2068,Term3,Computer Science,43.5
+S2068,Term3,Economics,63.4
+S2068,Term3,Biology,45.3
+S2069,Term1,Math,68.0
+S2069,Term1,English,55.5
+S2069,Term1,Science,61.7
+S2069,Term1,History,57.7
+S2069,Term1,Computer Science,72.2
+S2069,Term1,Economics,61.8
+S2069,Term1,Biology,86.1
+S2069,Term2,Math,61.6
+S2069,Term2,English,57.6
+S2069,Term2,Science,47.8
+S2069,Term2,History,66.0
+S2069,Term2,Computer Science,57.8
+S2069,Term2,Economics,46.2
+S2069,Term2,Biology,66.5
+S2069,Term3,Math,65.1
+S2069,Term3,English,69.2
+S2069,Term3,Science,55.8
+S2069,Term3,History,64.2
+S2069,Term3,Computer Science,74.9
+S2069,Term3,Economics,60.9
+S2069,Term3,Biology,61.8
+S2070,Term1,Math,48.7
+S2070,Term1,English,63.6
+S2070,Term1,Science,57.0
+S2070,Term1,History,84.5
+S2070,Term1,Computer Science,69.8
+S2070,Term1,Economics,71.6
+S2070,Term1,Biology,61.4
+S2070,Term2,Math,47.2
+S2070,Term2,English,43.8
+S2070,Term2,Science,48.6
+S2070,Term2,History,48.4
+S2070,Term2,Computer Science,37.5
+S2070,Term2,Economics,37.6
+S2070,Term2,Biology,55.5
+S2070,Term3,Math,68.0
+S2070,Term3,English,67.2
+S2070,Term3,Science,70.5
+S2070,Term3,History,85.5
+S2070,Term3,Computer Science,78.8
+S2070,Term3,Economics,95.9
+S2070,Term3,Biology,60.0
+S2071,Term1,Math,34.0
+S2071,Term1,English,48.2
+S2071,Term1,Science,50.3
+S2071,Term1,History,57.3
+S2071,Term1,Computer Science,37.0
+S2071,Term1,Economics,49.8
+S2071,Term1,Biology,53.4
+S2071,Term2,Math,85.5
+S2071,Term2,English,88.8
+S2071,Term2,Science,70.7
+S2071,Term2,History,68.9
+S2071,Term2,Computer Science,71.3
+S2071,Term2,Economics,90.8
+S2071,Term2,Biology,81.9
+S2071,Term3,Math,61.7
+S2071,Term3,English,57.9
+S2071,Term3,Science,37.2
+S2071,Term3,History,66.1
+S2071,Term3,Computer Science,51.5
+S2071,Term3,Economics,49.1
+S2071,Term3,Biology,63.4
+S2072,Term1,Math,63.2
+S2072,Term1,English,68.0
+S2072,Term1,Science,71.7
+S2072,Term1,History,64.0
+S2072,Term1,Computer Science,62.5
+S2072,Term1,Economics,71.4
+S2072,Term1,Biology,72.3
+S2072,Term2,Math,57.3
+S2072,Term2,English,82.7
+S2072,Term2,Science,65.9
+S2072,Term2,History,72.2
+S2072,Term2,Computer Science,84.7
+S2072,Term2,Economics,59.9
+S2072,Term2,Biology,72.6
+S2072,Term3,Math,66.4
+S2072,Term3,English,58.4
+S2072,Term3,Science,77.6
+S2072,Term3,History,64.0
+S2072,Term3,Computer Science,58.2
+S2072,Term3,Economics,45.7
+S2072,Term3,Biology,53.9
+S2073,Term1,Math,77.0
+S2073,Term1,English,75.2
+S2073,Term1,Science,65.8
+S2073,Term1,History,87.8
+S2073,Term1,Computer Science,66.6
+S2073,Term1,Economics,79.2
+S2073,Term1,Biology,84.5
+S2073,Term2,Math,66.4
+S2073,Term2,English,73.1
+S2073,Term2,Science,76.9
+S2073,Term2,History,83.9
+S2073,Term2,Computer Science,58.9
+S2073,Term2,Economics,86.9
+S2073,Term2,Biology,61.4
+S2073,Term3,Math,61.1
+S2073,Term3,English,92.2
+S2073,Term3,Science,62.7
+S2073,Term3,History,65.0
+S2073,Term3,Computer Science,77.4
+S2073,Term3,Economics,64.4
+S2073,Term3,Biology,71.5
+S2074,Term1,Math,80.7
+S2074,Term1,English,87.6
+S2074,Term1,Science,57.8
+S2074,Term1,History,77.6
+S2074,Term1,Computer Science,87.0
+S2074,Term1,Economics,65.0
+S2074,Term1,Biology,71.3
+S2074,Term2,Math,92.9
+S2074,Term2,English,82.9
+S2074,Term2,Science,76.5
+S2074,Term2,History,83.6
+S2074,Term2,Computer Science,77.6
+S2074,Term2,Economics,64.6
+S2074,Term2,Biology,75.3
+S2074,Term3,Math,32.4
+S2074,Term3,English,42.4
+S2074,Term3,Science,57.1
+S2074,Term3,History,57.4
+S2074,Term3,Computer Science,53.4
+S2074,Term3,Economics,60.3
+S2074,Term3,Biology,47.2
+S2075,Term1,Math,45.9
+S2075,Term1,English,51.0
+S2075,Term1,Science,72.9
+S2075,Term1,History,63.8
+S2075,Term1,Computer Science,54.7
+S2075,Term1,Economics,52.1
+S2075,Term1,Biology,59.3
+S2075,Term2,Math,45.4
+S2075,Term2,English,64.7
+S2075,Term2,Science,47.7
+S2075,Term2,History,73.4
+S2075,Term2,Computer Science,51.5
+S2075,Term2,Economics,53.1
+S2075,Term2,Biology,52.3
+S2075,Term3,Math,43.4
+S2075,Term3,English,55.2
+S2075,Term3,Science,33.8
+S2075,Term3,History,41.0
+S2075,Term3,Computer Science,36.3
+S2075,Term3,Economics,44.7
+S2075,Term3,Biology,30.2
+S2076,Term1,Math,62.0
+S2076,Term1,English,46.4
+S2076,Term1,Science,65.2
+S2076,Term1,History,68.0
+S2076,Term1,Computer Science,67.1
+S2076,Term1,Economics,68.5
+S2076,Term1,Biology,76.7
+S2076,Term2,Math,66.0
+S2076,Term2,English,71.1
+S2076,Term2,Science,69.6
+S2076,Term2,History,87.2
+S2076,Term2,Computer Science,67.5
+S2076,Term2,Economics,67.0
+S2076,Term2,Biology,69.0
+S2076,Term3,Math,54.2
+S2076,Term3,English,34.5
+S2076,Term3,Science,77.1
+S2076,Term3,History,58.9
+S2076,Term3,Computer Science,69.1
+S2076,Term3,Economics,69.1
+S2076,Term3,Biology,65.7
+S2077,Term1,Math,51.0
+S2077,Term1,English,48.1
+S2077,Term1,Science,50.6
+S2077,Term1,History,43.4
+S2077,Term1,Computer Science,38.5
+S2077,Term1,Economics,38.7
+S2077,Term1,Biology,67.3
+S2077,Term2,Math,48.7
+S2077,Term2,English,53.6
+S2077,Term2,Science,72.2
+S2077,Term2,History,57.2
+S2077,Term2,Computer Science,53.0
+S2077,Term2,Economics,65.1
+S2077,Term2,Biology,63.9
+S2077,Term3,Math,87.2
+S2077,Term3,English,80.8
+S2077,Term3,Science,84.1
+S2077,Term3,History,84.9
+S2077,Term3,Computer Science,71.4
+S2077,Term3,Economics,85.2
+S2077,Term3,Biology,82.1
+S2078,Term1,Math,87.4
+S2078,Term1,English,73.7
+S2078,Term1,Science,72.7
+S2078,Term1,History,89.1
+S2078,Term1,Computer Science,72.4
+S2078,Term1,Economics,59.5
+S2078,Term1,Biology,79.1
+S2078,Term2,Math,69.0
+S2078,Term2,English,37.5
+S2078,Term2,Science,74.1
+S2078,Term2,History,42.9
+S2078,Term2,Computer Science,74.4
+S2078,Term2,Economics,49.5
+S2078,Term2,Biology,51.8
+S2078,Term3,Math,81.1
+S2078,Term3,English,75.0
+S2078,Term3,Science,75.1
+S2078,Term3,History,65.3
+S2078,Term3,Computer Science,63.9
+S2078,Term3,Economics,64.8
+S2078,Term3,Biology,63.6
+S2079,Term1,Math,68.2
+S2079,Term1,English,53.8
+S2079,Term1,Science,59.6
+S2079,Term1,History,65.5
+S2079,Term1,Computer Science,68.9
+S2079,Term1,Economics,74.2
+S2079,Term1,Biology,72.8
+S2079,Term2,Math,69.8
+S2079,Term2,English,52.6
+S2079,Term2,Science,56.5
+S2079,Term2,History,52.9
+S2079,Term2,Computer Science,74.8
+S2079,Term2,Economics,82.7
+S2079,Term2,Biology,57.7
+S2079,Term3,Math,41.9
+S2079,Term3,English,53.9
+S2079,Term3,Science,61.2
+S2079,Term3,History,49.4
+S2079,Term3,Computer Science,66.3
+S2079,Term3,Economics,56.2
+S2079,Term3,Biology,51.6
+S2080,Term1,Math,70.3
+S2080,Term1,English,63.0
+S2080,Term1,Science,47.4
+S2080,Term1,History,50.3
+S2080,Term1,Computer Science,55.4
+S2080,Term1,Economics,55.8
+S2080,Term1,Biology,63.9
+S2080,Term2,Math,66.1
+S2080,Term2,English,84.3
+S2080,Term2,Science,69.7
+S2080,Term2,History,64.8
+S2080,Term2,Computer Science,72.4
+S2080,Term2,Economics,75.1
+S2080,Term2,Biology,61.1
+S2080,Term3,Math,66.5
+S2080,Term3,English,77.3
+S2080,Term3,Science,69.3
+S2080,Term3,History,71.5
+S2080,Term3,Computer Science,68.8
+S2080,Term3,Economics,62.3
+S2080,Term3,Biology,64.3
+S2081,Term1,Math,56.6
+S2081,Term1,English,53.5
+S2081,Term1,Science,59.9
+S2081,Term1,History,49.0
+S2081,Term1,Computer Science,57.4
+S2081,Term1,Economics,37.2
+S2081,Term1,Biology,72.2
+S2081,Term2,Math,61.5
+S2081,Term2,English,72.2
+S2081,Term2,Science,62.2
+S2081,Term2,History,62.6
+S2081,Term2,Computer Science,71.0
+S2081,Term2,Economics,55.7
+S2081,Term2,Biology,64.2
+S2081,Term3,Math,64.8
+S2081,Term3,English,69.8
+S2081,Term3,Science,58.1
+S2081,Term3,History,76.3
+S2081,Term3,Computer Science,61.3
+S2081,Term3,Economics,77.8
+S2081,Term3,Biology,69.6
+S2082,Term1,Math,83.4
+S2082,Term1,English,81.5
+S2082,Term1,Science,64.5
+S2082,Term1,History,79.1
+S2082,Term1,Computer Science,78.0
+S2082,Term1,Economics,68.8
+S2082,Term1,Biology,65.9
+S2082,Term2,Math,76.8
+S2082,Term2,English,70.1
+S2082,Term2,Science,51.8
+S2082,Term2,History,52.1
+S2082,Term2,Computer Science,70.9
+S2082,Term2,Economics,99.5
+S2082,Term2,Biology,66.5
+S2082,Term3,Math,68.7
+S2082,Term3,English,62.8
+S2082,Term3,Science,81.3
+S2082,Term3,History,69.6
+S2082,Term3,Computer Science,72.6
+S2082,Term3,Economics,55.5
+S2082,Term3,Biology,81.9
+S2083,Term1,Math,60.7
+S2083,Term1,English,51.5
+S2083,Term1,Science,65.1
+S2083,Term1,History,66.4
+S2083,Term1,Computer Science,58.3
+S2083,Term1,Economics,56.5
+S2083,Term1,Biology,57.7
+S2083,Term2,Math,70.5
+S2083,Term2,English,51.8
+S2083,Term2,Science,52.1
+S2083,Term2,History,69.5
+S2083,Term2,Computer Science,61.6
+S2083,Term2,Economics,52.6
+S2083,Term2,Biology,64.2
+S2083,Term3,Math,71.7
+S2083,Term3,English,63.4
+S2083,Term3,Science,65.2
+S2083,Term3,History,56.0
+S2083,Term3,Computer Science,61.9
+S2083,Term3,Economics,48.0
+S2083,Term3,Biology,56.2
+S2084,Term1,Math,53.8
+S2084,Term1,English,62.5
+S2084,Term1,Science,63.8
+S2084,Term1,History,61.4
+S2084,Term1,Computer Science,73.4
+S2084,Term1,Economics,63.9
+S2084,Term1,Biology,62.6
+S2084,Term2,Math,62.8
+S2084,Term2,English,49.6
+S2084,Term2,Science,43.4
+S2084,Term2,History,58.2
+S2084,Term2,Computer Science,62.3
+S2084,Term2,Economics,46.1
+S2084,Term2,Biology,70.9
+S2084,Term3,Math,49.9
+S2084,Term3,English,45.3
+S2084,Term3,Science,44.8
+S2084,Term3,History,51.4
+S2084,Term3,Computer Science,47.1
+S2084,Term3,Economics,55.8
+S2084,Term3,Biology,50.4
+S2085,Term1,Math,75.9
+S2085,Term1,English,85.3
+S2085,Term1,Science,71.7
+S2085,Term1,History,69.5
+S2085,Term1,Computer Science,69.7
+S2085,Term1,Economics,84.7
+S2085,Term1,Biology,70.4
+S2085,Term2,Math,63.8
+S2085,Term2,English,66.2
+S2085,Term2,Science,70.9
+S2085,Term2,History,55.8
+S2085,Term2,Computer Science,48.9
+S2085,Term2,Economics,71.2
+S2085,Term2,Biology,51.5
+S2085,Term3,Math,62.6
+S2085,Term3,English,59.0
+S2085,Term3,Science,55.4
+S2085,Term3,History,61.7
+S2085,Term3,Computer Science,56.2
+S2085,Term3,Economics,78.0
+S2085,Term3,Biology,72.0
+S2086,Term1,Math,42.9
+S2086,Term1,English,39.3
+S2086,Term1,Science,63.5
+S2086,Term1,History,39.8
+S2086,Term1,Computer Science,52.7
+S2086,Term1,Economics,37.0
+S2086,Term1,Biology,47.0
+S2086,Term2,Math,60.3
+S2086,Term2,English,77.7
+S2086,Term2,Science,77.8
+S2086,Term2,History,51.9
+S2086,Term2,Computer Science,76.8
+S2086,Term2,Economics,81.6
+S2086,Term2,Biology,75.1
+S2086,Term3,Math,72.3
+S2086,Term3,English,68.6
+S2086,Term3,Science,68.8
+S2086,Term3,History,58.5
+S2086,Term3,Computer Science,45.2
+S2086,Term3,Economics,68.4
+S2086,Term3,Biology,44.1
+S2087,Term1,Math,68.1
+S2087,Term1,English,67.4
+S2087,Term1,Science,73.3
+S2087,Term1,History,49.8
+S2087,Term1,Computer Science,60.3
+S2087,Term1,Economics,71.6
+S2087,Term1,Biology,60.7
+S2087,Term2,Math,84.9
+S2087,Term2,English,75.2
+S2087,Term2,Science,83.3
+S2087,Term2,History,63.6
+S2087,Term2,Computer Science,71.7
+S2087,Term2,Economics,71.9
+S2087,Term2,Biology,58.9
+S2087,Term3,Math,79.7
+S2087,Term3,English,62.8
+S2087,Term3,Science,69.5
+S2087,Term3,History,87.4
+S2087,Term3,Computer Science,66.9
+S2087,Term3,Economics,71.8
+S2087,Term3,Biology,80.1
+S2088,Term1,Math,65.6
+S2088,Term1,English,55.9
+S2088,Term1,Science,61.6
+S2088,Term1,History,66.2
+S2088,Term1,Computer Science,59.7
+S2088,Term1,Economics,56.1
+S2088,Term1,Biology,60.9
+S2088,Term2,Math,80.5
+S2088,Term2,English,60.8
+S2088,Term2,Science,85.5
+S2088,Term2,History,70.5
+S2088,Term2,Computer Science,51.2
+S2088,Term2,Economics,64.7
+S2088,Term2,Biology,68.4
+S2088,Term3,Math,30.4
+S2088,Term3,English,34.6
+S2088,Term3,Science,31.6
+S2088,Term3,History,60.0
+S2088,Term3,Computer Science,42.6
+S2088,Term3,Economics,48.1
+S2088,Term3,Biology,39.1
+S2089,Term1,Math,55.1
+S2089,Term1,English,74.0
+S2089,Term1,Science,59.8
+S2089,Term1,History,68.6
+S2089,Term1,Computer Science,66.0
+S2089,Term1,Economics,74.6
+S2089,Term1,Biology,68.2
+S2089,Term2,Math,66.2
+S2089,Term2,English,84.4
+S2089,Term2,Science,79.2
+S2089,Term2,History,98.4
+S2089,Term2,Computer Science,96.8
+S2089,Term2,Economics,71.8
+S2089,Term2,Biology,68.9
+S2089,Term3,Math,74.9
+S2089,Term3,English,69.0
+S2089,Term3,Science,81.5
+S2089,Term3,History,70.5
+S2089,Term3,Computer Science,75.0
+S2089,Term3,Economics,99.9
+S2089,Term3,Biology,77.3
+S2090,Term1,Math,62.0
+S2090,Term1,English,50.2
+S2090,Term1,Science,70.1
+S2090,Term1,History,67.1
+S2090,Term1,Computer Science,62.7
+S2090,Term1,Economics,51.1
+S2090,Term1,Biology,51.0
+S2090,Term2,Math,61.8
+S2090,Term2,English,62.3
+S2090,Term2,Science,55.3
+S2090,Term2,History,51.4
+S2090,Term2,Computer Science,57.8
+S2090,Term2,Economics,41.2
+S2090,Term2,Biology,54.7
+S2090,Term3,Math,82.0
+S2090,Term3,English,74.2
+S2090,Term3,Science,77.3
+S2090,Term3,History,80.8
+S2090,Term3,Computer Science,61.0
+S2090,Term3,Economics,76.1
+S2090,Term3,Biology,82.1
+S2091,Term1,Math,52.3
+S2091,Term1,English,54.7
+S2091,Term1,Science,42.4
+S2091,Term1,History,67.2
+S2091,Term1,Computer Science,56.4
+S2091,Term1,Economics,64.4
+S2091,Term1,Biology,55.7
+S2091,Term2,Math,85.8
+S2091,Term2,English,83.4
+S2091,Term2,Science,73.0
+S2091,Term2,History,65.3
+S2091,Term2,Computer Science,67.4
+S2091,Term2,Economics,83.6
+S2091,Term2,Biology,79.8
+S2091,Term3,Math,64.9
+S2091,Term3,English,64.4
+S2091,Term3,Science,53.1
+S2091,Term3,History,68.5
+S2091,Term3,Computer Science,50.5
+S2091,Term3,Economics,56.5
+S2091,Term3,Biology,57.6
+S2092,Term1,Math,80.8
+S2092,Term1,English,60.3
+S2092,Term1,Science,63.8
+S2092,Term1,History,66.7
+S2092,Term1,Computer Science,71.7
+S2092,Term1,Economics,76.4
+S2092,Term1,Biology,76.1
+S2092,Term2,Math,61.1
+S2092,Term2,English,60.9
+S2092,Term2,Science,66.7
+S2092,Term2,History,47.1
+S2092,Term2,Computer Science,67.4
+S2092,Term2,Economics,59.7
+S2092,Term2,Biology,61.1
+S2092,Term3,Math,45.1
+S2092,Term3,English,44.3
+S2092,Term3,Science,51.5
+S2092,Term3,History,65.3
+S2092,Term3,Computer Science,50.4
+S2092,Term3,Economics,40.8
+S2092,Term3,Biology,43.4
+S2093,Term1,Math,72.3
+S2093,Term1,English,66.4
+S2093,Term1,Science,72.3
+S2093,Term1,History,54.3
+S2093,Term1,Computer Science,55.1
+S2093,Term1,Economics,60.5
+S2093,Term1,Biology,61.1
+S2093,Term2,Math,55.2
+S2093,Term2,English,64.4
+S2093,Term2,Science,68.9
+S2093,Term2,History,49.2
+S2093,Term2,Computer Science,60.9
+S2093,Term2,Economics,71.7
+S2093,Term2,Biology,60.4
+S2093,Term3,Math,74.2
+S2093,Term3,English,57.5
+S2093,Term3,Science,67.8
+S2093,Term3,History,80.0
+S2093,Term3,Computer Science,69.2
+S2093,Term3,Economics,81.4
+S2093,Term3,Biology,71.8
+S2094,Term1,Math,49.8
+S2094,Term1,English,38.8
+S2094,Term1,Science,56.1
+S2094,Term1,History,59.5
+S2094,Term1,Computer Science,34.2
+S2094,Term1,Economics,48.1
+S2094,Term1,Biology,52.3
+S2094,Term2,Math,67.8
+S2094,Term2,English,51.1
+S2094,Term2,Science,55.6
+S2094,Term2,History,41.7
+S2094,Term2,Computer Science,58.8
+S2094,Term2,Economics,57.6
+S2094,Term2,Biology,42.1
+S2094,Term3,Math,79.9
+S2094,Term3,English,73.3
+S2094,Term3,Science,79.3
+S2094,Term3,History,58.0
+S2094,Term3,Computer Science,77.6
+S2094,Term3,Economics,62.0
+S2094,Term3,Biology,54.5
+S2095,Term1,Math,53.9
+S2095,Term1,English,66.6
+S2095,Term1,Science,60.3
+S2095,Term1,History,76.4
+S2095,Term1,Computer Science,62.5
+S2095,Term1,Economics,63.6
+S2095,Term1,Biology,74.9
+S2095,Term2,Math,56.5
+S2095,Term2,English,78.9
+S2095,Term2,Science,55.5
+S2095,Term2,History,62.7
+S2095,Term2,Computer Science,63.5
+S2095,Term2,Economics,56.8
+S2095,Term2,Biology,62.4
+S2095,Term3,Math,52.4
+S2095,Term3,English,44.5
+S2095,Term3,Science,35.2
+S2095,Term3,History,54.1
+S2095,Term3,Computer Science,55.4
+S2095,Term3,Economics,53.5
+S2095,Term3,Biology,46.9
+S2096,Term1,Math,74.1
+S2096,Term1,English,54.4
+S2096,Term1,Science,64.2
+S2096,Term1,History,82.0
+S2096,Term1,Computer Science,68.6
+S2096,Term1,Economics,66.2
+S2096,Term1,Biology,69.4
+S2096,Term2,Math,55.9
+S2096,Term2,English,47.8
+S2096,Term2,Science,63.8
+S2096,Term2,History,74.5
+S2096,Term2,Computer Science,56.1
+S2096,Term2,Economics,45.7
+S2096,Term2,Biology,50.3
+S2096,Term3,Math,42.8
+S2096,Term3,English,41.2
+S2096,Term3,Science,49.3
+S2096,Term3,History,48.1
+S2096,Term3,Computer Science,49.8
+S2096,Term3,Economics,43.6
+S2096,Term3,Biology,44.6
+S2097,Term1,Math,84.1
+S2097,Term1,English,85.1
+S2097,Term1,Science,74.6
+S2097,Term1,History,82.7
+S2097,Term1,Computer Science,95.1
+S2097,Term1,Economics,92.8
+S2097,Term1,Biology,80.9
+S2097,Term2,Math,61.9
+S2097,Term2,English,62.5
+S2097,Term2,Science,59.5
+S2097,Term2,History,62.0
+S2097,Term2,Computer Science,73.0
+S2097,Term2,Economics,72.4
+S2097,Term2,Biology,71.2
+S2097,Term3,Math,40.1
+S2097,Term3,English,63.3
+S2097,Term3,Science,61.9
+S2097,Term3,History,50.7
+S2097,Term3,Computer Science,57.7
+S2097,Term3,Economics,47.9
+S2097,Term3,Biology,60.6
+S2098,Term1,Math,49.6
+S2098,Term1,English,49.9
+S2098,Term1,Science,62.8
+S2098,Term1,History,47.7
+S2098,Term1,Computer Science,60.4
+S2098,Term1,Economics,64.0
+S2098,Term1,Biology,54.9
+S2098,Term2,Math,48.3
+S2098,Term2,English,50.2
+S2098,Term2,Science,28.7
+S2098,Term2,History,50.1
+S2098,Term2,Computer Science,57.0
+S2098,Term2,Economics,56.2
+S2098,Term2,Biology,56.3
+S2098,Term3,Math,56.7
+S2098,Term3,English,38.7
+S2098,Term3,Science,41.4
+S2098,Term3,History,55.7
+S2098,Term3,Computer Science,53.5
+S2098,Term3,Economics,58.6
+S2098,Term3,Biology,62.8
+S2099,Term1,Math,52.6
+S2099,Term1,English,67.0
+S2099,Term1,Science,87.4
+S2099,Term1,History,80.6
+S2099,Term1,Computer Science,56.3
+S2099,Term1,Economics,74.6
+S2099,Term1,Biology,71.4
+S2099,Term2,Math,83.7
+S2099,Term2,English,77.2
+S2099,Term2,Science,66.6
+S2099,Term2,History,60.1
+S2099,Term2,Computer Science,62.9
+S2099,Term2,Economics,62.6
+S2099,Term2,Biology,70.2
+S2099,Term3,Math,46.1
+S2099,Term3,English,52.6
+S2099,Term3,Science,43.0
+S2099,Term3,History,43.0
+S2099,Term3,Computer Science,65.9
+S2099,Term3,Economics,54.4
+S2099,Term3,Biology,30.8
+S2100,Term1,Math,37.3
+S2100,Term1,English,55.4
+S2100,Term1,Science,62.5
+S2100,Term1,History,61.7
+S2100,Term1,Computer Science,45.6
+S2100,Term1,Economics,54.9
+S2100,Term1,Biology,50.2
+S2100,Term2,Math,57.0
+S2100,Term2,English,50.1
+S2100,Term2,Science,62.5
+S2100,Term2,History,74.5
+S2100,Term2,Computer Science,69.7
+S2100,Term2,Economics,56.4
+S2100,Term2,Biology,51.3
+S2100,Term3,Math,74.5
+S2100,Term3,English,69.1
+S2100,Term3,Science,65.9
+S2100,Term3,History,63.7
+S2100,Term3,Computer Science,61.4
+S2100,Term3,Economics,59.9
+S2100,Term3,Biology,67.3
+S2101,Term1,Math,70.0
+S2101,Term1,English,70.6
+S2101,Term1,Science,83.1
+S2101,Term1,History,66.6
+S2101,Term1,Computer Science,68.1
+S2101,Term1,Economics,69.7
+S2101,Term1,Biology,73.9
+S2101,Term2,Math,54.0
+S2101,Term2,English,61.5
+S2101,Term2,Science,58.8
+S2101,Term2,History,61.0
+S2101,Term2,Computer Science,49.6
+S2101,Term2,Economics,59.6
+S2101,Term2,Biology,46.0
+S2101,Term3,Math,72.6
+S2101,Term3,English,67.2
+S2101,Term3,Science,55.7
+S2101,Term3,History,69.0
+S2101,Term3,Computer Science,71.6
+S2101,Term3,Economics,74.2
+S2101,Term3,Biology,52.3
+S2102,Term1,Math,64.0
+S2102,Term1,English,50.1
+S2102,Term1,Science,57.3
+S2102,Term1,History,67.4
+S2102,Term1,Computer Science,62.4
+S2102,Term1,Economics,75.7
+S2102,Term1,Biology,55.4
+S2102,Term2,Math,65.0
+S2102,Term2,English,58.5
+S2102,Term2,Science,46.6
+S2102,Term2,History,64.1
+S2102,Term2,Computer Science,60.2
+S2102,Term2,Economics,44.3
+S2102,Term2,Biology,61.6
+S2102,Term3,Math,60.3
+S2102,Term3,English,66.4
+S2102,Term3,Science,60.2
+S2102,Term3,History,66.3
+S2102,Term3,Computer Science,49.8
+S2102,Term3,Economics,61.4
+S2102,Term3,Biology,58.4
+S2103,Term1,Math,28.2
+S2103,Term1,English,5.1
+S2103,Term1,Science,40.1
+S2103,Term1,History,46.1
+S2103,Term1,Computer Science,51.3
+S2103,Term1,Economics,30.0
+S2103,Term1,Biology,27.6
+S2103,Term2,Math,65.4
+S2103,Term2,English,70.6
+S2103,Term2,Science,68.6
+S2103,Term2,History,60.7
+S2103,Term2,Computer Science,71.2
+S2103,Term2,Economics,56.9
+S2103,Term2,Biology,66.4
+S2103,Term3,Math,74.2
+S2103,Term3,English,60.3
+S2103,Term3,Science,53.0
+S2103,Term3,History,56.9
+S2103,Term3,Computer Science,59.0
+S2103,Term3,Economics,75.0
+S2103,Term3,Biology,68.9
+S2104,Term1,Math,72.1
+S2104,Term1,English,51.6
+S2104,Term1,Science,59.0
+S2104,Term1,History,47.3
+S2104,Term1,Computer Science,60.1
+S2104,Term1,Economics,71.3
+S2104,Term1,Biology,63.3
+S2104,Term2,Math,75.2
+S2104,Term2,English,59.8
+S2104,Term2,Science,47.5
+S2104,Term2,History,70.3
+S2104,Term2,Computer Science,64.3
+S2104,Term2,Economics,64.8
+S2104,Term2,Biology,66.5
+S2104,Term3,Math,64.6
+S2104,Term3,English,61.0
+S2104,Term3,Science,77.9
+S2104,Term3,History,69.4
+S2104,Term3,Computer Science,67.4
+S2104,Term3,Economics,61.2
+S2104,Term3,Biology,57.1
+S2105,Term1,Math,31.9
+S2105,Term1,English,41.5
+S2105,Term1,Science,29.8
+S2105,Term1,History,34.6
+S2105,Term1,Computer Science,43.8
+S2105,Term1,Economics,32.1
+S2105,Term1,Biology,35.2
+S2105,Term2,Math,72.2
+S2105,Term2,English,84.7
+S2105,Term2,Science,70.2
+S2105,Term2,History,58.9
+S2105,Term2,Computer Science,79.4
+S2105,Term2,Economics,67.3
+S2105,Term2,Biology,64.3
+S2105,Term3,Math,72.2
+S2105,Term3,English,71.1
+S2105,Term3,Science,68.2
+S2105,Term3,History,73.7
+S2105,Term3,Computer Science,66.0
+S2105,Term3,Economics,61.2
+S2105,Term3,Biology,78.4
+S2106,Term1,Math,66.4
+S2106,Term1,English,46.7
+S2106,Term1,Science,68.1
+S2106,Term1,History,61.2
+S2106,Term1,Computer Science,54.7
+S2106,Term1,Economics,52.8
+S2106,Term1,Biology,83.3
+S2106,Term2,Math,59.7
+S2106,Term2,English,52.2
+S2106,Term2,Science,57.7
+S2106,Term2,History,63.6
+S2106,Term2,Computer Science,51.2
+S2106,Term2,Economics,48.3
+S2106,Term2,Biology,59.7
+S2106,Term3,Math,58.7
+S2106,Term3,English,65.1
+S2106,Term3,Science,57.8
+S2106,Term3,History,84.1
+S2106,Term3,Computer Science,74.4
+S2106,Term3,Economics,67.7
+S2106,Term3,Biology,69.3
+S2107,Term1,Math,60.8
+S2107,Term1,English,62.8
+S2107,Term1,Science,60.4
+S2107,Term1,History,59.0
+S2107,Term1,Computer Science,64.2
+S2107,Term1,Economics,69.2
+S2107,Term1,Biology,57.8
+S2107,Term2,Math,73.6
+S2107,Term2,English,60.9
+S2107,Term2,Science,70.3
+S2107,Term2,History,81.5
+S2107,Term2,Computer Science,64.6
+S2107,Term2,Economics,79.5
+S2107,Term2,Biology,82.5
+S2107,Term3,Math,57.4
+S2107,Term3,English,71.9
+S2107,Term3,Science,80.2
+S2107,Term3,History,73.6
+S2107,Term3,Computer Science,93.8
+S2107,Term3,Economics,81.4
+S2107,Term3,Biology,69.7
+S2108,Term1,Math,51.4
+S2108,Term1,English,54.2
+S2108,Term1,Science,55.0
+S2108,Term1,History,61.3
+S2108,Term1,Computer Science,82.8
+S2108,Term1,Economics,55.7
+S2108,Term1,Biology,56.3
+S2108,Term2,Math,53.0
+S2108,Term2,English,59.9
+S2108,Term2,Science,69.8
+S2108,Term2,History,55.2
+S2108,Term2,Computer Science,53.6
+S2108,Term2,Economics,64.6
+S2108,Term2,Biology,60.9
+S2108,Term3,Math,47.3
+S2108,Term3,English,47.8
+S2108,Term3,Science,43.2
+S2108,Term3,History,57.7
+S2108,Term3,Computer Science,56.1
+S2108,Term3,Economics,44.5
+S2108,Term3,Biology,60.4
+S2109,Term1,Math,63.1
+S2109,Term1,English,68.8
+S2109,Term1,Science,82.8
+S2109,Term1,History,78.9
+S2109,Term1,Computer Science,70.9
+S2109,Term1,Economics,75.5
+S2109,Term1,Biology,90.0
+S2109,Term2,Math,87.6
+S2109,Term2,English,90.9
+S2109,Term2,Science,76.0
+S2109,Term2,History,72.3
+S2109,Term2,Computer Science,89.8
+S2109,Term2,Economics,85.1
+S2109,Term2,Biology,82.4
+S2109,Term3,Math,80.3
+S2109,Term3,English,63.2
+S2109,Term3,Science,71.1
+S2109,Term3,History,64.9
+S2109,Term3,Computer Science,85.7
+S2109,Term3,Economics,56.8
+S2109,Term3,Biology,72.4
+S2110,Term1,Math,78.7
+S2110,Term1,English,73.9
+S2110,Term1,Science,60.3
+S2110,Term1,History,71.2
+S2110,Term1,Computer Science,66.9
+S2110,Term1,Economics,62.3
+S2110,Term1,Biology,63.4
+S2110,Term2,Math,67.8
+S2110,Term2,English,73.1
+S2110,Term2,Science,68.1
+S2110,Term2,History,41.9
+S2110,Term2,Computer Science,45.8
+S2110,Term2,Economics,69.1
+S2110,Term2,Biology,46.4
+S2110,Term3,Math,58.9
+S2110,Term3,English,57.0
+S2110,Term3,Science,57.8
+S2110,Term3,History,54.8
+S2110,Term3,Computer Science,45.8
+S2110,Term3,Economics,54.8
+S2110,Term3,Biology,50.0
+S2111,Term1,Math,92.3
+S2111,Term1,English,61.0
+S2111,Term1,Science,59.2
+S2111,Term1,History,54.7
+S2111,Term1,Computer Science,57.2
+S2111,Term1,Economics,72.6
+S2111,Term1,Biology,60.4
+S2111,Term2,Math,84.0
+S2111,Term2,English,80.6
+S2111,Term2,Science,62.1
+S2111,Term2,History,90.4
+S2111,Term2,Computer Science,82.1
+S2111,Term2,Economics,76.6
+S2111,Term2,Biology,92.8
+S2111,Term3,Math,45.0
+S2111,Term3,English,57.9
+S2111,Term3,Science,57.7
+S2111,Term3,History,59.9
+S2111,Term3,Computer Science,74.7
+S2111,Term3,Economics,55.9
+S2111,Term3,Biology,62.2
+S2112,Term1,Math,61.9
+S2112,Term1,English,73.4
+S2112,Term1,Science,57.7
+S2112,Term1,History,78.9
+S2112,Term1,Computer Science,75.1
+S2112,Term1,Economics,74.1
+S2112,Term1,Biology,59.2
+S2112,Term2,Math,56.8
+S2112,Term2,English,49.8
+S2112,Term2,Science,60.9
+S2112,Term2,History,41.7
+S2112,Term2,Computer Science,55.1
+S2112,Term2,Economics,66.8
+S2112,Term2,Biology,56.0
+S2112,Term3,Math,57.2
+S2112,Term3,English,48.6
+S2112,Term3,Science,53.9
+S2112,Term3,History,60.0
+S2112,Term3,Computer Science,51.2
+S2112,Term3,Economics,54.4
+S2112,Term3,Biology,56.6
+S2113,Term1,Math,92.2
+S2113,Term1,English,82.9
+S2113,Term1,Science,75.3
+S2113,Term1,History,96.3
+S2113,Term1,Computer Science,85.0
+S2113,Term1,Economics,82.8
+S2113,Term1,Biology,85.7
+S2113,Term2,Math,79.3
+S2113,Term2,English,78.8
+S2113,Term2,Science,67.9
+S2113,Term2,History,66.9
+S2113,Term2,Computer Science,71.8
+S2113,Term2,Economics,85.1
+S2113,Term2,Biology,68.6
+S2113,Term3,Math,72.2
+S2113,Term3,English,70.4
+S2113,Term3,Science,61.2
+S2113,Term3,History,68.6
+S2113,Term3,Computer Science,67.5
+S2113,Term3,Economics,69.0
+S2113,Term3,Biology,71.6
+S2114,Term1,Math,75.9
+S2114,Term1,English,58.5
+S2114,Term1,Science,73.4
+S2114,Term1,History,66.7
+S2114,Term1,Computer Science,62.1
+S2114,Term1,Economics,79.8
+S2114,Term1,Biology,75.0
+S2114,Term2,Math,64.0
+S2114,Term2,English,71.8
+S2114,Term2,Science,68.5
+S2114,Term2,History,64.1
+S2114,Term2,Computer Science,62.7
+S2114,Term2,Economics,90.1
+S2114,Term2,Biology,56.5
+S2114,Term3,Math,58.7
+S2114,Term3,English,74.2
+S2114,Term3,Science,67.6
+S2114,Term3,History,61.0
+S2114,Term3,Computer Science,65.7
+S2114,Term3,Economics,59.3
+S2114,Term3,Biology,68.1
+S2115,Term1,Math,63.0
+S2115,Term1,English,82.6
+S2115,Term1,Science,80.3
+S2115,Term1,History,85.2
+S2115,Term1,Computer Science,71.5
+S2115,Term1,Economics,83.2
+S2115,Term1,Biology,93.2
+S2115,Term2,Math,62.9
+S2115,Term2,English,41.5
+S2115,Term2,Science,65.2
+S2115,Term2,History,50.5
+S2115,Term2,Computer Science,59.7
+S2115,Term2,Economics,57.8
+S2115,Term2,Biology,80.8
+S2115,Term3,Math,73.9
+S2115,Term3,English,69.7
+S2115,Term3,Science,65.1
+S2115,Term3,History,75.8
+S2115,Term3,Computer Science,78.7
+S2115,Term3,Economics,70.4
+S2115,Term3,Biology,61.6
+S2116,Term1,Math,81.1
+S2116,Term1,English,100.0
+S2116,Term1,Science,75.1
+S2116,Term1,History,89.3
+S2116,Term1,Computer Science,100.0
+S2116,Term1,Economics,76.4
+S2116,Term1,Biology,84.3
+S2116,Term2,Math,89.7
+S2116,Term2,English,93.1
+S2116,Term2,Science,78.5
+S2116,Term2,History,93.9
+S2116,Term2,Computer Science,89.5
+S2116,Term2,Economics,70.8
+S2116,Term2,Biology,92.4
+S2116,Term3,Math,49.5
+S2116,Term3,English,42.9
+S2116,Term3,Science,47.5
+S2116,Term3,History,39.4
+S2116,Term3,Computer Science,73.5
+S2116,Term3,Economics,54.4
+S2116,Term3,Biology,66.5
+S2117,Term1,Math,56.8
+S2117,Term1,English,57.3
+S2117,Term1,Science,82.7
+S2117,Term1,History,57.6
+S2117,Term1,Computer Science,61.4
+S2117,Term1,Economics,40.8
+S2117,Term1,Biology,54.3
+S2117,Term2,Math,69.4
+S2117,Term2,English,73.9
+S2117,Term2,Science,50.5
+S2117,Term2,History,59.2
+S2117,Term2,Computer Science,74.8
+S2117,Term2,Economics,48.4
+S2117,Term2,Biology,65.5
+S2117,Term3,Math,69.7
+S2117,Term3,English,68.3
+S2117,Term3,Science,60.0
+S2117,Term3,History,71.2
+S2117,Term3,Computer Science,70.9
+S2117,Term3,Economics,56.0
+S2117,Term3,Biology,52.4
+S2118,Term1,Math,60.8
+S2118,Term1,English,57.8
+S2118,Term1,Science,49.2
+S2118,Term1,History,59.8
+S2118,Term1,Computer Science,66.2
+S2118,Term1,Economics,66.2
+S2118,Term1,Biology,64.7
+S2118,Term2,Math,64.6
+S2118,Term2,English,52.8
+S2118,Term2,Science,60.7
+S2118,Term2,History,75.5
+S2118,Term2,Computer Science,57.8
+S2118,Term2,Economics,56.4
+S2118,Term2,Biology,69.7
+S2118,Term3,Math,42.6
+S2118,Term3,English,49.6
+S2118,Term3,Science,59.0
+S2118,Term3,History,29.7
+S2118,Term3,Computer Science,59.5
+S2118,Term3,Economics,57.3
+S2118,Term3,Biology,54.8
+S2119,Term1,Math,60.2
+S2119,Term1,English,64.5
+S2119,Term1,Science,74.7
+S2119,Term1,History,66.8
+S2119,Term1,Computer Science,61.2
+S2119,Term1,Economics,77.0
+S2119,Term1,Biology,84.7
+S2119,Term2,Math,39.3
+S2119,Term2,English,55.8
+S2119,Term2,Science,76.1
+S2119,Term2,History,48.4
+S2119,Term2,Computer Science,45.7
+S2119,Term2,Economics,42.8
+S2119,Term2,Biology,66.1
+S2119,Term3,Math,58.5
+S2119,Term3,English,42.5
+S2119,Term3,Science,63.7
+S2119,Term3,History,66.8
+S2119,Term3,Computer Science,66.0
+S2119,Term3,Economics,72.1
+S2119,Term3,Biology,60.2
+S2120,Term1,Math,55.8
+S2120,Term1,English,46.7
+S2120,Term1,Science,40.9
+S2120,Term1,History,56.1
+S2120,Term1,Computer Science,53.4
+S2120,Term1,Economics,44.9
+S2120,Term1,Biology,51.0
+S2120,Term2,Math,54.1
+S2120,Term2,English,59.7
+S2120,Term2,Science,62.1
+S2120,Term2,History,74.4
+S2120,Term2,Computer Science,76.0
+S2120,Term2,Economics,75.1
+S2120,Term2,Biology,54.2
+S2120,Term3,Math,56.5
+S2120,Term3,English,62.3
+S2120,Term3,Science,55.2
+S2120,Term3,History,65.6
+S2120,Term3,Computer Science,53.1
+S2120,Term3,Economics,48.8
+S2120,Term3,Biology,62.0
+S2121,Term1,Math,71.5
+S2121,Term1,English,52.8
+S2121,Term1,Science,61.9
+S2121,Term1,History,60.7
+S2121,Term1,Computer Science,77.9
+S2121,Term1,Economics,58.0
+S2121,Term1,Biology,57.0
+S2121,Term2,Math,76.0
+S2121,Term2,English,45.9
+S2121,Term2,Science,66.9
+S2121,Term2,History,63.0
+S2121,Term2,Computer Science,77.3
+S2121,Term2,Economics,63.2
+S2121,Term2,Biology,61.3
+S2121,Term3,Math,80.5
+S2121,Term3,English,88.2
+S2121,Term3,Science,92.8
+S2121,Term3,History,82.0
+S2121,Term3,Computer Science,77.8
+S2121,Term3,Economics,85.3
+S2121,Term3,Biology,75.4
+S2122,Term1,Math,61.9
+S2122,Term1,English,72.7
+S2122,Term1,Science,54.8
+S2122,Term1,History,40.7
+S2122,Term1,Computer Science,72.9
+S2122,Term1,Economics,64.3
+S2122,Term1,Biology,51.5
+S2122,Term2,Math,49.0
+S2122,Term2,English,71.4
+S2122,Term2,Science,79.8
+S2122,Term2,History,78.0
+S2122,Term2,Computer Science,66.0
+S2122,Term2,Economics,80.4
+S2122,Term2,Biology,56.4
+S2122,Term3,Math,60.9
+S2122,Term3,English,48.2
+S2122,Term3,Science,64.0
+S2122,Term3,History,56.2
+S2122,Term3,Computer Science,67.4
+S2122,Term3,Economics,65.1
+S2122,Term3,Biology,57.1
+S2123,Term1,Math,83.0
+S2123,Term1,English,92.7
+S2123,Term1,Science,100.0
+S2123,Term1,History,93.3
+S2123,Term1,Computer Science,75.2
+S2123,Term1,Economics,100.0
+S2123,Term1,Biology,98.7
+S2123,Term2,Math,55.5
+S2123,Term2,English,57.3
+S2123,Term2,Science,50.1
+S2123,Term2,History,59.2
+S2123,Term2,Computer Science,50.0
+S2123,Term2,Economics,50.2
+S2123,Term2,Biology,58.5
+S2123,Term3,Math,81.8
+S2123,Term3,English,65.0
+S2123,Term3,Science,67.6
+S2123,Term3,History,67.5
+S2123,Term3,Computer Science,52.3
+S2123,Term3,Economics,70.8
+S2123,Term3,Biology,66.6
+S2124,Term1,Math,100.0
+S2124,Term1,English,94.9
+S2124,Term1,Science,76.0
+S2124,Term1,History,82.5
+S2124,Term1,Computer Science,85.7
+S2124,Term1,Economics,77.0
+S2124,Term1,Biology,94.5
+S2124,Term2,Math,47.0
+S2124,Term2,English,51.7
+S2124,Term2,Science,46.0
+S2124,Term2,History,54.5
+S2124,Term2,Computer Science,51.0
+S2124,Term2,Economics,39.5
+S2124,Term2,Biology,51.5
+S2124,Term3,Math,87.0
+S2124,Term3,English,67.9
+S2124,Term3,Science,60.0
+S2124,Term3,History,73.4
+S2124,Term3,Computer Science,68.4
+S2124,Term3,Economics,57.0
+S2124,Term3,Biology,87.2
+S2125,Term1,Math,73.0
+S2125,Term1,English,63.7
+S2125,Term1,Science,68.0
+S2125,Term1,History,67.0
+S2125,Term1,Computer Science,66.6
+S2125,Term1,Economics,64.3
+S2125,Term1,Biology,64.5
+S2125,Term2,Math,48.0
+S2125,Term2,English,84.4
+S2125,Term2,Science,61.0
+S2125,Term2,History,90.7
+S2125,Term2,Computer Science,75.2
+S2125,Term2,Economics,72.1
+S2125,Term2,Biology,70.4
+S2125,Term3,Math,60.6
+S2125,Term3,English,57.1
+S2125,Term3,Science,49.3
+S2125,Term3,History,45.1
+S2125,Term3,Computer Science,43.5
+S2125,Term3,Economics,65.5
+S2125,Term3,Biology,60.7
+S2126,Term1,Math,85.0
+S2126,Term1,English,90.7
+S2126,Term1,Science,91.5
+S2126,Term1,History,98.2
+S2126,Term1,Computer Science,80.4
+S2126,Term1,Economics,80.6
+S2126,Term1,Biology,85.7
+S2126,Term2,Math,51.1
+S2126,Term2,English,43.6
+S2126,Term2,Science,36.4
+S2126,Term2,History,43.0
+S2126,Term2,Computer Science,61.1
+S2126,Term2,Economics,42.5
+S2126,Term2,Biology,54.5
+S2126,Term3,Math,64.3
+S2126,Term3,English,59.6
+S2126,Term3,Science,64.2
+S2126,Term3,History,59.8
+S2126,Term3,Computer Science,73.0
+S2126,Term3,Economics,67.5
+S2126,Term3,Biology,69.5
+S2127,Term1,Math,60.5
+S2127,Term1,English,47.7
+S2127,Term1,Science,72.8
+S2127,Term1,History,52.8
+S2127,Term1,Computer Science,49.2
+S2127,Term1,Economics,50.1
+S2127,Term1,Biology,60.9
+S2127,Term2,Math,71.9
+S2127,Term2,English,58.2
+S2127,Term2,Science,67.1
+S2127,Term2,History,64.2
+S2127,Term2,Computer Science,66.7
+S2127,Term2,Economics,59.7
+S2127,Term2,Biology,43.5
+S2127,Term3,Math,68.8
+S2127,Term3,English,60.8
+S2127,Term3,Science,58.6
+S2127,Term3,History,63.4
+S2127,Term3,Computer Science,59.5
+S2127,Term3,Economics,68.3
+S2127,Term3,Biology,73.4
+S2128,Term1,Math,59.5
+S2128,Term1,English,60.5
+S2128,Term1,Science,69.0
+S2128,Term1,History,66.6
+S2128,Term1,Computer Science,73.9
+S2128,Term1,Economics,70.2
+S2128,Term1,Biology,64.4
+S2128,Term2,Math,50.9
+S2128,Term2,English,57.7
+S2128,Term2,Science,41.6
+S2128,Term2,History,70.6
+S2128,Term2,Computer Science,56.1
+S2128,Term2,Economics,67.1
+S2128,Term2,Biology,45.7
+S2128,Term3,Math,41.1
+S2128,Term3,English,47.0
+S2128,Term3,Science,73.1
+S2128,Term3,History,51.8
+S2128,Term3,Computer Science,48.5
+S2128,Term3,Economics,44.5
+S2128,Term3,Biology,65.4
+S2129,Term1,Math,54.3
+S2129,Term1,English,75.3
+S2129,Term1,Science,82.3
+S2129,Term1,History,60.5
+S2129,Term1,Computer Science,62.1
+S2129,Term1,Economics,64.5
+S2129,Term1,Biology,59.2
+S2129,Term2,Math,57.5
+S2129,Term2,English,65.3
+S2129,Term2,Science,57.8
+S2129,Term2,History,66.8
+S2129,Term2,Computer Science,68.9
+S2129,Term2,Economics,56.0
+S2129,Term2,Biology,70.1
+S2129,Term3,Math,64.7
+S2129,Term3,English,51.2
+S2129,Term3,Science,52.7
+S2129,Term3,History,37.8
+S2129,Term3,Computer Science,59.3
+S2129,Term3,Economics,64.6
+S2129,Term3,Biology,52.6
+S2130,Term1,Math,70.4
+S2130,Term1,English,52.5
+S2130,Term1,Science,42.4
+S2130,Term1,History,63.0
+S2130,Term1,Computer Science,74.9
+S2130,Term1,Economics,69.7
+S2130,Term1,Biology,55.7
+S2130,Term2,Math,50.8
+S2130,Term2,English,53.3
+S2130,Term2,Science,58.1
+S2130,Term2,History,53.2
+S2130,Term2,Computer Science,56.2
+S2130,Term2,Economics,55.6
+S2130,Term2,Biology,58.3
+S2130,Term3,Math,51.9
+S2130,Term3,English,23.1
+S2130,Term3,Science,41.8
+S2130,Term3,History,19.5
+S2130,Term3,Computer Science,37.7
+S2130,Term3,Economics,32.6
+S2130,Term3,Biology,38.5
+S2131,Term1,Math,77.4
+S2131,Term1,English,84.0
+S2131,Term1,Science,54.6
+S2131,Term1,History,82.9
+S2131,Term1,Computer Science,68.4
+S2131,Term1,Economics,51.2
+S2131,Term1,Biology,74.5
+S2131,Term2,Math,79.8
+S2131,Term2,English,69.8
+S2131,Term2,Science,72.9
+S2131,Term2,History,67.7
+S2131,Term2,Computer Science,75.7
+S2131,Term2,Economics,75.9
+S2131,Term2,Biology,56.4
+S2131,Term3,Math,60.4
+S2131,Term3,English,64.3
+S2131,Term3,Science,46.2
+S2131,Term3,History,38.3
+S2131,Term3,Computer Science,66.6
+S2131,Term3,Economics,48.7
+S2131,Term3,Biology,79.2
+S2132,Term1,Math,54.9
+S2132,Term1,English,49.6
+S2132,Term1,Science,50.3
+S2132,Term1,History,43.1
+S2132,Term1,Computer Science,46.9
+S2132,Term1,Economics,46.2
+S2132,Term1,Biology,59.3
+S2132,Term2,Math,77.9
+S2132,Term2,English,88.2
+S2132,Term2,Science,87.2
+S2132,Term2,History,62.7
+S2132,Term2,Computer Science,80.1
+S2132,Term2,Economics,86.8
+S2132,Term2,Biology,70.2
+S2132,Term3,Math,80.2
+S2132,Term3,English,69.7
+S2132,Term3,Science,85.4
+S2132,Term3,History,79.2
+S2132,Term3,Computer Science,68.7
+S2132,Term3,Economics,97.2
+S2132,Term3,Biology,89.1
+S2133,Term1,Math,56.4
+S2133,Term1,English,57.9
+S2133,Term1,Science,63.9
+S2133,Term1,History,59.5
+S2133,Term1,Computer Science,64.1
+S2133,Term1,Economics,54.2
+S2133,Term1,Biology,51.8
+S2133,Term2,Math,43.8
+S2133,Term2,English,50.0
+S2133,Term2,Science,54.6
+S2133,Term2,History,56.6
+S2133,Term2,Computer Science,50.0
+S2133,Term2,Economics,57.2
+S2133,Term2,Biology,62.1
+S2133,Term3,Math,66.7
+S2133,Term3,English,63.5
+S2133,Term3,Science,60.6
+S2133,Term3,History,64.2
+S2133,Term3,Computer Science,56.0
+S2133,Term3,Economics,48.6
+S2133,Term3,Biology,43.8
+S2134,Term1,Math,51.0
+S2134,Term1,English,33.7
+S2134,Term1,Science,55.8
+S2134,Term1,History,48.4
+S2134,Term1,Computer Science,59.6
+S2134,Term1,Economics,71.2
+S2134,Term1,Biology,48.1
+S2134,Term2,Math,73.1
+S2134,Term2,English,48.6
+S2134,Term2,Science,74.5
+S2134,Term2,History,66.2
+S2134,Term2,Computer Science,74.2
+S2134,Term2,Economics,69.3
+S2134,Term2,Biology,76.2
+S2134,Term3,Math,65.5
+S2134,Term3,English,76.5
+S2134,Term3,Science,57.7
+S2134,Term3,History,76.8
+S2134,Term3,Computer Science,68.1
+S2134,Term3,Economics,60.9
+S2134,Term3,Biology,81.0
+S2135,Term1,Math,45.0
+S2135,Term1,English,62.6
+S2135,Term1,Science,66.0
+S2135,Term1,History,63.2
+S2135,Term1,Computer Science,54.2
+S2135,Term1,Economics,43.7
+S2135,Term1,Biology,58.0
+S2135,Term2,Math,71.5
+S2135,Term2,English,69.5
+S2135,Term2,Science,66.3
+S2135,Term2,History,74.7
+S2135,Term2,Computer Science,64.9
+S2135,Term2,Economics,64.3
+S2135,Term2,Biology,66.7
+S2135,Term3,Math,78.1
+S2135,Term3,English,72.0
+S2135,Term3,Science,69.7
+S2135,Term3,History,70.6
+S2135,Term3,Computer Science,66.6
+S2135,Term3,Economics,72.2
+S2135,Term3,Biology,75.1
+S2136,Term1,Math,58.4
+S2136,Term1,English,76.9
+S2136,Term1,Science,70.1
+S2136,Term1,History,63.3
+S2136,Term1,Computer Science,60.5
+S2136,Term1,Economics,76.6
+S2136,Term1,Biology,57.6
+S2136,Term2,Math,53.3
+S2136,Term2,English,61.4
+S2136,Term2,Science,51.2
+S2136,Term2,History,58.9
+S2136,Term2,Computer Science,54.1
+S2136,Term2,Economics,50.8
+S2136,Term2,Biology,49.7
+S2136,Term3,Math,74.2
+S2136,Term3,English,86.2
+S2136,Term3,Science,84.4
+S2136,Term3,History,81.0
+S2136,Term3,Computer Science,78.8
+S2136,Term3,Economics,77.4
+S2136,Term3,Biology,90.4
+S2137,Term1,Math,62.2
+S2137,Term1,English,61.7
+S2137,Term1,Science,56.4
+S2137,Term1,History,46.8
+S2137,Term1,Computer Science,58.1
+S2137,Term1,Economics,48.6
+S2137,Term1,Biology,72.3
+S2137,Term2,Math,59.6
+S2137,Term2,English,82.0
+S2137,Term2,Science,75.0
+S2137,Term2,History,79.1
+S2137,Term2,Computer Science,88.4
+S2137,Term2,Economics,64.9
+S2137,Term2,Biology,56.8
+S2137,Term3,Math,54.0
+S2137,Term3,English,59.4
+S2137,Term3,Science,52.5
+S2137,Term3,History,87.6
+S2137,Term3,Computer Science,71.5
+S2137,Term3,Economics,62.9
+S2137,Term3,Biology,58.0
+S2138,Term1,Math,71.5
+S2138,Term1,English,62.5
+S2138,Term1,Science,68.4
+S2138,Term1,History,67.9
+S2138,Term1,Computer Science,89.9
+S2138,Term1,Economics,74.0
+S2138,Term1,Biology,86.5
+S2138,Term2,Math,59.2
+S2138,Term2,English,60.0
+S2138,Term2,Science,60.0
+S2138,Term2,History,41.1
+S2138,Term2,Computer Science,68.6
+S2138,Term2,Economics,59.6
+S2138,Term2,Biology,61.6
+S2138,Term3,Math,69.7
+S2138,Term3,English,61.7
+S2138,Term3,Science,69.1
+S2138,Term3,History,51.8
+S2138,Term3,Computer Science,62.3
+S2138,Term3,Economics,82.5
+S2138,Term3,Biology,61.0
+S2139,Term1,Math,37.7
+S2139,Term1,English,36.3
+S2139,Term1,Science,54.8
+S2139,Term1,History,44.8
+S2139,Term1,Computer Science,41.7
+S2139,Term1,Economics,51.0
+S2139,Term1,Biology,50.8
+S2139,Term2,Math,63.6
+S2139,Term2,English,53.8
+S2139,Term2,Science,69.0
+S2139,Term2,History,51.0
+S2139,Term2,Computer Science,62.5
+S2139,Term2,Economics,69.5
+S2139,Term2,Biology,60.7
+S2139,Term3,Math,60.3
+S2139,Term3,English,62.1
+S2139,Term3,Science,69.6
+S2139,Term3,History,64.4
+S2139,Term3,Computer Science,59.5
+S2139,Term3,Economics,46.0
+S2139,Term3,Biology,52.8
+S2140,Term1,Math,64.7
+S2140,Term1,English,51.7
+S2140,Term1,Science,60.2
+S2140,Term1,History,65.7
+S2140,Term1,Computer Science,61.4
+S2140,Term1,Economics,57.7
+S2140,Term1,Biology,74.0
+S2140,Term2,Math,77.2
+S2140,Term2,English,75.1
+S2140,Term2,Science,77.0
+S2140,Term2,History,81.1
+S2140,Term2,Computer Science,58.9
+S2140,Term2,Economics,75.0
+S2140,Term2,Biology,78.6
+S2140,Term3,Math,69.2
+S2140,Term3,English,76.1
+S2140,Term3,Science,84.0
+S2140,Term3,History,77.5
+S2140,Term3,Computer Science,70.6
+S2140,Term3,Economics,76.6
+S2140,Term3,Biology,77.8
+S2141,Term1,Math,74.2
+S2141,Term1,English,55.3
+S2141,Term1,Science,68.6
+S2141,Term1,History,66.2
+S2141,Term1,Computer Science,55.6
+S2141,Term1,Economics,62.0
+S2141,Term1,Biology,45.8
+S2141,Term2,Math,74.4
+S2141,Term2,English,87.8
+S2141,Term2,Science,79.2
+S2141,Term2,History,58.2
+S2141,Term2,Computer Science,70.2
+S2141,Term2,Economics,82.2
+S2141,Term2,Biology,77.7
+S2141,Term3,Math,77.9
+S2141,Term3,English,80.2
+S2141,Term3,Science,72.7
+S2141,Term3,History,72.9
+S2141,Term3,Computer Science,87.9
+S2141,Term3,Economics,64.5
+S2141,Term3,Biology,85.4
+S2142,Term1,Math,32.8
+S2142,Term1,English,35.7
+S2142,Term1,Science,49.8
+S2142,Term1,History,47.5
+S2142,Term1,Computer Science,42.5
+S2142,Term1,Economics,39.4
+S2142,Term1,Biology,51.8
+S2142,Term2,Math,80.5
+S2142,Term2,English,78.1
+S2142,Term2,Science,79.3
+S2142,Term2,History,73.8
+S2142,Term2,Computer Science,74.4
+S2142,Term2,Economics,85.0
+S2142,Term2,Biology,78.5
+S2142,Term3,Math,60.8
+S2142,Term3,English,49.8
+S2142,Term3,Science,49.2
+S2142,Term3,History,70.5
+S2142,Term3,Computer Science,46.7
+S2142,Term3,Economics,31.3
+S2142,Term3,Biology,49.4
+S2143,Term1,Math,54.1
+S2143,Term1,English,68.0
+S2143,Term1,Science,53.1
+S2143,Term1,History,63.4
+S2143,Term1,Computer Science,57.7
+S2143,Term1,Economics,55.0
+S2143,Term1,Biology,55.4
+S2143,Term2,Math,57.4
+S2143,Term2,English,47.7
+S2143,Term2,Science,48.8
+S2143,Term2,History,60.7
+S2143,Term2,Computer Science,59.7
+S2143,Term2,Economics,55.8
+S2143,Term2,Biology,55.0
+S2143,Term3,Math,65.8
+S2143,Term3,English,69.9
+S2143,Term3,Science,70.7
+S2143,Term3,History,54.6
+S2143,Term3,Computer Science,70.7
+S2143,Term3,Economics,70.0
+S2143,Term3,Biology,74.5
+S2144,Term1,Math,56.7
+S2144,Term1,English,76.2
+S2144,Term1,Science,80.1
+S2144,Term1,History,69.5
+S2144,Term1,Computer Science,78.1
+S2144,Term1,Economics,76.0
+S2144,Term1,Biology,66.4
+S2144,Term2,Math,82.3
+S2144,Term2,English,65.7
+S2144,Term2,Science,64.0
+S2144,Term2,History,59.6
+S2144,Term2,Computer Science,71.0
+S2144,Term2,Economics,77.8
+S2144,Term2,Biology,75.3
+S2144,Term3,Math,77.9
+S2144,Term3,English,80.5
+S2144,Term3,Science,91.2
+S2144,Term3,History,59.5
+S2144,Term3,Computer Science,79.1
+S2144,Term3,Economics,77.3
+S2144,Term3,Biology,92.7
+S2145,Term1,Math,66.1
+S2145,Term1,English,61.5
+S2145,Term1,Science,73.8
+S2145,Term1,History,84.0
+S2145,Term1,Computer Science,71.7
+S2145,Term1,Economics,69.6
+S2145,Term1,Biology,57.6
+S2145,Term2,Math,43.1
+S2145,Term2,English,67.8
+S2145,Term2,Science,53.7
+S2145,Term2,History,67.7
+S2145,Term2,Computer Science,70.0
+S2145,Term2,Economics,75.6
+S2145,Term2,Biology,62.6
+S2145,Term3,Math,59.4
+S2145,Term3,English,64.9
+S2145,Term3,Science,60.5
+S2145,Term3,History,62.0
+S2145,Term3,Computer Science,56.5
+S2145,Term3,Economics,55.3
+S2145,Term3,Biology,62.2
+S2146,Term1,Math,75.5
+S2146,Term1,English,63.1
+S2146,Term1,Science,63.4
+S2146,Term1,History,61.7
+S2146,Term1,Computer Science,54.2
+S2146,Term1,Economics,62.5
+S2146,Term1,Biology,70.2
+S2146,Term2,Math,69.7
+S2146,Term2,English,64.7
+S2146,Term2,Science,55.8
+S2146,Term2,History,66.9
+S2146,Term2,Computer Science,69.3
+S2146,Term2,Economics,59.2
+S2146,Term2,Biology,72.9
+S2146,Term3,Math,59.6
+S2146,Term3,English,53.3
+S2146,Term3,Science,38.8
+S2146,Term3,History,46.6
+S2146,Term3,Computer Science,58.4
+S2146,Term3,Economics,46.1
+S2146,Term3,Biology,67.0
+S2147,Term1,Math,88.3
+S2147,Term1,English,57.4
+S2147,Term1,Science,57.0
+S2147,Term1,History,66.1
+S2147,Term1,Computer Science,46.0
+S2147,Term1,Economics,78.1
+S2147,Term1,Biology,66.1
+S2147,Term2,Math,48.0
+S2147,Term2,English,40.2
+S2147,Term2,Science,50.8
+S2147,Term2,History,40.9
+S2147,Term2,Computer Science,40.4
+S2147,Term2,Economics,49.7
+S2147,Term2,Biology,38.8
+S2147,Term3,Math,77.7
+S2147,Term3,English,89.0
+S2147,Term3,Science,81.3
+S2147,Term3,History,82.7
+S2147,Term3,Computer Science,95.3
+S2147,Term3,Economics,90.2
+S2147,Term3,Biology,84.9
+S2148,Term1,Math,77.7
+S2148,Term1,English,56.7
+S2148,Term1,Science,59.6
+S2148,Term1,History,75.6
+S2148,Term1,Computer Science,78.1
+S2148,Term1,Economics,73.6
+S2148,Term1,Biology,81.3
+S2148,Term2,Math,65.7
+S2148,Term2,English,65.8
+S2148,Term2,Science,73.7
+S2148,Term2,History,75.2
+S2148,Term2,Computer Science,74.0
+S2148,Term2,Economics,63.3
+S2148,Term2,Biology,60.2
+S2148,Term3,Math,65.0
+S2148,Term3,English,75.8
+S2148,Term3,Science,73.4
+S2148,Term3,History,65.2
+S2148,Term3,Computer Science,76.0
+S2148,Term3,Economics,51.4
+S2148,Term3,Biology,62.1
+S2149,Term1,Math,52.0
+S2149,Term1,English,56.9
+S2149,Term1,Science,69.1
+S2149,Term1,History,61.4
+S2149,Term1,Computer Science,49.2
+S2149,Term1,Economics,56.9
+S2149,Term1,Biology,67.2
+S2149,Term2,Math,77.7
+S2149,Term2,English,56.7
+S2149,Term2,Science,69.0
+S2149,Term2,History,61.4
+S2149,Term2,Computer Science,91.3
+S2149,Term2,Economics,68.3
+S2149,Term2,Biology,72.9
+S2149,Term3,Math,76.0
+S2149,Term3,English,73.6
+S2149,Term3,Science,60.1
+S2149,Term3,History,51.9
+S2149,Term3,Computer Science,58.7
+S2149,Term3,Economics,70.4
+S2149,Term3,Biology,66.6
+S2150,Term1,Math,68.8
+S2150,Term1,English,59.9
+S2150,Term1,Science,67.2
+S2150,Term1,History,92.4
+S2150,Term1,Computer Science,81.1
+S2150,Term1,Economics,75.5
+S2150,Term1,Biology,63.6
+S2150,Term2,Math,79.9
+S2150,Term2,English,70.7
+S2150,Term2,Science,69.3
+S2150,Term2,History,50.9
+S2150,Term2,Computer Science,71.3
+S2150,Term2,Economics,75.2
+S2150,Term2,Biology,71.1
+S2150,Term3,Math,77.5
+S2150,Term3,English,81.4
+S2150,Term3,Science,83.1
+S2150,Term3,History,63.7
+S2150,Term3,Computer Science,79.1
+S2150,Term3,Economics,82.3
+S2150,Term3,Biology,73.0
+S2151,Term1,Math,97.7
+S2151,Term1,English,87.7
+S2151,Term1,Science,67.9
+S2151,Term1,History,83.0
+S2151,Term1,Computer Science,74.5
+S2151,Term1,Economics,80.9
+S2151,Term1,Biology,67.1
+S2151,Term2,Math,57.0
+S2151,Term2,English,49.6
+S2151,Term2,Science,54.4
+S2151,Term2,History,63.5
+S2151,Term2,Computer Science,83.2
+S2151,Term2,Economics,69.8
+S2151,Term2,Biology,77.6
+S2151,Term3,Math,52.9
+S2151,Term3,English,54.8
+S2151,Term3,Science,54.8
+S2151,Term3,History,55.3
+S2151,Term3,Computer Science,51.2
+S2151,Term3,Economics,48.6
+S2151,Term3,Biology,54.6
+S2152,Term1,Math,71.3
+S2152,Term1,English,74.8
+S2152,Term1,Science,61.1
+S2152,Term1,History,80.8
+S2152,Term1,Computer Science,45.7
+S2152,Term1,Economics,55.9
+S2152,Term1,Biology,51.9
+S2152,Term2,Math,80.2
+S2152,Term2,English,86.7
+S2152,Term2,Science,93.4
+S2152,Term2,History,91.7
+S2152,Term2,Computer Science,90.1
+S2152,Term2,Economics,79.9
+S2152,Term2,Biology,69.3
+S2152,Term3,Math,61.0
+S2152,Term3,English,56.5
+S2152,Term3,Science,69.9
+S2152,Term3,History,63.8
+S2152,Term3,Computer Science,64.1
+S2152,Term3,Economics,63.1
+S2152,Term3,Biology,69.8
+S2153,Term1,Math,65.4
+S2153,Term1,English,53.5
+S2153,Term1,Science,89.1
+S2153,Term1,History,55.5
+S2153,Term1,Computer Science,49.7
+S2153,Term1,Economics,45.0
+S2153,Term1,Biology,44.9
+S2153,Term2,Math,78.1
+S2153,Term2,English,69.7
+S2153,Term2,Science,66.3
+S2153,Term2,History,66.2
+S2153,Term2,Computer Science,54.0
+S2153,Term2,Economics,74.3
+S2153,Term2,Biology,87.7
+S2153,Term3,Math,68.3
+S2153,Term3,English,58.9
+S2153,Term3,Science,48.1
+S2153,Term3,History,48.1
+S2153,Term3,Computer Science,33.4
+S2153,Term3,Economics,43.2
+S2153,Term3,Biology,43.3
+S2154,Term1,Math,62.6
+S2154,Term1,English,64.2
+S2154,Term1,Science,70.7
+S2154,Term1,History,51.9
+S2154,Term1,Computer Science,48.5
+S2154,Term1,Economics,71.4
+S2154,Term1,Biology,46.7
+S2154,Term2,Math,75.7
+S2154,Term2,English,80.0
+S2154,Term2,Science,79.9
+S2154,Term2,History,64.6
+S2154,Term2,Computer Science,57.8
+S2154,Term2,Economics,90.7
+S2154,Term2,Biology,87.3
+S2154,Term3,Math,81.1
+S2154,Term3,English,76.4
+S2154,Term3,Science,73.7
+S2154,Term3,History,75.4
+S2154,Term3,Computer Science,70.9
+S2154,Term3,Economics,91.3
+S2154,Term3,Biology,91.6
+S2155,Term1,Math,74.5
+S2155,Term1,English,55.9
+S2155,Term1,Science,70.5
+S2155,Term1,History,58.8
+S2155,Term1,Computer Science,55.8
+S2155,Term1,Economics,76.4
+S2155,Term1,Biology,64.7
+S2155,Term2,Math,82.3
+S2155,Term2,English,70.1
+S2155,Term2,Science,75.8
+S2155,Term2,History,68.7
+S2155,Term2,Computer Science,78.8
+S2155,Term2,Economics,69.5
+S2155,Term2,Biology,75.6
+S2155,Term3,Math,90.0
+S2155,Term3,English,89.7
+S2155,Term3,Science,74.2
+S2155,Term3,History,82.1
+S2155,Term3,Computer Science,74.8
+S2155,Term3,Economics,65.8
+S2155,Term3,Biology,78.4
+S2156,Term1,Math,74.5
+S2156,Term1,English,94.7
+S2156,Term1,Science,89.6
+S2156,Term1,History,71.7
+S2156,Term1,Computer Science,75.9
+S2156,Term1,Economics,87.4
+S2156,Term1,Biology,94.4
+S2156,Term2,Math,63.5
+S2156,Term2,English,61.8
+S2156,Term2,Science,77.0
+S2156,Term2,History,66.9
+S2156,Term2,Computer Science,76.0
+S2156,Term2,Economics,76.5
+S2156,Term2,Biology,62.9
+S2156,Term3,Math,84.7
+S2156,Term3,English,77.1
+S2156,Term3,Science,65.6
+S2156,Term3,History,90.2
+S2156,Term3,Computer Science,89.7
+S2156,Term3,Economics,71.4
+S2156,Term3,Biology,77.0
+S2157,Term1,Math,52.4
+S2157,Term1,English,45.4
+S2157,Term1,Science,52.9
+S2157,Term1,History,59.6
+S2157,Term1,Computer Science,68.6
+S2157,Term1,Economics,75.3
+S2157,Term1,Biology,56.6
+S2157,Term2,Math,67.2
+S2157,Term2,English,63.4
+S2157,Term2,Science,61.1
+S2157,Term2,History,61.3
+S2157,Term2,Computer Science,68.1
+S2157,Term2,Economics,63.5
+S2157,Term2,Biology,78.6
+S2157,Term3,Math,58.2
+S2157,Term3,English,33.1
+S2157,Term3,Science,45.9
+S2157,Term3,History,45.9
+S2157,Term3,Computer Science,47.3
+S2157,Term3,Economics,38.9
+S2157,Term3,Biology,41.2
+S2158,Term1,Math,66.4
+S2158,Term1,English,59.9
+S2158,Term1,Science,67.5
+S2158,Term1,History,47.0
+S2158,Term1,Computer Science,54.5
+S2158,Term1,Economics,48.0
+S2158,Term1,Biology,65.8
+S2158,Term2,Math,50.8
+S2158,Term2,English,56.9
+S2158,Term2,Science,43.9
+S2158,Term2,History,48.8
+S2158,Term2,Computer Science,48.2
+S2158,Term2,Economics,38.2
+S2158,Term2,Biology,54.4
+S2158,Term3,Math,36.9
+S2158,Term3,English,30.8
+S2158,Term3,Science,41.6
+S2158,Term3,History,35.3
+S2158,Term3,Computer Science,37.5
+S2158,Term3,Economics,31.0
+S2158,Term3,Biology,34.6
+S2159,Term1,Math,42.8
+S2159,Term1,English,37.6
+S2159,Term1,Science,44.9
+S2159,Term1,History,35.8
+S2159,Term1,Computer Science,40.4
+S2159,Term1,Economics,51.0
+S2159,Term1,Biology,48.9
+S2159,Term2,Math,57.8
+S2159,Term2,English,73.6
+S2159,Term2,Science,71.1
+S2159,Term2,History,53.0
+S2159,Term2,Computer Science,59.8
+S2159,Term2,Economics,64.6
+S2159,Term2,Biology,56.8
+S2159,Term3,Math,80.6
+S2159,Term3,English,54.5
+S2159,Term3,Science,72.8
+S2159,Term3,History,79.5
+S2159,Term3,Computer Science,77.2
+S2159,Term3,Economics,72.8
+S2159,Term3,Biology,67.1
+S2160,Term1,Math,73.2
+S2160,Term1,English,49.1
+S2160,Term1,Science,69.3
+S2160,Term1,History,62.2
+S2160,Term1,Computer Science,90.0
+S2160,Term1,Economics,54.6
+S2160,Term1,Biology,64.9
+S2160,Term2,Math,80.7
+S2160,Term2,English,52.3
+S2160,Term2,Science,56.9
+S2160,Term2,History,94.8
+S2160,Term2,Computer Science,61.6
+S2160,Term2,Economics,70.0
+S2160,Term2,Biology,76.6
+S2160,Term3,Math,63.3
+S2160,Term3,English,52.5
+S2160,Term3,Science,57.7
+S2160,Term3,History,48.3
+S2160,Term3,Computer Science,56.1
+S2160,Term3,Economics,46.0
+S2160,Term3,Biology,57.6
+S2161,Term1,Math,58.4
+S2161,Term1,English,39.3
+S2161,Term1,Science,54.2
+S2161,Term1,History,70.7
+S2161,Term1,Computer Science,76.1
+S2161,Term1,Economics,63.6
+S2161,Term1,Biology,76.0
+S2161,Term2,Math,88.0
+S2161,Term2,English,89.1
+S2161,Term2,Science,89.2
+S2161,Term2,History,86.6
+S2161,Term2,Computer Science,67.8
+S2161,Term2,Economics,93.0
+S2161,Term2,Biology,95.4
+S2161,Term3,Math,53.2
+S2161,Term3,English,63.8
+S2161,Term3,Science,65.8
+S2161,Term3,History,65.5
+S2161,Term3,Computer Science,54.5
+S2161,Term3,Economics,70.6
+S2161,Term3,Biology,61.3
+S2162,Term1,Math,27.9
+S2162,Term1,English,32.5
+S2162,Term1,Science,27.2
+S2162,Term1,History,25.5
+S2162,Term1,Computer Science,34.7
+S2162,Term1,Economics,29.7
+S2162,Term1,Biology,40.5
+S2162,Term2,Math,50.6
+S2162,Term2,English,23.0
+S2162,Term2,Science,27.2
+S2162,Term2,History,20.3
+S2162,Term2,Computer Science,42.8
+S2162,Term2,Economics,41.2
+S2162,Term2,Biology,21.9
+S2162,Term3,Math,67.2
+S2162,Term3,English,76.1
+S2162,Term3,Science,83.6
+S2162,Term3,History,62.0
+S2162,Term3,Computer Science,93.0
+S2162,Term3,Economics,93.2
+S2162,Term3,Biology,78.9
+S2163,Term1,Math,54.0
+S2163,Term1,English,77.8
+S2163,Term1,Science,68.9
+S2163,Term1,History,64.1
+S2163,Term1,Computer Science,58.1
+S2163,Term1,Economics,54.4
+S2163,Term1,Biology,75.8
+S2163,Term2,Math,52.3
+S2163,Term2,English,71.0
+S2163,Term2,Science,61.8
+S2163,Term2,History,45.4
+S2163,Term2,Computer Science,57.5
+S2163,Term2,Economics,67.0
+S2163,Term2,Biology,61.9
+S2163,Term3,Math,75.8
+S2163,Term3,English,63.5
+S2163,Term3,Science,73.9
+S2163,Term3,History,55.8
+S2163,Term3,Computer Science,90.3
+S2163,Term3,Economics,79.4
+S2163,Term3,Biology,78.1
+S2164,Term1,Math,73.4
+S2164,Term1,English,69.1
+S2164,Term1,Science,73.0
+S2164,Term1,History,79.1
+S2164,Term1,Computer Science,87.9
+S2164,Term1,Economics,64.2
+S2164,Term1,Biology,73.3
+S2164,Term2,Math,53.3
+S2164,Term2,English,59.1
+S2164,Term2,Science,48.7
+S2164,Term2,History,44.7
+S2164,Term2,Computer Science,56.9
+S2164,Term2,Economics,50.7
+S2164,Term2,Biology,48.6
+S2164,Term3,Math,74.1
+S2164,Term3,English,95.4
+S2164,Term3,Science,74.7
+S2164,Term3,History,71.7
+S2164,Term3,Computer Science,71.1
+S2164,Term3,Economics,66.4
+S2164,Term3,Biology,65.3
+S2165,Term1,Math,59.7
+S2165,Term1,English,58.8
+S2165,Term1,Science,59.2
+S2165,Term1,History,64.8
+S2165,Term1,Computer Science,70.9
+S2165,Term1,Economics,66.8
+S2165,Term1,Biology,69.4
+S2165,Term2,Math,94.5
+S2165,Term2,English,71.6
+S2165,Term2,Science,94.9
+S2165,Term2,History,90.6
+S2165,Term2,Computer Science,78.0
+S2165,Term2,Economics,76.0
+S2165,Term2,Biology,78.3
+S2165,Term3,Math,56.9
+S2165,Term3,English,41.2
+S2165,Term3,Science,51.8
+S2165,Term3,History,40.6
+S2165,Term3,Computer Science,56.1
+S2165,Term3,Economics,50.3
+S2165,Term3,Biology,57.8
+S2166,Term1,Math,63.4
+S2166,Term1,English,78.8
+S2166,Term1,Science,63.4
+S2166,Term1,History,90.6
+S2166,Term1,Computer Science,71.3
+S2166,Term1,Economics,71.2
+S2166,Term1,Biology,70.5
+S2166,Term2,Math,67.3
+S2166,Term2,English,66.2
+S2166,Term2,Science,51.5
+S2166,Term2,History,56.3
+S2166,Term2,Computer Science,50.5
+S2166,Term2,Economics,73.7
+S2166,Term2,Biology,46.2
+S2166,Term3,Math,88.8
+S2166,Term3,English,77.3
+S2166,Term3,Science,74.9
+S2166,Term3,History,72.8
+S2166,Term3,Computer Science,94.2
+S2166,Term3,Economics,93.6
+S2166,Term3,Biology,71.0
+S2167,Term1,Math,74.8
+S2167,Term1,English,65.5
+S2167,Term1,Science,60.9
+S2167,Term1,History,74.0
+S2167,Term1,Computer Science,63.1
+S2167,Term1,Economics,70.5
+S2167,Term1,Biology,47.3
+S2167,Term2,Math,80.8
+S2167,Term2,English,71.6
+S2167,Term2,Science,69.9
+S2167,Term2,History,63.2
+S2167,Term2,Computer Science,81.2
+S2167,Term2,Economics,83.8
+S2167,Term2,Biology,91.5
+S2167,Term3,Math,61.9
+S2167,Term3,English,86.1
+S2167,Term3,Science,86.4
+S2167,Term3,History,54.4
+S2167,Term3,Computer Science,75.2
+S2167,Term3,Economics,74.8
+S2167,Term3,Biology,64.5
+S2168,Term1,Math,52.9
+S2168,Term1,English,56.1
+S2168,Term1,Science,39.9
+S2168,Term1,History,54.2
+S2168,Term1,Computer Science,38.7
+S2168,Term1,Economics,44.7
+S2168,Term1,Biology,49.7
+S2168,Term2,Math,42.1
+S2168,Term2,English,37.3
+S2168,Term2,Science,61.1
+S2168,Term2,History,61.8
+S2168,Term2,Computer Science,47.1
+S2168,Term2,Economics,53.4
+S2168,Term2,Biology,54.0
+S2168,Term3,Math,52.9
+S2168,Term3,English,67.7
+S2168,Term3,Science,41.3
+S2168,Term3,History,60.3
+S2168,Term3,Computer Science,56.5
+S2168,Term3,Economics,58.4
+S2168,Term3,Biology,55.6
+S2169,Term1,Math,49.0
+S2169,Term1,English,55.8
+S2169,Term1,Science,29.1
+S2169,Term1,History,51.3
+S2169,Term1,Computer Science,55.1
+S2169,Term1,Economics,70.3
+S2169,Term1,Biology,55.6
+S2169,Term2,Math,48.5
+S2169,Term2,English,75.8
+S2169,Term2,Science,69.2
+S2169,Term2,History,46.1
+S2169,Term2,Computer Science,67.1
+S2169,Term2,Economics,61.3
+S2169,Term2,Biology,74.6
+S2169,Term3,Math,53.5
+S2169,Term3,English,51.9
+S2169,Term3,Science,53.3
+S2169,Term3,History,59.1
+S2169,Term3,Computer Science,60.2
+S2169,Term3,Economics,69.7
+S2169,Term3,Biology,48.4
+S2170,Term1,Math,74.0
+S2170,Term1,English,86.6
+S2170,Term1,Science,86.9
+S2170,Term1,History,73.6
+S2170,Term1,Computer Science,83.7
+S2170,Term1,Economics,71.2
+S2170,Term1,Biology,85.8
+S2170,Term2,Math,63.4
+S2170,Term2,English,71.1
+S2170,Term2,Science,58.3
+S2170,Term2,History,70.4
+S2170,Term2,Computer Science,62.1
+S2170,Term2,Economics,41.8
+S2170,Term2,Biology,61.6
+S2170,Term3,Math,65.4
+S2170,Term3,English,84.5
+S2170,Term3,Science,69.9
+S2170,Term3,History,70.6
+S2170,Term3,Computer Science,72.8
+S2170,Term3,Economics,79.9
+S2170,Term3,Biology,74.6
+S2171,Term1,Math,72.4
+S2171,Term1,English,88.1
+S2171,Term1,Science,74.2
+S2171,Term1,History,84.9
+S2171,Term1,Computer Science,74.1
+S2171,Term1,Economics,85.5
+S2171,Term1,Biology,69.6
+S2171,Term2,Math,61.0
+S2171,Term2,English,80.1
+S2171,Term2,Science,65.3
+S2171,Term2,History,70.6
+S2171,Term2,Computer Science,62.0
+S2171,Term2,Economics,75.4
+S2171,Term2,Biology,81.5
+S2171,Term3,Math,32.6
+S2171,Term3,English,53.5
+S2171,Term3,Science,58.8
+S2171,Term3,History,49.1
+S2171,Term3,Computer Science,37.8
+S2171,Term3,Economics,65.7
+S2171,Term3,Biology,56.4
+S2172,Term1,Math,66.5
+S2172,Term1,English,77.6
+S2172,Term1,Science,80.2
+S2172,Term1,History,79.1
+S2172,Term1,Computer Science,77.8
+S2172,Term1,Economics,79.8
+S2172,Term1,Biology,69.6
+S2172,Term2,Math,81.0
+S2172,Term2,English,50.2
+S2172,Term2,Science,77.2
+S2172,Term2,History,67.0
+S2172,Term2,Computer Science,71.9
+S2172,Term2,Economics,62.9
+S2172,Term2,Biology,78.4
+S2172,Term3,Math,70.8
+S2172,Term3,English,82.2
+S2172,Term3,Science,84.6
+S2172,Term3,History,68.0
+S2172,Term3,Computer Science,67.1
+S2172,Term3,Economics,78.8
+S2172,Term3,Biology,85.9
+S2173,Term1,Math,60.9
+S2173,Term1,English,74.4
+S2173,Term1,Science,59.7
+S2173,Term1,History,58.3
+S2173,Term1,Computer Science,75.4
+S2173,Term1,Economics,57.7
+S2173,Term1,Biology,51.5
+S2173,Term2,Math,47.6
+S2173,Term2,English,56.1
+S2173,Term2,Science,57.9
+S2173,Term2,History,76.7
+S2173,Term2,Computer Science,53.6
+S2173,Term2,Economics,57.2
+S2173,Term2,Biology,56.0
+S2173,Term3,Math,57.0
+S2173,Term3,English,66.6
+S2173,Term3,Science,75.7
+S2173,Term3,History,66.8
+S2173,Term3,Computer Science,79.7
+S2173,Term3,Economics,64.5
+S2173,Term3,Biology,58.1
+S2174,Term1,Math,71.2
+S2174,Term1,English,63.7
+S2174,Term1,Science,65.4
+S2174,Term1,History,60.5
+S2174,Term1,Computer Science,61.1
+S2174,Term1,Economics,66.5
+S2174,Term1,Biology,74.2
+S2174,Term2,Math,76.6
+S2174,Term2,English,74.4
+S2174,Term2,Science,85.2
+S2174,Term2,History,85.4
+S2174,Term2,Computer Science,68.8
+S2174,Term2,Economics,67.7
+S2174,Term2,Biology,72.6
+S2174,Term3,Math,74.8
+S2174,Term3,English,79.3
+S2174,Term3,Science,88.4
+S2174,Term3,History,79.5
+S2174,Term3,Computer Science,100.0
+S2174,Term3,Economics,100.0
+S2174,Term3,Biology,100.0
+S2175,Term1,Math,61.7
+S2175,Term1,English,62.3
+S2175,Term1,Science,54.3
+S2175,Term1,History,66.1
+S2175,Term1,Computer Science,65.8
+S2175,Term1,Economics,52.9
+S2175,Term1,Biology,61.7
+S2175,Term2,Math,61.4
+S2175,Term2,English,47.1
+S2175,Term2,Science,75.1
+S2175,Term2,History,55.5
+S2175,Term2,Computer Science,52.8
+S2175,Term2,Economics,65.3
+S2175,Term2,Biology,70.9
+S2175,Term3,Math,62.4
+S2175,Term3,English,73.6
+S2175,Term3,Science,70.1
+S2175,Term3,History,67.8
+S2175,Term3,Computer Science,63.0
+S2175,Term3,Economics,59.5
+S2175,Term3,Biology,65.3
+S2176,Term1,Math,72.7
+S2176,Term1,English,80.7
+S2176,Term1,Science,73.3
+S2176,Term1,History,81.2
+S2176,Term1,Computer Science,77.0
+S2176,Term1,Economics,82.1
+S2176,Term1,Biology,82.0
+S2176,Term2,Math,84.0
+S2176,Term2,English,77.2
+S2176,Term2,Science,67.9
+S2176,Term2,History,71.3
+S2176,Term2,Computer Science,67.6
+S2176,Term2,Economics,84.4
+S2176,Term2,Biology,77.5
+S2176,Term3,Math,52.6
+S2176,Term3,English,56.1
+S2176,Term3,Science,58.9
+S2176,Term3,History,60.2
+S2176,Term3,Computer Science,44.3
+S2176,Term3,Economics,51.2
+S2176,Term3,Biology,49.3
+S2177,Term1,Math,61.5
+S2177,Term1,English,67.8
+S2177,Term1,Science,71.9
+S2177,Term1,History,53.7
+S2177,Term1,Computer Science,63.3
+S2177,Term1,Economics,62.2
+S2177,Term1,Biology,47.0
+S2177,Term2,Math,53.1
+S2177,Term2,English,65.2
+S2177,Term2,Science,54.1
+S2177,Term2,History,56.9
+S2177,Term2,Computer Science,67.7
+S2177,Term2,Economics,68.7
+S2177,Term2,Biology,53.7
+S2177,Term3,Math,81.7
+S2177,Term3,English,100.0
+S2177,Term3,Science,82.9
+S2177,Term3,History,92.1
+S2177,Term3,Computer Science,96.8
+S2177,Term3,Economics,99.5
+S2177,Term3,Biology,94.1
+S2178,Term1,Math,62.9
+S2178,Term1,English,58.9
+S2178,Term1,Science,61.6
+S2178,Term1,History,76.1
+S2178,Term1,Computer Science,46.9
+S2178,Term1,Economics,45.4
+S2178,Term1,Biology,33.2
+S2178,Term2,Math,59.5
+S2178,Term2,English,57.8
+S2178,Term2,Science,74.0
+S2178,Term2,History,75.6
+S2178,Term2,Computer Science,78.2
+S2178,Term2,Economics,46.2
+S2178,Term2,Biology,81.3
+S2178,Term3,Math,50.7
+S2178,Term3,English,74.4
+S2178,Term3,Science,61.1
+S2178,Term3,History,49.8
+S2178,Term3,Computer Science,54.7
+S2178,Term3,Economics,54.9
+S2178,Term3,Biology,56.7
+S2179,Term1,Math,67.7
+S2179,Term1,English,62.5
+S2179,Term1,Science,71.3
+S2179,Term1,History,71.6
+S2179,Term1,Computer Science,66.9
+S2179,Term1,Economics,81.7
+S2179,Term1,Biology,66.9
+S2179,Term2,Math,72.2
+S2179,Term2,English,54.7
+S2179,Term2,Science,74.4
+S2179,Term2,History,81.9
+S2179,Term2,Computer Science,74.2
+S2179,Term2,Economics,74.8
+S2179,Term2,Biology,65.9
+S2179,Term3,Math,57.3
+S2179,Term3,English,64.9
+S2179,Term3,Science,69.9
+S2179,Term3,History,63.0
+S2179,Term3,Computer Science,88.6
+S2179,Term3,Economics,81.3
+S2179,Term3,Biology,70.4
+S2180,Term1,Math,34.5
+S2180,Term1,English,24.3
+S2180,Term1,Science,32.8
+S2180,Term1,History,53.2
+S2180,Term1,Computer Science,35.0
+S2180,Term1,Economics,19.3
+S2180,Term1,Biology,28.9
+S2180,Term2,Math,62.1
+S2180,Term2,English,62.6
+S2180,Term2,Science,58.5
+S2180,Term2,History,65.0
+S2180,Term2,Computer Science,69.2
+S2180,Term2,Economics,59.3
+S2180,Term2,Biology,64.9
+S2180,Term3,Math,66.9
+S2180,Term3,English,57.4
+S2180,Term3,Science,54.5
+S2180,Term3,History,51.7
+S2180,Term3,Computer Science,58.6
+S2180,Term3,Economics,47.8
+S2180,Term3,Biology,69.1
+S2181,Term1,Math,80.6
+S2181,Term1,English,61.3
+S2181,Term1,Science,62.3
+S2181,Term1,History,50.6
+S2181,Term1,Computer Science,65.4
+S2181,Term1,Economics,57.2
+S2181,Term1,Biology,60.4
+S2181,Term2,Math,73.4
+S2181,Term2,English,49.3
+S2181,Term2,Science,89.5
+S2181,Term2,History,60.4
+S2181,Term2,Computer Science,58.8
+S2181,Term2,Economics,70.7
+S2181,Term2,Biology,56.7
+S2181,Term3,Math,94.8
+S2181,Term3,English,77.2
+S2181,Term3,Science,65.6
+S2181,Term3,History,77.3
+S2181,Term3,Computer Science,65.8
+S2181,Term3,Economics,83.5
+S2181,Term3,Biology,86.5
+S2182,Term1,Math,68.8
+S2182,Term1,English,72.3
+S2182,Term1,Science,80.2
+S2182,Term1,History,97.0
+S2182,Term1,Computer Science,40.7
+S2182,Term1,Economics,71.7
+S2182,Term1,Biology,64.6
+S2182,Term2,Math,50.5
+S2182,Term2,English,59.0
+S2182,Term2,Science,68.2
+S2182,Term2,History,49.6
+S2182,Term2,Computer Science,60.4
+S2182,Term2,Economics,50.1
+S2182,Term2,Biology,49.0
+S2182,Term3,Math,56.7
+S2182,Term3,English,57.6
+S2182,Term3,Science,43.1
+S2182,Term3,History,55.2
+S2182,Term3,Computer Science,51.5
+S2182,Term3,Economics,24.7
+S2182,Term3,Biology,54.6
+S2183,Term1,Math,68.6
+S2183,Term1,English,71.6
+S2183,Term1,Science,73.7
+S2183,Term1,History,82.9
+S2183,Term1,Computer Science,59.3
+S2183,Term1,Economics,69.8
+S2183,Term1,Biology,91.8
+S2183,Term2,Math,41.6
+S2183,Term2,English,57.7
+S2183,Term2,Science,75.6
+S2183,Term2,History,59.2
+S2183,Term2,Computer Science,57.8
+S2183,Term2,Economics,66.3
+S2183,Term2,Biology,42.8
+S2183,Term3,Math,57.8
+S2183,Term3,English,66.4
+S2183,Term3,Science,65.6
+S2183,Term3,History,57.8
+S2183,Term3,Computer Science,61.6
+S2183,Term3,Economics,79.1
+S2183,Term3,Biology,68.7
+S2184,Term1,Math,73.8
+S2184,Term1,English,42.0
+S2184,Term1,Science,66.8
+S2184,Term1,History,52.7
+S2184,Term1,Computer Science,53.5
+S2184,Term1,Economics,77.1
+S2184,Term1,Biology,77.7
+S2184,Term2,Math,86.2
+S2184,Term2,English,82.8
+S2184,Term2,Science,77.3
+S2184,Term2,History,73.5
+S2184,Term2,Computer Science,85.0
+S2184,Term2,Economics,84.9
+S2184,Term2,Biology,70.6
+S2184,Term3,Math,68.7
+S2184,Term3,English,59.5
+S2184,Term3,Science,57.5
+S2184,Term3,History,52.7
+S2184,Term3,Computer Science,37.9
+S2184,Term3,Economics,65.1
+S2184,Term3,Biology,63.1
+S2185,Term1,Math,79.0
+S2185,Term1,English,80.9
+S2185,Term1,Science,89.9
+S2185,Term1,History,87.9
+S2185,Term1,Computer Science,88.9
+S2185,Term1,Economics,66.9
+S2185,Term1,Biology,80.9
+S2185,Term2,Math,86.5
+S2185,Term2,English,44.6
+S2185,Term2,Science,64.2
+S2185,Term2,History,71.8
+S2185,Term2,Computer Science,59.0
+S2185,Term2,Economics,67.1
+S2185,Term2,Biology,86.5
+S2185,Term3,Math,67.2
+S2185,Term3,English,67.6
+S2185,Term3,Science,79.2
+S2185,Term3,History,65.8
+S2185,Term3,Computer Science,80.9
+S2185,Term3,Economics,79.9
+S2185,Term3,Biology,83.0
+S2186,Term1,Math,59.5
+S2186,Term1,English,49.9
+S2186,Term1,Science,49.4
+S2186,Term1,History,63.9
+S2186,Term1,Computer Science,62.9
+S2186,Term1,Economics,63.1
+S2186,Term1,Biology,67.1
+S2186,Term2,Math,59.9
+S2186,Term2,English,38.0
+S2186,Term2,Science,51.1
+S2186,Term2,History,53.9
+S2186,Term2,Computer Science,54.2
+S2186,Term2,Economics,55.5
+S2186,Term2,Biology,52.8
+S2186,Term3,Math,77.0
+S2186,Term3,English,77.5
+S2186,Term3,Science,74.3
+S2186,Term3,History,55.5
+S2186,Term3,Computer Science,66.0
+S2186,Term3,Economics,62.9
+S2186,Term3,Biology,63.8
+S2187,Term1,Math,68.4
+S2187,Term1,English,61.7
+S2187,Term1,Science,76.7
+S2187,Term1,History,58.6
+S2187,Term1,Computer Science,70.1
+S2187,Term1,Economics,64.0
+S2187,Term1,Biology,56.6
+S2187,Term2,Math,51.9
+S2187,Term2,English,58.0
+S2187,Term2,Science,59.2
+S2187,Term2,History,57.9
+S2187,Term2,Computer Science,53.0
+S2187,Term2,Economics,61.0
+S2187,Term2,Biology,53.6
+S2187,Term3,Math,76.8
+S2187,Term3,English,56.0
+S2187,Term3,Science,53.1
+S2187,Term3,History,47.9
+S2187,Term3,Computer Science,57.9
+S2187,Term3,Economics,60.7
+S2187,Term3,Biology,65.7
+S2188,Term1,Math,52.5
+S2188,Term1,English,61.0
+S2188,Term1,Science,60.8
+S2188,Term1,History,53.4
+S2188,Term1,Computer Science,54.6
+S2188,Term1,Economics,58.4
+S2188,Term1,Biology,58.9
+S2188,Term2,Math,47.4
+S2188,Term2,English,57.3
+S2188,Term2,Science,57.7
+S2188,Term2,History,56.3
+S2188,Term2,Computer Science,73.2
+S2188,Term2,Economics,53.0
+S2188,Term2,Biology,55.7
+S2188,Term3,Math,72.9
+S2188,Term3,English,67.5
+S2188,Term3,Science,84.9
+S2188,Term3,History,68.3
+S2188,Term3,Computer Science,100.0
+S2188,Term3,Economics,91.0
+S2188,Term3,Biology,65.6
+S2189,Term1,Math,59.4
+S2189,Term1,English,64.3
+S2189,Term1,Science,66.6
+S2189,Term1,History,66.7
+S2189,Term1,Computer Science,62.1
+S2189,Term1,Economics,68.5
+S2189,Term1,Biology,68.4
+S2189,Term2,Math,59.5
+S2189,Term2,English,44.6
+S2189,Term2,Science,55.9
+S2189,Term2,History,71.6
+S2189,Term2,Computer Science,53.8
+S2189,Term2,Economics,60.7
+S2189,Term2,Biology,78.3
+S2189,Term3,Math,88.2
+S2189,Term3,English,78.6
+S2189,Term3,Science,59.9
+S2189,Term3,History,69.3
+S2189,Term3,Computer Science,87.8
+S2189,Term3,Economics,81.9
+S2189,Term3,Biology,67.9
+S2190,Term1,Math,53.0
+S2190,Term1,English,59.3
+S2190,Term1,Science,49.6
+S2190,Term1,History,59.6
+S2190,Term1,Computer Science,53.2
+S2190,Term1,Economics,62.0
+S2190,Term1,Biology,33.7
+S2190,Term2,Math,74.3
+S2190,Term2,English,53.2
+S2190,Term2,Science,65.6
+S2190,Term2,History,76.5
+S2190,Term2,Computer Science,67.8
+S2190,Term2,Economics,57.4
+S2190,Term2,Biology,59.6
+S2190,Term3,Math,51.3
+S2190,Term3,English,67.1
+S2190,Term3,Science,83.9
+S2190,Term3,History,52.6
+S2190,Term3,Computer Science,77.5
+S2190,Term3,Economics,75.7
+S2190,Term3,Biology,66.5
+S2191,Term1,Math,69.7
+S2191,Term1,English,61.5
+S2191,Term1,Science,55.4
+S2191,Term1,History,76.7
+S2191,Term1,Computer Science,74.6
+S2191,Term1,Economics,71.4
+S2191,Term1,Biology,46.8
+S2191,Term2,Math,64.5
+S2191,Term2,English,59.6
+S2191,Term2,Science,44.5
+S2191,Term2,History,68.9
+S2191,Term2,Computer Science,60.4
+S2191,Term2,Economics,60.9
+S2191,Term2,Biology,73.3
+S2191,Term3,Math,73.4
+S2191,Term3,English,64.2
+S2191,Term3,Science,59.5
+S2191,Term3,History,82.3
+S2191,Term3,Computer Science,53.3
+S2191,Term3,Economics,63.1
+S2191,Term3,Biology,64.2
+S2192,Term1,Math,87.2
+S2192,Term1,English,83.9
+S2192,Term1,Science,55.7
+S2192,Term1,History,82.3
+S2192,Term1,Computer Science,68.0
+S2192,Term1,Economics,87.9
+S2192,Term1,Biology,86.9
+S2192,Term2,Math,65.0
+S2192,Term2,English,54.5
+S2192,Term2,Science,51.3
+S2192,Term2,History,69.8
+S2192,Term2,Computer Science,58.8
+S2192,Term2,Economics,43.8
+S2192,Term2,Biology,61.2
+S2192,Term3,Math,81.9
+S2192,Term3,English,78.2
+S2192,Term3,Science,81.5
+S2192,Term3,History,81.4
+S2192,Term3,Computer Science,60.8
+S2192,Term3,Economics,63.1
+S2192,Term3,Biology,86.5
+S2193,Term1,Math,74.8
+S2193,Term1,English,77.6
+S2193,Term1,Science,71.9
+S2193,Term1,History,69.4
+S2193,Term1,Computer Science,75.4
+S2193,Term1,Economics,66.5
+S2193,Term1,Biology,58.4
+S2193,Term2,Math,67.0
+S2193,Term2,English,97.4
+S2193,Term2,Science,85.2
+S2193,Term2,History,93.9
+S2193,Term2,Computer Science,76.5
+S2193,Term2,Economics,69.8
+S2193,Term2,Biology,88.5
+S2193,Term3,Math,74.4
+S2193,Term3,English,66.4
+S2193,Term3,Science,71.0
+S2193,Term3,History,74.3
+S2193,Term3,Computer Science,67.1
+S2193,Term3,Economics,90.6
+S2193,Term3,Biology,70.5
+S2194,Term1,Math,62.3
+S2194,Term1,English,40.4
+S2194,Term1,Science,59.6
+S2194,Term1,History,71.4
+S2194,Term1,Computer Science,48.5
+S2194,Term1,Economics,67.6
+S2194,Term1,Biology,80.4
+S2194,Term2,Math,55.5
+S2194,Term2,English,47.8
+S2194,Term2,Science,65.9
+S2194,Term2,History,57.5
+S2194,Term2,Computer Science,65.6
+S2194,Term2,Economics,58.4
+S2194,Term2,Biology,70.4
+S2194,Term3,Math,60.0
+S2194,Term3,English,76.5
+S2194,Term3,Science,81.0
+S2194,Term3,History,75.9
+S2194,Term3,Computer Science,74.8
+S2194,Term3,Economics,74.7
+S2194,Term3,Biology,88.8
+S2195,Term1,Math,59.0
+S2195,Term1,English,54.5
+S2195,Term1,Science,55.9
+S2195,Term1,History,46.6
+S2195,Term1,Computer Science,48.2
+S2195,Term1,Economics,51.4
+S2195,Term1,Biology,48.3
+S2195,Term2,Math,42.7
+S2195,Term2,English,33.5
+S2195,Term2,Science,32.5
+S2195,Term2,History,57.5
+S2195,Term2,Computer Science,42.1
+S2195,Term2,Economics,43.2
+S2195,Term2,Biology,49.6
+S2195,Term3,Math,41.2
+S2195,Term3,English,52.9
+S2195,Term3,Science,48.1
+S2195,Term3,History,50.7
+S2195,Term3,Computer Science,46.6
+S2195,Term3,Economics,44.4
+S2195,Term3,Biology,48.9
+S2196,Term1,Math,76.3
+S2196,Term1,English,73.3
+S2196,Term1,Science,54.7
+S2196,Term1,History,74.3
+S2196,Term1,Computer Science,60.8
+S2196,Term1,Economics,62.5
+S2196,Term1,Biology,78.2
+S2196,Term2,Math,51.8
+S2196,Term2,English,75.2
+S2196,Term2,Science,67.7
+S2196,Term2,History,62.2
+S2196,Term2,Computer Science,60.6
+S2196,Term2,Economics,64.4
+S2196,Term2,Biology,68.2
+S2196,Term3,Math,67.4
+S2196,Term3,English,74.5
+S2196,Term3,Science,82.7
+S2196,Term3,History,71.4
+S2196,Term3,Computer Science,78.8
+S2196,Term3,Economics,80.8
+S2196,Term3,Biology,80.8
+S2197,Term1,Math,72.1
+S2197,Term1,English,67.0
+S2197,Term1,Science,82.6
+S2197,Term1,History,68.2
+S2197,Term1,Computer Science,76.9
+S2197,Term1,Economics,66.8
+S2197,Term1,Biology,74.8
+S2197,Term2,Math,49.8
+S2197,Term2,English,55.8
+S2197,Term2,Science,47.9
+S2197,Term2,History,42.4
+S2197,Term2,Computer Science,40.0
+S2197,Term2,Economics,38.1
+S2197,Term2,Biology,30.1
+S2197,Term3,Math,90.0
+S2197,Term3,English,86.2
+S2197,Term3,Science,86.7
+S2197,Term3,History,82.8
+S2197,Term3,Computer Science,77.6
+S2197,Term3,Economics,76.1
+S2197,Term3,Biology,93.2
+S2198,Term1,Math,51.1
+S2198,Term1,English,56.1
+S2198,Term1,Science,72.0
+S2198,Term1,History,40.5
+S2198,Term1,Computer Science,73.0
+S2198,Term1,Economics,49.1
+S2198,Term1,Biology,46.8
+S2198,Term2,Math,63.6
+S2198,Term2,English,68.4
+S2198,Term2,Science,71.4
+S2198,Term2,History,63.6
+S2198,Term2,Computer Science,73.5
+S2198,Term2,Economics,85.4
+S2198,Term2,Biology,72.1
+S2198,Term3,Math,85.4
+S2198,Term3,English,72.6
+S2198,Term3,Science,77.0
+S2198,Term3,History,82.6
+S2198,Term3,Computer Science,83.3
+S2198,Term3,Economics,66.8
+S2198,Term3,Biology,74.7
+S2199,Term1,Math,68.0
+S2199,Term1,English,76.9
+S2199,Term1,Science,76.2
+S2199,Term1,History,74.7
+S2199,Term1,Computer Science,65.8
+S2199,Term1,Economics,76.4
+S2199,Term1,Biology,89.6
+S2199,Term2,Math,61.7
+S2199,Term2,English,72.9
+S2199,Term2,Science,59.9
+S2199,Term2,History,65.9
+S2199,Term2,Computer Science,57.7
+S2199,Term2,Economics,65.8
+S2199,Term2,Biology,62.6
+S2199,Term3,Math,74.0
+S2199,Term3,English,84.2
+S2199,Term3,Science,95.2
+S2199,Term3,History,66.5
+S2199,Term3,Computer Science,82.4
+S2199,Term3,Economics,99.0
+S2199,Term3,Biology,85.3
+S2200,Term1,Math,80.9
+S2200,Term1,English,63.6
+S2200,Term1,Science,66.4
+S2200,Term1,History,79.0
+S2200,Term1,Computer Science,80.0
+S2200,Term1,Economics,47.3
+S2200,Term1,Biology,71.5
+S2200,Term2,Math,42.6
+S2200,Term2,English,59.8
+S2200,Term2,Science,68.8
+S2200,Term2,History,58.1
+S2200,Term2,Computer Science,61.0
+S2200,Term2,Economics,62.1
+S2200,Term2,Biology,51.0
+S2200,Term3,Math,67.8
+S2200,Term3,English,59.9
+S2200,Term3,Science,66.7
+S2200,Term3,History,76.5
+S2200,Term3,Computer Science,66.6
+S2200,Term3,Economics,69.3
+S2200,Term3,Biology,55.2
+S2201,Term1,Math,54.8
+S2201,Term1,English,56.6
+S2201,Term1,Science,42.8
+S2201,Term1,History,47.2
+S2201,Term1,Computer Science,37.7
+S2201,Term1,Economics,48.5
+S2201,Term1,Biology,53.4
+S2201,Term2,Math,67.3
+S2201,Term2,English,64.5
+S2201,Term2,Science,55.3
+S2201,Term2,History,78.2
+S2201,Term2,Computer Science,74.3
+S2201,Term2,Economics,49.1
+S2201,Term2,Biology,86.4
+S2201,Term3,Math,69.8
+S2201,Term3,English,62.7
+S2201,Term3,Science,92.8
+S2201,Term3,History,82.3
+S2201,Term3,Computer Science,82.7
+S2201,Term3,Economics,100.0
+S2201,Term3,Biology,75.3
+S2202,Term1,Math,61.3
+S2202,Term1,English,86.8
+S2202,Term1,Science,62.5
+S2202,Term1,History,67.9
+S2202,Term1,Computer Science,67.2
+S2202,Term1,Economics,81.9
+S2202,Term1,Biology,69.6
+S2202,Term2,Math,68.2
+S2202,Term2,English,71.1
+S2202,Term2,Science,73.3
+S2202,Term2,History,63.2
+S2202,Term2,Computer Science,68.9
+S2202,Term2,Economics,73.9
+S2202,Term2,Biology,72.3
+S2202,Term3,Math,42.8
+S2202,Term3,English,48.0
+S2202,Term3,Science,47.9
+S2202,Term3,History,44.4
+S2202,Term3,Computer Science,56.8
+S2202,Term3,Economics,53.1
+S2202,Term3,Biology,32.0
+S2203,Term1,Math,67.3
+S2203,Term1,English,63.6
+S2203,Term1,Science,58.3
+S2203,Term1,History,57.6
+S2203,Term1,Computer Science,44.3
+S2203,Term1,Economics,54.9
+S2203,Term1,Biology,61.0
+S2203,Term2,Math,80.5
+S2203,Term2,English,71.5
+S2203,Term2,Science,72.2
+S2203,Term2,History,85.1
+S2203,Term2,Computer Science,72.0
+S2203,Term2,Economics,76.5
+S2203,Term2,Biology,83.4
+S2203,Term3,Math,51.4
+S2203,Term3,English,68.2
+S2203,Term3,Science,60.3
+S2203,Term3,History,57.7
+S2203,Term3,Computer Science,65.8
+S2203,Term3,Economics,65.1
+S2203,Term3,Biology,56.6
+S2204,Term1,Math,60.8
+S2204,Term1,English,64.0
+S2204,Term1,Science,50.1
+S2204,Term1,History,64.9
+S2204,Term1,Computer Science,63.0
+S2204,Term1,Economics,61.8
+S2204,Term1,Biology,57.4
+S2204,Term2,Math,67.2
+S2204,Term2,English,36.1
+S2204,Term2,Science,52.6
+S2204,Term2,History,45.5
+S2204,Term2,Computer Science,31.6
+S2204,Term2,Economics,39.2
+S2204,Term2,Biology,57.8
+S2204,Term3,Math,56.5
+S2204,Term3,English,47.7
+S2204,Term3,Science,64.9
+S2204,Term3,History,44.4
+S2204,Term3,Computer Science,51.1
+S2204,Term3,Economics,57.2
+S2204,Term3,Biology,32.4
+S2205,Term1,Math,59.8
+S2205,Term1,English,59.9
+S2205,Term1,Science,71.8
+S2205,Term1,History,66.0
+S2205,Term1,Computer Science,61.0
+S2205,Term1,Economics,55.6
+S2205,Term1,Biology,53.8
+S2205,Term2,Math,72.4
+S2205,Term2,English,66.0
+S2205,Term2,Science,72.8
+S2205,Term2,History,79.5
+S2205,Term2,Computer Science,59.7
+S2205,Term2,Economics,76.0
+S2205,Term2,Biology,69.3
+S2205,Term3,Math,48.1
+S2205,Term3,English,69.3
+S2205,Term3,Science,64.5
+S2205,Term3,History,56.6
+S2205,Term3,Computer Science,61.9
+S2205,Term3,Economics,43.9
+S2205,Term3,Biology,63.9
+S2206,Term1,Math,77.1
+S2206,Term1,English,78.9
+S2206,Term1,Science,69.1
+S2206,Term1,History,77.8
+S2206,Term1,Computer Science,87.9
+S2206,Term1,Economics,73.6
+S2206,Term1,Biology,84.3
+S2206,Term2,Math,44.6
+S2206,Term2,English,47.0
+S2206,Term2,Science,39.8
+S2206,Term2,History,36.8
+S2206,Term2,Computer Science,39.6
+S2206,Term2,Economics,31.1
+S2206,Term2,Biology,31.8
+S2206,Term3,Math,76.9
+S2206,Term3,English,70.1
+S2206,Term3,Science,79.6
+S2206,Term3,History,72.5
+S2206,Term3,Computer Science,88.7
+S2206,Term3,Economics,74.0
+S2206,Term3,Biology,67.8
+S2207,Term1,Math,40.5
+S2207,Term1,English,39.0
+S2207,Term1,Science,44.6
+S2207,Term1,History,37.1
+S2207,Term1,Computer Science,46.7
+S2207,Term1,Economics,55.0
+S2207,Term1,Biology,55.4
+S2207,Term2,Math,73.3
+S2207,Term2,English,86.7
+S2207,Term2,Science,89.5
+S2207,Term2,History,78.5
+S2207,Term2,Computer Science,71.7
+S2207,Term2,Economics,90.6
+S2207,Term2,Biology,81.1
+S2207,Term3,Math,70.7
+S2207,Term3,English,63.2
+S2207,Term3,Science,68.5
+S2207,Term3,History,60.7
+S2207,Term3,Computer Science,58.6
+S2207,Term3,Economics,72.0
+S2207,Term3,Biology,64.3
+S2208,Term1,Math,84.7
+S2208,Term1,English,88.7
+S2208,Term1,Science,70.7
+S2208,Term1,History,92.4
+S2208,Term1,Computer Science,68.7
+S2208,Term1,Economics,74.3
+S2208,Term1,Biology,74.1
+S2208,Term2,Math,56.3
+S2208,Term2,English,54.4
+S2208,Term2,Science,46.2
+S2208,Term2,History,41.7
+S2208,Term2,Computer Science,54.8
+S2208,Term2,Economics,65.5
+S2208,Term2,Biology,65.3
+S2208,Term3,Math,68.1
+S2208,Term3,English,65.0
+S2208,Term3,Science,71.7
+S2208,Term3,History,57.6
+S2208,Term3,Computer Science,72.1
+S2208,Term3,Economics,49.5
+S2208,Term3,Biology,68.0
+S2209,Term1,Math,74.8
+S2209,Term1,English,92.3
+S2209,Term1,Science,75.7
+S2209,Term1,History,82.1
+S2209,Term1,Computer Science,71.0
+S2209,Term1,Economics,93.1
+S2209,Term1,Biology,81.5
+S2209,Term2,Math,71.4
+S2209,Term2,English,75.3
+S2209,Term2,Science,60.2
+S2209,Term2,History,49.6
+S2209,Term2,Computer Science,82.9
+S2209,Term2,Economics,62.3
+S2209,Term2,Biology,77.7
+S2209,Term3,Math,50.4
+S2209,Term3,English,53.3
+S2209,Term3,Science,41.8
+S2209,Term3,History,47.5
+S2209,Term3,Computer Science,42.6
+S2209,Term3,Economics,43.2
+S2209,Term3,Biology,55.2
+S2210,Term1,Math,59.9
+S2210,Term1,English,70.4
+S2210,Term1,Science,66.6
+S2210,Term1,History,71.8
+S2210,Term1,Computer Science,65.5
+S2210,Term1,Economics,62.3
+S2210,Term1,Biology,68.6
+S2210,Term2,Math,43.4
+S2210,Term2,English,49.0
+S2210,Term2,Science,66.8
+S2210,Term2,History,41.0
+S2210,Term2,Computer Science,44.2
+S2210,Term2,Economics,66.3
+S2210,Term2,Biology,61.3
+S2210,Term3,Math,57.8
+S2210,Term3,English,60.0
+S2210,Term3,Science,74.7
+S2210,Term3,History,71.8
+S2210,Term3,Computer Science,73.6
+S2210,Term3,Economics,67.2
+S2210,Term3,Biology,65.0
+S2211,Term1,Math,63.7
+S2211,Term1,English,66.5
+S2211,Term1,Science,62.4
+S2211,Term1,History,45.4
+S2211,Term1,Computer Science,68.2
+S2211,Term1,Economics,58.2
+S2211,Term1,Biology,57.9
+S2211,Term2,Math,44.8
+S2211,Term2,English,41.8
+S2211,Term2,Science,50.5
+S2211,Term2,History,44.2
+S2211,Term2,Computer Science,47.7
+S2211,Term2,Economics,56.6
+S2211,Term2,Biology,42.4
+S2211,Term3,Math,55.6
+S2211,Term3,English,56.3
+S2211,Term3,Science,69.9
+S2211,Term3,History,45.9
+S2211,Term3,Computer Science,56.3
+S2211,Term3,Economics,61.8
+S2211,Term3,Biology,49.2
+S2212,Term1,Math,72.3
+S2212,Term1,English,77.3
+S2212,Term1,Science,73.2
+S2212,Term1,History,66.3
+S2212,Term1,Computer Science,63.0
+S2212,Term1,Economics,73.0
+S2212,Term1,Biology,63.9
+S2212,Term2,Math,85.1
+S2212,Term2,English,80.1
+S2212,Term2,Science,77.4
+S2212,Term2,History,98.5
+S2212,Term2,Computer Science,87.8
+S2212,Term2,Economics,85.3
+S2212,Term2,Biology,90.7
+S2212,Term3,Math,55.1
+S2212,Term3,English,53.5
+S2212,Term3,Science,45.0
+S2212,Term3,History,55.6
+S2212,Term3,Computer Science,71.6
+S2212,Term3,Economics,43.3
+S2212,Term3,Biology,71.5
+S2213,Term1,Math,55.5
+S2213,Term1,English,47.4
+S2213,Term1,Science,50.3
+S2213,Term1,History,63.4
+S2213,Term1,Computer Science,46.1
+S2213,Term1,Economics,45.1
+S2213,Term1,Biology,48.9
+S2213,Term2,Math,49.6
+S2213,Term2,English,48.4
+S2213,Term2,Science,26.7
+S2213,Term2,History,33.3
+S2213,Term2,Computer Science,46.0
+S2213,Term2,Economics,41.6
+S2213,Term2,Biology,31.9
+S2213,Term3,Math,63.8
+S2213,Term3,English,68.0
+S2213,Term3,Science,66.4
+S2213,Term3,History,76.9
+S2213,Term3,Computer Science,58.7
+S2213,Term3,Economics,89.0
+S2213,Term3,Biology,81.9
+S2214,Term1,Math,82.3
+S2214,Term1,English,81.7
+S2214,Term1,Science,78.8
+S2214,Term1,History,86.1
+S2214,Term1,Computer Science,70.5
+S2214,Term1,Economics,88.7
+S2214,Term1,Biology,83.6
+S2214,Term2,Math,63.8
+S2214,Term2,English,65.1
+S2214,Term2,Science,72.0
+S2214,Term2,History,75.0
+S2214,Term2,Computer Science,74.2
+S2214,Term2,Economics,49.8
+S2214,Term2,Biology,68.4
+S2214,Term3,Math,62.8
+S2214,Term3,English,60.7
+S2214,Term3,Science,68.7
+S2214,Term3,History,55.6
+S2214,Term3,Computer Science,67.1
+S2214,Term3,Economics,57.8
+S2214,Term3,Biology,63.1
+S2215,Term1,Math,88.5
+S2215,Term1,English,80.9
+S2215,Term1,Science,67.2
+S2215,Term1,History,77.6
+S2215,Term1,Computer Science,84.7
+S2215,Term1,Economics,60.1
+S2215,Term1,Biology,82.1
+S2215,Term2,Math,88.9
+S2215,Term2,English,67.1
+S2215,Term2,Science,67.7
+S2215,Term2,History,81.9
+S2215,Term2,Computer Science,61.9
+S2215,Term2,Economics,76.3
+S2215,Term2,Biology,74.2
+S2215,Term3,Math,71.1
+S2215,Term3,English,42.9
+S2215,Term3,Science,58.1
+S2215,Term3,History,49.1
+S2215,Term3,Computer Science,58.2
+S2215,Term3,Economics,49.4
+S2215,Term3,Biology,54.4
+S2216,Term1,Math,63.5
+S2216,Term1,English,55.8
+S2216,Term1,Science,60.6
+S2216,Term1,History,52.6
+S2216,Term1,Computer Science,53.1
+S2216,Term1,Economics,76.5
+S2216,Term1,Biology,67.6
+S2216,Term2,Math,61.3
+S2216,Term2,English,70.5
+S2216,Term2,Science,51.0
+S2216,Term2,History,59.2
+S2216,Term2,Computer Science,71.1
+S2216,Term2,Economics,53.8
+S2216,Term2,Biology,70.1
+S2216,Term3,Math,52.1
+S2216,Term3,English,57.8
+S2216,Term3,Science,70.5
+S2216,Term3,History,57.2
+S2216,Term3,Computer Science,46.6
+S2216,Term3,Economics,58.3
+S2216,Term3,Biology,62.6
+S2217,Term1,Math,66.2
+S2217,Term1,English,50.6
+S2217,Term1,Science,48.6
+S2217,Term1,History,54.6
+S2217,Term1,Computer Science,73.5
+S2217,Term1,Economics,64.9
+S2217,Term1,Biology,68.3
+S2217,Term2,Math,55.8
+S2217,Term2,English,49.3
+S2217,Term2,Science,62.8
+S2217,Term2,History,54.6
+S2217,Term2,Computer Science,64.6
+S2217,Term2,Economics,63.2
+S2217,Term2,Biology,51.9
+S2217,Term3,Math,80.2
+S2217,Term3,English,67.5
+S2217,Term3,Science,85.2
+S2217,Term3,History,78.5
+S2217,Term3,Computer Science,70.2
+S2217,Term3,Economics,85.9
+S2217,Term3,Biology,67.5
+S2218,Term1,Math,59.6
+S2218,Term1,English,62.8
+S2218,Term1,Science,61.1
+S2218,Term1,History,50.7
+S2218,Term1,Computer Science,66.2
+S2218,Term1,Economics,54.5
+S2218,Term1,Biology,56.1
+S2218,Term2,Math,38.1
+S2218,Term2,English,46.5
+S2218,Term2,Science,39.1
+S2218,Term2,History,45.0
+S2218,Term2,Computer Science,66.8
+S2218,Term2,Economics,63.1
+S2218,Term2,Biology,35.9
+S2218,Term3,Math,54.9
+S2218,Term3,English,45.5
+S2218,Term3,Science,55.1
+S2218,Term3,History,48.3
+S2218,Term3,Computer Science,51.6
+S2218,Term3,Economics,58.8
+S2218,Term3,Biology,46.8
+S2219,Term1,Math,64.4
+S2219,Term1,English,89.6
+S2219,Term1,Science,77.1
+S2219,Term1,History,64.5
+S2219,Term1,Computer Science,71.1
+S2219,Term1,Economics,73.1
+S2219,Term1,Biology,69.9
+S2219,Term2,Math,58.1
+S2219,Term2,English,73.7
+S2219,Term2,Science,80.7
+S2219,Term2,History,51.3
+S2219,Term2,Computer Science,72.8
+S2219,Term2,Economics,55.0
+S2219,Term2,Biology,71.7
+S2219,Term3,Math,50.8
+S2219,Term3,English,46.1
+S2219,Term3,Science,66.4
+S2219,Term3,History,50.9
+S2219,Term3,Computer Science,47.3
+S2219,Term3,Economics,50.1
+S2219,Term3,Biology,68.1
+S2220,Term1,Math,66.9
+S2220,Term1,English,81.9
+S2220,Term1,Science,74.4
+S2220,Term1,History,92.1
+S2220,Term1,Computer Science,81.7
+S2220,Term1,Economics,72.5
+S2220,Term1,Biology,82.8
+S2220,Term2,Math,68.9
+S2220,Term2,English,67.9
+S2220,Term2,Science,65.6
+S2220,Term2,History,69.4
+S2220,Term2,Computer Science,63.9
+S2220,Term2,Economics,62.7
+S2220,Term2,Biology,75.0
+S2220,Term3,Math,59.8
+S2220,Term3,English,55.5
+S2220,Term3,Science,60.9
+S2220,Term3,History,51.3
+S2220,Term3,Computer Science,45.8
+S2220,Term3,Economics,81.3
+S2220,Term3,Biology,63.7
+S2221,Term1,Math,32.9
+S2221,Term1,English,56.8
+S2221,Term1,Science,52.5
+S2221,Term1,History,35.9
+S2221,Term1,Computer Science,53.8
+S2221,Term1,Economics,40.5
+S2221,Term1,Biology,53.2
+S2221,Term2,Math,56.7
+S2221,Term2,English,66.1
+S2221,Term2,Science,52.4
+S2221,Term2,History,54.8
+S2221,Term2,Computer Science,44.1
+S2221,Term2,Economics,63.9
+S2221,Term2,Biology,68.8
+S2221,Term3,Math,59.1
+S2221,Term3,English,41.5
+S2221,Term3,Science,53.8
+S2221,Term3,History,63.6
+S2221,Term3,Computer Science,51.7
+S2221,Term3,Economics,43.9
+S2221,Term3,Biology,49.5
+S2222,Term1,Math,85.4
+S2222,Term1,English,82.9
+S2222,Term1,Science,68.6
+S2222,Term1,History,80.5
+S2222,Term1,Computer Science,76.5
+S2222,Term1,Economics,73.3
+S2222,Term1,Biology,89.4
+S2222,Term2,Math,55.0
+S2222,Term2,English,60.4
+S2222,Term2,Science,67.8
+S2222,Term2,History,48.3
+S2222,Term2,Computer Science,60.9
+S2222,Term2,Economics,56.7
+S2222,Term2,Biology,68.8
+S2222,Term3,Math,93.8
+S2222,Term3,English,86.8
+S2222,Term3,Science,88.3
+S2222,Term3,History,65.8
+S2222,Term3,Computer Science,86.7
+S2222,Term3,Economics,88.3
+S2222,Term3,Biology,62.5
+S2223,Term1,Math,56.3
+S2223,Term1,English,78.4
+S2223,Term1,Science,58.8
+S2223,Term1,History,60.0
+S2223,Term1,Computer Science,57.7
+S2223,Term1,Economics,63.5
+S2223,Term1,Biology,65.3
+S2223,Term2,Math,44.5
+S2223,Term2,English,34.1
+S2223,Term2,Science,47.2
+S2223,Term2,History,44.4
+S2223,Term2,Computer Science,42.6
+S2223,Term2,Economics,55.3
+S2223,Term2,Biology,43.5
+S2223,Term3,Math,66.8
+S2223,Term3,English,62.5
+S2223,Term3,Science,53.8
+S2223,Term3,History,72.1
+S2223,Term3,Computer Science,65.7
+S2223,Term3,Economics,53.2
+S2223,Term3,Biology,57.6
+S2224,Term1,Math,80.4
+S2224,Term1,English,94.5
+S2224,Term1,Science,76.4
+S2224,Term1,History,84.1
+S2224,Term1,Computer Science,86.0
+S2224,Term1,Economics,59.3
+S2224,Term1,Biology,78.7
+S2224,Term2,Math,86.1
+S2224,Term2,English,74.7
+S2224,Term2,Science,88.2
+S2224,Term2,History,67.2
+S2224,Term2,Computer Science,73.2
+S2224,Term2,Economics,82.4
+S2224,Term2,Biology,91.2
+S2224,Term3,Math,60.1
+S2224,Term3,English,56.1
+S2224,Term3,Science,62.1
+S2224,Term3,History,53.7
+S2224,Term3,Computer Science,73.6
+S2224,Term3,Economics,61.7
+S2224,Term3,Biology,49.4
+S2225,Term1,Math,43.8
+S2225,Term1,English,55.2
+S2225,Term1,Science,56.7
+S2225,Term1,History,58.1
+S2225,Term1,Computer Science,55.7
+S2225,Term1,Economics,44.3
+S2225,Term1,Biology,57.4
+S2225,Term2,Math,61.3
+S2225,Term2,English,61.7
+S2225,Term2,Science,58.3
+S2225,Term2,History,48.8
+S2225,Term2,Computer Science,61.9
+S2225,Term2,Economics,56.1
+S2225,Term2,Biology,58.2
+S2225,Term3,Math,66.2
+S2225,Term3,English,87.3
+S2225,Term3,Science,68.2
+S2225,Term3,History,75.9
+S2225,Term3,Computer Science,69.7
+S2225,Term3,Economics,82.6
+S2225,Term3,Biology,67.3
+S2226,Term1,Math,91.5
+S2226,Term1,English,78.8
+S2226,Term1,Science,81.3
+S2226,Term1,History,97.0
+S2226,Term1,Computer Science,75.8
+S2226,Term1,Economics,89.5
+S2226,Term1,Biology,80.1
+S2226,Term2,Math,80.4
+S2226,Term2,English,100.0
+S2226,Term2,Science,88.7
+S2226,Term2,History,98.3
+S2226,Term2,Computer Science,97.3
+S2226,Term2,Economics,100.0
+S2226,Term2,Biology,100.0
+S2226,Term3,Math,72.7
+S2226,Term3,English,68.1
+S2226,Term3,Science,84.8
+S2226,Term3,History,62.0
+S2226,Term3,Computer Science,62.7
+S2226,Term3,Economics,74.9
+S2226,Term3,Biology,52.2
+S2227,Term1,Math,37.0
+S2227,Term1,English,64.3
+S2227,Term1,Science,59.0
+S2227,Term1,History,50.5
+S2227,Term1,Computer Science,67.8
+S2227,Term1,Economics,53.4
+S2227,Term1,Biology,46.7
+S2227,Term2,Math,62.6
+S2227,Term2,English,58.2
+S2227,Term2,Science,84.4
+S2227,Term2,History,61.8
+S2227,Term2,Computer Science,91.4
+S2227,Term2,Economics,68.1
+S2227,Term2,Biology,89.6
+S2227,Term3,Math,59.5
+S2227,Term3,English,63.0
+S2227,Term3,Science,65.5
+S2227,Term3,History,55.8
+S2227,Term3,Computer Science,49.2
+S2227,Term3,Economics,60.4
+S2227,Term3,Biology,57.8
+S2228,Term1,Math,73.7
+S2228,Term1,English,70.9
+S2228,Term1,Science,63.6
+S2228,Term1,History,63.7
+S2228,Term1,Computer Science,64.5
+S2228,Term1,Economics,79.6
+S2228,Term1,Biology,63.1
+S2228,Term2,Math,74.3
+S2228,Term2,English,80.8
+S2228,Term2,Science,71.6
+S2228,Term2,History,76.7
+S2228,Term2,Computer Science,73.7
+S2228,Term2,Economics,70.4
+S2228,Term2,Biology,62.4
+S2228,Term3,Math,42.4
+S2228,Term3,English,55.1
+S2228,Term3,Science,35.1
+S2228,Term3,History,70.0
+S2228,Term3,Computer Science,72.1
+S2228,Term3,Economics,66.2
+S2228,Term3,Biology,53.1
+S2229,Term1,Math,55.4
+S2229,Term1,English,57.4
+S2229,Term1,Science,48.5
+S2229,Term1,History,56.5
+S2229,Term1,Computer Science,57.0
+S2229,Term1,Economics,43.8
+S2229,Term1,Biology,73.3
+S2229,Term2,Math,78.2
+S2229,Term2,English,67.9
+S2229,Term2,Science,63.4
+S2229,Term2,History,73.6
+S2229,Term2,Computer Science,65.6
+S2229,Term2,Economics,80.6
+S2229,Term2,Biology,68.5
+S2229,Term3,Math,74.0
+S2229,Term3,English,53.2
+S2229,Term3,Science,46.5
+S2229,Term3,History,54.0
+S2229,Term3,Computer Science,61.4
+S2229,Term3,Economics,79.1
+S2229,Term3,Biology,65.7
+S2230,Term1,Math,59.2
+S2230,Term1,English,68.5
+S2230,Term1,Science,80.7
+S2230,Term1,History,55.6
+S2230,Term1,Computer Science,67.6
+S2230,Term1,Economics,65.5
+S2230,Term1,Biology,53.9
+S2230,Term2,Math,71.7
+S2230,Term2,English,80.1
+S2230,Term2,Science,66.6
+S2230,Term2,History,68.3
+S2230,Term2,Computer Science,76.6
+S2230,Term2,Economics,81.6
+S2230,Term2,Biology,69.6
+S2230,Term3,Math,84.9
+S2230,Term3,English,86.2
+S2230,Term3,Science,78.1
+S2230,Term3,History,100.0
+S2230,Term3,Computer Science,70.9
+S2230,Term3,Economics,100.0
+S2230,Term3,Biology,92.8
+S2231,Term1,Math,66.5
+S2231,Term1,English,40.4
+S2231,Term1,Science,55.5
+S2231,Term1,History,61.3
+S2231,Term1,Computer Science,63.1
+S2231,Term1,Economics,50.9
+S2231,Term1,Biology,62.6
+S2231,Term2,Math,57.2
+S2231,Term2,English,62.9
+S2231,Term2,Science,74.4
+S2231,Term2,History,72.7
+S2231,Term2,Computer Science,73.5
+S2231,Term2,Economics,66.7
+S2231,Term2,Biology,57.3
+S2231,Term3,Math,65.9
+S2231,Term3,English,64.5
+S2231,Term3,Science,76.6
+S2231,Term3,History,70.9
+S2231,Term3,Computer Science,72.5
+S2231,Term3,Economics,61.2
+S2231,Term3,Biology,71.3
+S2232,Term1,Math,59.0
+S2232,Term1,English,63.4
+S2232,Term1,Science,68.8
+S2232,Term1,History,54.9
+S2232,Term1,Computer Science,64.6
+S2232,Term1,Economics,66.0
+S2232,Term1,Biology,58.7
+S2232,Term2,Math,79.0
+S2232,Term2,English,71.8
+S2232,Term2,Science,47.1
+S2232,Term2,History,50.6
+S2232,Term2,Computer Science,53.3
+S2232,Term2,Economics,66.1
+S2232,Term2,Biology,72.6
+S2232,Term3,Math,66.6
+S2232,Term3,English,69.3
+S2232,Term3,Science,57.6
+S2232,Term3,History,90.1
+S2232,Term3,Computer Science,80.7
+S2232,Term3,Economics,58.6
+S2232,Term3,Biology,77.2
+S2233,Term1,Math,72.4
+S2233,Term1,English,55.6
+S2233,Term1,Science,62.4
+S2233,Term1,History,55.9
+S2233,Term1,Computer Science,60.8
+S2233,Term1,Economics,60.5
+S2233,Term1,Biology,71.8
+S2233,Term2,Math,92.0
+S2233,Term2,English,80.9
+S2233,Term2,Science,80.3
+S2233,Term2,History,76.8
+S2233,Term2,Computer Science,68.2
+S2233,Term2,Economics,79.7
+S2233,Term2,Biology,76.1
+S2233,Term3,Math,80.3
+S2233,Term3,English,85.4
+S2233,Term3,Science,74.2
+S2233,Term3,History,66.6
+S2233,Term3,Computer Science,74.9
+S2233,Term3,Economics,64.8
+S2233,Term3,Biology,79.4
+S2234,Term1,Math,74.8
+S2234,Term1,English,70.7
+S2234,Term1,Science,84.3
+S2234,Term1,History,61.2
+S2234,Term1,Computer Science,76.7
+S2234,Term1,Economics,81.7
+S2234,Term1,Biology,67.0
+S2234,Term2,Math,78.1
+S2234,Term2,English,73.6
+S2234,Term2,Science,55.4
+S2234,Term2,History,52.6
+S2234,Term2,Computer Science,61.4
+S2234,Term2,Economics,68.5
+S2234,Term2,Biology,80.0
+S2234,Term3,Math,63.4
+S2234,Term3,English,78.4
+S2234,Term3,Science,65.2
+S2234,Term3,History,59.4
+S2234,Term3,Computer Science,52.3
+S2234,Term3,Economics,48.9
+S2234,Term3,Biology,53.4
+S2235,Term1,Math,64.8
+S2235,Term1,English,68.7
+S2235,Term1,Science,87.4
+S2235,Term1,History,49.6
+S2235,Term1,Computer Science,55.8
+S2235,Term1,Economics,75.2
+S2235,Term1,Biology,68.0
+S2235,Term2,Math,60.1
+S2235,Term2,English,68.2
+S2235,Term2,Science,68.2
+S2235,Term2,History,68.0
+S2235,Term2,Computer Science,73.2
+S2235,Term2,Economics,52.7
+S2235,Term2,Biology,58.9
+S2235,Term3,Math,47.4
+S2235,Term3,English,45.6
+S2235,Term3,Science,54.6
+S2235,Term3,History,46.6
+S2235,Term3,Computer Science,49.5
+S2235,Term3,Economics,45.9
+S2235,Term3,Biology,36.5
+S2236,Term1,Math,66.2
+S2236,Term1,English,75.8
+S2236,Term1,Science,70.0
+S2236,Term1,History,65.4
+S2236,Term1,Computer Science,77.8
+S2236,Term1,Economics,58.6
+S2236,Term1,Biology,57.2
+S2236,Term2,Math,41.1
+S2236,Term2,English,51.8
+S2236,Term2,Science,50.1
+S2236,Term2,History,56.5
+S2236,Term2,Computer Science,52.5
+S2236,Term2,Economics,64.4
+S2236,Term2,Biology,40.2
+S2236,Term3,Math,60.6
+S2236,Term3,English,49.3
+S2236,Term3,Science,80.1
+S2236,Term3,History,64.6
+S2236,Term3,Computer Science,69.3
+S2236,Term3,Economics,71.4
+S2236,Term3,Biology,61.4
+S2237,Term1,Math,75.6
+S2237,Term1,English,60.4
+S2237,Term1,Science,67.6
+S2237,Term1,History,54.1
+S2237,Term1,Computer Science,54.9
+S2237,Term1,Economics,70.8
+S2237,Term1,Biology,69.2
+S2237,Term2,Math,55.6
+S2237,Term2,English,47.2
+S2237,Term2,Science,40.2
+S2237,Term2,History,65.3
+S2237,Term2,Computer Science,50.6
+S2237,Term2,Economics,68.7
+S2237,Term2,Biology,61.8
+S2237,Term3,Math,76.9
+S2237,Term3,English,39.6
+S2237,Term3,Science,56.9
+S2237,Term3,History,62.7
+S2237,Term3,Computer Science,50.9
+S2237,Term3,Economics,47.2
+S2237,Term3,Biology,49.1
+S2238,Term1,Math,73.8
+S2238,Term1,English,67.1
+S2238,Term1,Science,71.0
+S2238,Term1,History,91.7
+S2238,Term1,Computer Science,76.0
+S2238,Term1,Economics,69.0
+S2238,Term1,Biology,82.1
+S2238,Term2,Math,44.4
+S2238,Term2,English,39.9
+S2238,Term2,Science,54.3
+S2238,Term2,History,51.5
+S2238,Term2,Computer Science,28.1
+S2238,Term2,Economics,55.9
+S2238,Term2,Biology,44.6
+S2238,Term3,Math,68.7
+S2238,Term3,English,86.6
+S2238,Term3,Science,73.0
+S2238,Term3,History,55.8
+S2238,Term3,Computer Science,76.7
+S2238,Term3,Economics,61.1
+S2238,Term3,Biology,65.6
+S2239,Term1,Math,63.4
+S2239,Term1,English,59.4
+S2239,Term1,Science,72.2
+S2239,Term1,History,76.5
+S2239,Term1,Computer Science,78.7
+S2239,Term1,Economics,65.5
+S2239,Term1,Biology,84.2
+S2239,Term2,Math,90.7
+S2239,Term2,English,98.7
+S2239,Term2,Science,65.7
+S2239,Term2,History,79.3
+S2239,Term2,Computer Science,67.7
+S2239,Term2,Economics,64.9
+S2239,Term2,Biology,93.2
+S2239,Term3,Math,77.7
+S2239,Term3,English,63.6
+S2239,Term3,Science,69.2
+S2239,Term3,History,77.9
+S2239,Term3,Computer Science,75.4
+S2239,Term3,Economics,62.7
+S2239,Term3,Biology,84.1
+S2240,Term1,Math,63.7
+S2240,Term1,English,66.9
+S2240,Term1,Science,52.1
+S2240,Term1,History,54.2
+S2240,Term1,Computer Science,55.6
+S2240,Term1,Economics,59.4
+S2240,Term1,Biology,56.5
+S2240,Term2,Math,63.6
+S2240,Term2,English,75.2
+S2240,Term2,Science,57.1
+S2240,Term2,History,58.3
+S2240,Term2,Computer Science,54.9
+S2240,Term2,Economics,62.4
+S2240,Term2,Biology,54.6
+S2240,Term3,Math,76.0
+S2240,Term3,English,91.5
+S2240,Term3,Science,72.9
+S2240,Term3,History,72.2
+S2240,Term3,Computer Science,66.7
+S2240,Term3,Economics,68.2
+S2240,Term3,Biology,78.7
+S2241,Term1,Math,78.4
+S2241,Term1,English,56.8
+S2241,Term1,Science,65.0
+S2241,Term1,History,59.0
+S2241,Term1,Computer Science,53.5
+S2241,Term1,Economics,53.7
+S2241,Term1,Biology,62.6
+S2241,Term2,Math,58.1
+S2241,Term2,English,61.8
+S2241,Term2,Science,70.8
+S2241,Term2,History,54.6
+S2241,Term2,Computer Science,76.3
+S2241,Term2,Economics,70.1
+S2241,Term2,Biology,77.3
+S2241,Term3,Math,56.0
+S2241,Term3,English,33.1
+S2241,Term3,Science,36.3
+S2241,Term3,History,45.5
+S2241,Term3,Computer Science,57.6
+S2241,Term3,Economics,35.4
+S2241,Term3,Biology,55.9
+S2242,Term1,Math,67.5
+S2242,Term1,English,65.2
+S2242,Term1,Science,54.8
+S2242,Term1,History,57.7
+S2242,Term1,Computer Science,56.9
+S2242,Term1,Economics,51.6
+S2242,Term1,Biology,67.4
+S2242,Term2,Math,47.3
+S2242,Term2,English,40.2
+S2242,Term2,Science,50.4
+S2242,Term2,History,46.6
+S2242,Term2,Computer Science,44.6
+S2242,Term2,Economics,43.6
+S2242,Term2,Biology,41.6
+S2242,Term3,Math,89.3
+S2242,Term3,English,80.5
+S2242,Term3,Science,70.7
+S2242,Term3,History,70.9
+S2242,Term3,Computer Science,77.2
+S2242,Term3,Economics,79.3
+S2242,Term3,Biology,83.6
+S2243,Term1,Math,53.9
+S2243,Term1,English,49.6
+S2243,Term1,Science,41.4
+S2243,Term1,History,54.3
+S2243,Term1,Computer Science,67.6
+S2243,Term1,Economics,58.1
+S2243,Term1,Biology,69.1
+S2243,Term2,Math,68.9
+S2243,Term2,English,54.0
+S2243,Term2,Science,40.2
+S2243,Term2,History,61.8
+S2243,Term2,Computer Science,34.8
+S2243,Term2,Economics,47.0
+S2243,Term2,Biology,61.6
+S2243,Term3,Math,57.6
+S2243,Term3,English,69.5
+S2243,Term3,Science,63.4
+S2243,Term3,History,74.6
+S2243,Term3,Computer Science,61.4
+S2243,Term3,Economics,61.6
+S2243,Term3,Biology,70.7
+S2244,Term1,Math,39.5
+S2244,Term1,English,51.3
+S2244,Term1,Science,55.7
+S2244,Term1,History,45.9
+S2244,Term1,Computer Science,44.0
+S2244,Term1,Economics,39.9
+S2244,Term1,Biology,29.4
+S2244,Term2,Math,78.1
+S2244,Term2,English,68.3
+S2244,Term2,Science,66.2
+S2244,Term2,History,77.9
+S2244,Term2,Computer Science,70.1
+S2244,Term2,Economics,59.7
+S2244,Term2,Biology,66.6
+S2244,Term3,Math,65.5
+S2244,Term3,English,71.5
+S2244,Term3,Science,66.0
+S2244,Term3,History,53.4
+S2244,Term3,Computer Science,76.7
+S2244,Term3,Economics,66.7
+S2244,Term3,Biology,71.8
+S2245,Term1,Math,70.5
+S2245,Term1,English,84.4
+S2245,Term1,Science,83.2
+S2245,Term1,History,82.2
+S2245,Term1,Computer Science,69.6
+S2245,Term1,Economics,84.0
+S2245,Term1,Biology,75.7
+S2245,Term2,Math,53.6
+S2245,Term2,English,64.2
+S2245,Term2,Science,75.0
+S2245,Term2,History,56.1
+S2245,Term2,Computer Science,80.2
+S2245,Term2,Economics,56.3
+S2245,Term2,Biology,66.6
+S2245,Term3,Math,48.8
+S2245,Term3,English,61.8
+S2245,Term3,Science,47.8
+S2245,Term3,History,58.5
+S2245,Term3,Computer Science,60.0
+S2245,Term3,Economics,60.0
+S2245,Term3,Biology,66.7
+S2246,Term1,Math,42.6
+S2246,Term1,English,53.1
+S2246,Term1,Science,54.4
+S2246,Term1,History,44.4
+S2246,Term1,Computer Science,71.4
+S2246,Term1,Economics,69.3
+S2246,Term1,Biology,66.9
+S2246,Term2,Math,65.2
+S2246,Term2,English,65.7
+S2246,Term2,Science,69.3
+S2246,Term2,History,65.7
+S2246,Term2,Computer Science,67.2
+S2246,Term2,Economics,60.9
+S2246,Term2,Biology,65.3
+S2246,Term3,Math,57.0
+S2246,Term3,English,75.1
+S2246,Term3,Science,65.4
+S2246,Term3,History,65.0
+S2246,Term3,Computer Science,56.5
+S2246,Term3,Economics,72.8
+S2246,Term3,Biology,66.2
+S2247,Term1,Math,71.1
+S2247,Term1,English,82.0
+S2247,Term1,Science,72.0
+S2247,Term1,History,75.0
+S2247,Term1,Computer Science,81.3
+S2247,Term1,Economics,57.1
+S2247,Term1,Biology,74.9
+S2247,Term2,Math,53.7
+S2247,Term2,English,55.3
+S2247,Term2,Science,36.2
+S2247,Term2,History,40.2
+S2247,Term2,Computer Science,39.2
+S2247,Term2,Economics,44.5
+S2247,Term2,Biology,64.1
+S2247,Term3,Math,73.9
+S2247,Term3,English,76.2
+S2247,Term3,Science,70.4
+S2247,Term3,History,49.3
+S2247,Term3,Computer Science,78.7
+S2247,Term3,Economics,71.0
+S2247,Term3,Biology,91.1
+S2248,Term1,Math,58.8
+S2248,Term1,English,100.0
+S2248,Term1,Science,68.8
+S2248,Term1,History,81.2
+S2248,Term1,Computer Science,85.0
+S2248,Term1,Economics,70.1
+S2248,Term1,Biology,82.2
+S2248,Term2,Math,78.6
+S2248,Term2,English,70.1
+S2248,Term2,Science,53.0
+S2248,Term2,History,70.0
+S2248,Term2,Computer Science,59.9
+S2248,Term2,Economics,78.5
+S2248,Term2,Biology,59.6
+S2248,Term3,Math,60.0
+S2248,Term3,English,58.2
+S2248,Term3,Science,51.5
+S2248,Term3,History,74.4
+S2248,Term3,Computer Science,70.5
+S2248,Term3,Economics,52.3
+S2248,Term3,Biology,73.8
+S2249,Term1,Math,61.6
+S2249,Term1,English,79.9
+S2249,Term1,Science,67.9
+S2249,Term1,History,71.9
+S2249,Term1,Computer Science,75.5
+S2249,Term1,Economics,67.9
+S2249,Term1,Biology,64.0
+S2249,Term2,Math,54.1
+S2249,Term2,English,56.0
+S2249,Term2,Science,66.4
+S2249,Term2,History,59.7
+S2249,Term2,Computer Science,58.2
+S2249,Term2,Economics,55.0
+S2249,Term2,Biology,54.4
+S2249,Term3,Math,61.9
+S2249,Term3,English,68.5
+S2249,Term3,Science,75.1
+S2249,Term3,History,67.2
+S2249,Term3,Computer Science,71.4
+S2249,Term3,Economics,66.9
+S2249,Term3,Biology,69.7
+S2250,Term1,Math,70.5
+S2250,Term1,English,78.1
+S2250,Term1,Science,58.5
+S2250,Term1,History,74.2
+S2250,Term1,Computer Science,69.2
+S2250,Term1,Economics,75.2
+S2250,Term1,Biology,74.9
+S2250,Term2,Math,86.3
+S2250,Term2,English,92.9
+S2250,Term2,Science,82.1
+S2250,Term2,History,82.1
+S2250,Term2,Computer Science,87.7
+S2250,Term2,Economics,86.3
+S2250,Term2,Biology,72.5
+S2250,Term3,Math,82.5
+S2250,Term3,English,79.8
+S2250,Term3,Science,79.2
+S2250,Term3,History,74.6
+S2250,Term3,Computer Science,100.0
+S2250,Term3,Economics,99.5
+S2250,Term3,Biology,79.5
+S2251,Term1,Math,45.7
+S2251,Term1,English,47.9
+S2251,Term1,Science,53.9
+S2251,Term1,History,32.4
+S2251,Term1,Computer Science,44.3
+S2251,Term1,Economics,42.7
+S2251,Term1,Biology,41.7
+S2251,Term2,Math,52.7
+S2251,Term2,English,57.3
+S2251,Term2,Science,67.5
+S2251,Term2,History,64.8
+S2251,Term2,Computer Science,63.6
+S2251,Term2,Economics,67.6
+S2251,Term2,Biology,73.8
+S2251,Term3,Math,80.1
+S2251,Term3,English,67.3
+S2251,Term3,Science,78.3
+S2251,Term3,History,85.0
+S2251,Term3,Computer Science,60.6
+S2251,Term3,Economics,69.3
+S2251,Term3,Biology,91.8
+S2252,Term1,Math,58.3
+S2252,Term1,English,65.2
+S2252,Term1,Science,60.2
+S2252,Term1,History,80.7
+S2252,Term1,Computer Science,54.5
+S2252,Term1,Economics,78.8
+S2252,Term1,Biology,75.6
+S2252,Term2,Math,84.5
+S2252,Term2,English,78.8
+S2252,Term2,Science,79.8
+S2252,Term2,History,76.6
+S2252,Term2,Computer Science,83.5
+S2252,Term2,Economics,91.2
+S2252,Term2,Biology,84.1
+S2252,Term3,Math,52.1
+S2252,Term3,English,47.5
+S2252,Term3,Science,50.6
+S2252,Term3,History,65.9
+S2252,Term3,Computer Science,61.4
+S2252,Term3,Economics,45.8
+S2252,Term3,Biology,50.0
+S2253,Term1,Math,72.9
+S2253,Term1,English,63.6
+S2253,Term1,Science,61.2
+S2253,Term1,History,46.4
+S2253,Term1,Computer Science,54.5
+S2253,Term1,Economics,57.4
+S2253,Term1,Biology,61.6
+S2253,Term2,Math,55.4
+S2253,Term2,English,62.1
+S2253,Term2,Science,59.5
+S2253,Term2,History,67.0
+S2253,Term2,Computer Science,64.4
+S2253,Term2,Economics,58.5
+S2253,Term2,Biology,64.7
+S2253,Term3,Math,54.3
+S2253,Term3,English,64.1
+S2253,Term3,Science,64.2
+S2253,Term3,History,54.9
+S2253,Term3,Computer Science,51.0
+S2253,Term3,Economics,40.6
+S2253,Term3,Biology,62.8
+S2254,Term1,Math,46.3
+S2254,Term1,English,48.6
+S2254,Term1,Science,56.0
+S2254,Term1,History,70.4
+S2254,Term1,Computer Science,62.2
+S2254,Term1,Economics,55.1
+S2254,Term1,Biology,52.9
+S2254,Term2,Math,76.0
+S2254,Term2,English,61.4
+S2254,Term2,Science,61.8
+S2254,Term2,History,55.4
+S2254,Term2,Computer Science,85.6
+S2254,Term2,Economics,85.2
+S2254,Term2,Biology,64.9
+S2254,Term3,Math,68.0
+S2254,Term3,English,91.1
+S2254,Term3,Science,67.7
+S2254,Term3,History,69.4
+S2254,Term3,Computer Science,81.7
+S2254,Term3,Economics,61.1
+S2254,Term3,Biology,66.5
+S2255,Term1,Math,84.8
+S2255,Term1,English,64.3
+S2255,Term1,Science,82.0
+S2255,Term1,History,73.9
+S2255,Term1,Computer Science,76.7
+S2255,Term1,Economics,60.9
+S2255,Term1,Biology,86.4
+S2255,Term2,Math,59.4
+S2255,Term2,English,72.2
+S2255,Term2,Science,52.8
+S2255,Term2,History,52.3
+S2255,Term2,Computer Science,59.6
+S2255,Term2,Economics,63.3
+S2255,Term2,Biology,76.8
+S2255,Term3,Math,67.8
+S2255,Term3,English,79.5
+S2255,Term3,Science,71.0
+S2255,Term3,History,52.4
+S2255,Term3,Computer Science,78.4
+S2255,Term3,Economics,71.3
+S2255,Term3,Biology,67.4
+S2256,Term1,Math,56.7
+S2256,Term1,English,67.9
+S2256,Term1,Science,81.8
+S2256,Term1,History,84.5
+S2256,Term1,Computer Science,64.6
+S2256,Term1,Economics,74.7
+S2256,Term1,Biology,79.7
+S2256,Term2,Math,86.7
+S2256,Term2,English,92.4
+S2256,Term2,Science,85.3
+S2256,Term2,History,87.4
+S2256,Term2,Computer Science,90.1
+S2256,Term2,Economics,68.0
+S2256,Term2,Biology,77.2
+S2256,Term3,Math,86.6
+S2256,Term3,English,85.5
+S2256,Term3,Science,82.9
+S2256,Term3,History,70.4
+S2256,Term3,Computer Science,74.4
+S2256,Term3,Economics,63.5
+S2256,Term3,Biology,92.5
+S2257,Term1,Math,63.7
+S2257,Term1,English,61.8
+S2257,Term1,Science,66.9
+S2257,Term1,History,63.5
+S2257,Term1,Computer Science,65.2
+S2257,Term1,Economics,66.6
+S2257,Term1,Biology,64.1
+S2257,Term2,Math,62.1
+S2257,Term2,English,70.0
+S2257,Term2,Science,63.2
+S2257,Term2,History,57.5
+S2257,Term2,Computer Science,64.3
+S2257,Term2,Economics,77.7
+S2257,Term2,Biology,69.0
+S2257,Term3,Math,87.3
+S2257,Term3,English,70.3
+S2257,Term3,Science,70.1
+S2257,Term3,History,70.1
+S2257,Term3,Computer Science,62.9
+S2257,Term3,Economics,72.3
+S2257,Term3,Biology,62.6
+S2258,Term1,Math,85.9
+S2258,Term1,English,65.0
+S2258,Term1,Science,69.0
+S2258,Term1,History,77.0
+S2258,Term1,Computer Science,72.7
+S2258,Term1,Economics,75.6
+S2258,Term1,Biology,85.2
+S2258,Term2,Math,38.8
+S2258,Term2,English,71.2
+S2258,Term2,Science,50.1
+S2258,Term2,History,59.4
+S2258,Term2,Computer Science,52.1
+S2258,Term2,Economics,44.5
+S2258,Term2,Biology,50.8
+S2258,Term3,Math,80.6
+S2258,Term3,English,60.9
+S2258,Term3,Science,80.7
+S2258,Term3,History,70.1
+S2258,Term3,Computer Science,84.5
+S2258,Term3,Economics,69.6
+S2258,Term3,Biology,58.4
+S2259,Term1,Math,72.7
+S2259,Term1,English,56.6
+S2259,Term1,Science,49.8
+S2259,Term1,History,59.3
+S2259,Term1,Computer Science,52.5
+S2259,Term1,Economics,57.2
+S2259,Term1,Biology,44.2
+S2259,Term2,Math,38.3
+S2259,Term2,English,40.8
+S2259,Term2,Science,45.8
+S2259,Term2,History,38.6
+S2259,Term2,Computer Science,37.1
+S2259,Term2,Economics,63.3
+S2259,Term2,Biology,58.6
+S2259,Term3,Math,52.1
+S2259,Term3,English,79.3
+S2259,Term3,Science,81.9
+S2259,Term3,History,72.3
+S2259,Term3,Computer Science,59.9
+S2259,Term3,Economics,57.7
+S2259,Term3,Biology,60.1
+S2260,Term1,Math,60.3
+S2260,Term1,English,81.3
+S2260,Term1,Science,68.0
+S2260,Term1,History,82.5
+S2260,Term1,Computer Science,86.7
+S2260,Term1,Economics,80.3
+S2260,Term1,Biology,76.9
+S2260,Term2,Math,43.9
+S2260,Term2,English,58.9
+S2260,Term2,Science,39.4
+S2260,Term2,History,36.4
+S2260,Term2,Computer Science,48.5
+S2260,Term2,Economics,61.3
+S2260,Term2,Biology,50.5
+S2260,Term3,Math,72.0
+S2260,Term3,English,47.7
+S2260,Term3,Science,51.5
+S2260,Term3,History,52.7
+S2260,Term3,Computer Science,55.1
+S2260,Term3,Economics,53.4
+S2260,Term3,Biology,61.2
+S2261,Term1,Math,48.5
+S2261,Term1,English,59.0
+S2261,Term1,Science,85.5
+S2261,Term1,History,65.3
+S2261,Term1,Computer Science,78.6
+S2261,Term1,Economics,85.3
+S2261,Term1,Biology,74.7
+S2261,Term2,Math,55.1
+S2261,Term2,English,65.5
+S2261,Term2,Science,67.1
+S2261,Term2,History,61.6
+S2261,Term2,Computer Science,45.9
+S2261,Term2,Economics,73.2
+S2261,Term2,Biology,78.0
+S2261,Term3,Math,52.1
+S2261,Term3,English,50.2
+S2261,Term3,Science,53.1
+S2261,Term3,History,47.5
+S2261,Term3,Computer Science,55.7
+S2261,Term3,Economics,64.6
+S2261,Term3,Biology,70.2
+S2262,Term1,Math,68.1
+S2262,Term1,English,60.1
+S2262,Term1,Science,32.4
+S2262,Term1,History,60.3
+S2262,Term1,Computer Science,43.5
+S2262,Term1,Economics,45.5
+S2262,Term1,Biology,48.3
+S2262,Term2,Math,55.4
+S2262,Term2,English,70.6
+S2262,Term2,Science,46.1
+S2262,Term2,History,70.8
+S2262,Term2,Computer Science,67.6
+S2262,Term2,Economics,66.3
+S2262,Term2,Biology,65.2
+S2262,Term3,Math,59.7
+S2262,Term3,English,55.5
+S2262,Term3,Science,76.3
+S2262,Term3,History,53.0
+S2262,Term3,Computer Science,55.6
+S2262,Term3,Economics,60.5
+S2262,Term3,Biology,41.6
+S2263,Term1,Math,67.9
+S2263,Term1,English,73.5
+S2263,Term1,Science,59.8
+S2263,Term1,History,64.1
+S2263,Term1,Computer Science,64.6
+S2263,Term1,Economics,58.8
+S2263,Term1,Biology,54.4
+S2263,Term2,Math,80.2
+S2263,Term2,English,66.9
+S2263,Term2,Science,58.5
+S2263,Term2,History,70.7
+S2263,Term2,Computer Science,73.2
+S2263,Term2,Economics,70.6
+S2263,Term2,Biology,74.9
+S2263,Term3,Math,35.6
+S2263,Term3,English,58.7
+S2263,Term3,Science,58.9
+S2263,Term3,History,48.5
+S2263,Term3,Computer Science,40.1
+S2263,Term3,Economics,50.5
+S2263,Term3,Biology,49.9
+S2264,Term1,Math,61.8
+S2264,Term1,English,66.5
+S2264,Term1,Science,67.9
+S2264,Term1,History,63.0
+S2264,Term1,Computer Science,60.1
+S2264,Term1,Economics,66.7
+S2264,Term1,Biology,61.6
+S2264,Term2,Math,63.4
+S2264,Term2,English,64.0
+S2264,Term2,Science,55.1
+S2264,Term2,History,45.6
+S2264,Term2,Computer Science,82.2
+S2264,Term2,Economics,50.2
+S2264,Term2,Biology,59.3
+S2264,Term3,Math,61.2
+S2264,Term3,English,55.8
+S2264,Term3,Science,74.8
+S2264,Term3,History,75.5
+S2264,Term3,Computer Science,71.3
+S2264,Term3,Economics,69.8
+S2264,Term3,Biology,61.1
+S2265,Term1,Math,77.9
+S2265,Term1,English,56.6
+S2265,Term1,Science,81.2
+S2265,Term1,History,71.4
+S2265,Term1,Computer Science,66.3
+S2265,Term1,Economics,64.3
+S2265,Term1,Biology,76.4
+S2265,Term2,Math,84.3
+S2265,Term2,English,92.8
+S2265,Term2,Science,79.6
+S2265,Term2,History,62.4
+S2265,Term2,Computer Science,80.2
+S2265,Term2,Economics,61.4
+S2265,Term2,Biology,56.2
+S2265,Term3,Math,68.8
+S2265,Term3,English,65.3
+S2265,Term3,Science,60.5
+S2265,Term3,History,47.4
+S2265,Term3,Computer Science,57.2
+S2265,Term3,Economics,72.8
+S2265,Term3,Biology,40.0
+S2266,Term1,Math,54.1
+S2266,Term1,English,59.1
+S2266,Term1,Science,63.8
+S2266,Term1,History,64.8
+S2266,Term1,Computer Science,65.9
+S2266,Term1,Economics,46.3
+S2266,Term1,Biology,71.6
+S2266,Term2,Math,79.6
+S2266,Term2,English,96.1
+S2266,Term2,Science,58.5
+S2266,Term2,History,63.0
+S2266,Term2,Computer Science,64.6
+S2266,Term2,Economics,78.6
+S2266,Term2,Biology,64.2
+S2266,Term3,Math,66.6
+S2266,Term3,English,76.7
+S2266,Term3,Science,82.4
+S2266,Term3,History,73.7
+S2266,Term3,Computer Science,70.2
+S2266,Term3,Economics,74.7
+S2266,Term3,Biology,80.3
+S2267,Term1,Math,56.4
+S2267,Term1,English,64.0
+S2267,Term1,Science,61.6
+S2267,Term1,History,71.2
+S2267,Term1,Computer Science,67.6
+S2267,Term1,Economics,74.9
+S2267,Term1,Biology,61.8
+S2267,Term2,Math,63.6
+S2267,Term2,English,79.4
+S2267,Term2,Science,64.4
+S2267,Term2,History,73.8
+S2267,Term2,Computer Science,67.6
+S2267,Term2,Economics,68.1
+S2267,Term2,Biology,85.9
+S2267,Term3,Math,72.8
+S2267,Term3,English,67.9
+S2267,Term3,Science,80.7
+S2267,Term3,History,66.6
+S2267,Term3,Computer Science,68.8
+S2267,Term3,Economics,74.8
+S2267,Term3,Biology,69.7
+S2268,Term1,Math,49.1
+S2268,Term1,English,65.5
+S2268,Term1,Science,62.7
+S2268,Term1,History,61.9
+S2268,Term1,Computer Science,70.8
+S2268,Term1,Economics,64.8
+S2268,Term1,Biology,44.9
+S2268,Term2,Math,73.0
+S2268,Term2,English,82.1
+S2268,Term2,Science,75.3
+S2268,Term2,History,65.9
+S2268,Term2,Computer Science,78.8
+S2268,Term2,Economics,76.9
+S2268,Term2,Biology,58.3
+S2268,Term3,Math,65.6
+S2268,Term3,English,74.9
+S2268,Term3,Science,82.6
+S2268,Term3,History,74.1
+S2268,Term3,Computer Science,58.4
+S2268,Term3,Economics,66.0
+S2268,Term3,Biology,79.0
+S2269,Term1,Math,68.9
+S2269,Term1,English,51.2
+S2269,Term1,Science,61.4
+S2269,Term1,History,55.5
+S2269,Term1,Computer Science,57.8
+S2269,Term1,Economics,57.9
+S2269,Term1,Biology,43.7
+S2269,Term2,Math,76.4
+S2269,Term2,English,80.4
+S2269,Term2,Science,70.9
+S2269,Term2,History,87.0
+S2269,Term2,Computer Science,88.0
+S2269,Term2,Economics,67.4
+S2269,Term2,Biology,72.9
+S2269,Term3,Math,69.8
+S2269,Term3,English,73.6
+S2269,Term3,Science,55.8
+S2269,Term3,History,83.6
+S2269,Term3,Computer Science,73.5
+S2269,Term3,Economics,80.2
+S2269,Term3,Biology,59.4
+S2270,Term1,Math,51.3
+S2270,Term1,English,44.0
+S2270,Term1,Science,40.0
+S2270,Term1,History,40.5
+S2270,Term1,Computer Science,40.3
+S2270,Term1,Economics,47.6
+S2270,Term1,Biology,55.6
+S2270,Term2,Math,68.2
+S2270,Term2,English,72.0
+S2270,Term2,Science,84.7
+S2270,Term2,History,59.1
+S2270,Term2,Computer Science,61.3
+S2270,Term2,Economics,56.7
+S2270,Term2,Biology,68.6
+S2270,Term3,Math,65.4
+S2270,Term3,English,63.5
+S2270,Term3,Science,76.0
+S2270,Term3,History,51.9
+S2270,Term3,Computer Science,65.0
+S2270,Term3,Economics,71.4
+S2270,Term3,Biology,73.9
+S2271,Term1,Math,68.8
+S2271,Term1,English,66.8
+S2271,Term1,Science,84.8
+S2271,Term1,History,68.7
+S2271,Term1,Computer Science,82.1
+S2271,Term1,Economics,78.1
+S2271,Term1,Biology,66.6
+S2271,Term2,Math,33.8
+S2271,Term2,English,65.8
+S2271,Term2,Science,46.4
+S2271,Term2,History,51.3
+S2271,Term2,Computer Science,56.1
+S2271,Term2,Economics,58.0
+S2271,Term2,Biology,48.1
+S2271,Term3,Math,72.2
+S2271,Term3,English,76.4
+S2271,Term3,Science,83.9
+S2271,Term3,History,74.3
+S2271,Term3,Computer Science,73.3
+S2271,Term3,Economics,81.5
+S2271,Term3,Biology,79.2
+S2272,Term1,Math,59.7
+S2272,Term1,English,70.3
+S2272,Term1,Science,67.9
+S2272,Term1,History,55.1
+S2272,Term1,Computer Science,60.5
+S2272,Term1,Economics,67.9
+S2272,Term1,Biology,44.1
+S2272,Term2,Math,70.6
+S2272,Term2,English,58.5
+S2272,Term2,Science,49.4
+S2272,Term2,History,57.9
+S2272,Term2,Computer Science,53.1
+S2272,Term2,Economics,60.5
+S2272,Term2,Biology,48.2
+S2272,Term3,Math,44.2
+S2272,Term3,English,41.6
+S2272,Term3,Science,47.2
+S2272,Term3,History,48.0
+S2272,Term3,Computer Science,56.4
+S2272,Term3,Economics,48.2
+S2272,Term3,Biology,46.8
+S2273,Term1,Math,60.7
+S2273,Term1,English,64.8
+S2273,Term1,Science,58.8
+S2273,Term1,History,88.4
+S2273,Term1,Computer Science,85.1
+S2273,Term1,Economics,64.6
+S2273,Term1,Biology,73.1
+S2273,Term2,Math,77.3
+S2273,Term2,English,62.2
+S2273,Term2,Science,70.0
+S2273,Term2,History,75.9
+S2273,Term2,Computer Science,87.9
+S2273,Term2,Economics,62.3
+S2273,Term2,Biology,58.9
+S2273,Term3,Math,83.2
+S2273,Term3,English,75.2
+S2273,Term3,Science,81.6
+S2273,Term3,History,61.3
+S2273,Term3,Computer Science,78.5
+S2273,Term3,Economics,48.3
+S2273,Term3,Biology,70.5
+S2274,Term1,Math,60.8
+S2274,Term1,English,40.0
+S2274,Term1,Science,48.5
+S2274,Term1,History,62.4
+S2274,Term1,Computer Science,55.0
+S2274,Term1,Economics,49.0
+S2274,Term1,Biology,51.9
+S2274,Term2,Math,74.0
+S2274,Term2,English,60.0
+S2274,Term2,Science,68.3
+S2274,Term2,History,62.4
+S2274,Term2,Computer Science,81.7
+S2274,Term2,Economics,71.9
+S2274,Term2,Biology,72.5
+S2274,Term3,Math,88.4
+S2274,Term3,English,84.4
+S2274,Term3,Science,71.6
+S2274,Term3,History,88.7
+S2274,Term3,Computer Science,85.4
+S2274,Term3,Economics,83.9
+S2274,Term3,Biology,69.8
+S2275,Term1,Math,51.7
+S2275,Term1,English,73.6
+S2275,Term1,Science,84.3
+S2275,Term1,History,60.0
+S2275,Term1,Computer Science,63.4
+S2275,Term1,Economics,53.0
+S2275,Term1,Biology,62.7
+S2275,Term2,Math,96.8
+S2275,Term2,English,68.6
+S2275,Term2,Science,90.9
+S2275,Term2,History,66.0
+S2275,Term2,Computer Science,81.3
+S2275,Term2,Economics,78.4
+S2275,Term2,Biology,61.8
+S2275,Term3,Math,62.8
+S2275,Term3,English,47.8
+S2275,Term3,Science,66.6
+S2275,Term3,History,71.8
+S2275,Term3,Computer Science,70.9
+S2275,Term3,Economics,65.3
+S2275,Term3,Biology,69.8
+S2276,Term1,Math,39.5
+S2276,Term1,English,56.3
+S2276,Term1,Science,47.3
+S2276,Term1,History,53.9
+S2276,Term1,Computer Science,65.2
+S2276,Term1,Economics,48.7
+S2276,Term1,Biology,50.5
+S2276,Term2,Math,62.1
+S2276,Term2,English,68.8
+S2276,Term2,Science,58.5
+S2276,Term2,History,48.5
+S2276,Term2,Computer Science,74.8
+S2276,Term2,Economics,49.8
+S2276,Term2,Biology,62.9
+S2276,Term3,Math,73.1
+S2276,Term3,English,57.5
+S2276,Term3,Science,68.0
+S2276,Term3,History,47.5
+S2276,Term3,Computer Science,50.6
+S2276,Term3,Economics,64.1
+S2276,Term3,Biology,64.5
+S2277,Term1,Math,64.3
+S2277,Term1,English,74.4
+S2277,Term1,Science,59.7
+S2277,Term1,History,64.6
+S2277,Term1,Computer Science,74.5
+S2277,Term1,Economics,58.0
+S2277,Term1,Biology,50.0
+S2277,Term2,Math,54.7
+S2277,Term2,English,58.4
+S2277,Term2,Science,64.4
+S2277,Term2,History,68.0
+S2277,Term2,Computer Science,72.0
+S2277,Term2,Economics,54.4
+S2277,Term2,Biology,57.7
+S2277,Term3,Math,69.2
+S2277,Term3,English,49.6
+S2277,Term3,Science,53.5
+S2277,Term3,History,48.7
+S2277,Term3,Computer Science,68.4
+S2277,Term3,Economics,56.0
+S2277,Term3,Biology,57.9
+S2278,Term1,Math,54.8
+S2278,Term1,English,59.3
+S2278,Term1,Science,60.8
+S2278,Term1,History,72.7
+S2278,Term1,Computer Science,56.9
+S2278,Term1,Economics,47.5
+S2278,Term1,Biology,48.8
+S2278,Term2,Math,77.9
+S2278,Term2,English,74.7
+S2278,Term2,Science,67.1
+S2278,Term2,History,81.3
+S2278,Term2,Computer Science,56.5
+S2278,Term2,Economics,76.9
+S2278,Term2,Biology,61.2
+S2278,Term3,Math,50.9
+S2278,Term3,English,50.1
+S2278,Term3,Science,51.5
+S2278,Term3,History,54.5
+S2278,Term3,Computer Science,65.1
+S2278,Term3,Economics,54.2
+S2278,Term3,Biology,55.4
+S2279,Term1,Math,50.0
+S2279,Term1,English,34.0
+S2279,Term1,Science,47.8
+S2279,Term1,History,47.7
+S2279,Term1,Computer Science,42.2
+S2279,Term1,Economics,49.4
+S2279,Term1,Biology,39.6
+S2279,Term2,Math,57.9
+S2279,Term2,English,53.7
+S2279,Term2,Science,62.3
+S2279,Term2,History,44.1
+S2279,Term2,Computer Science,52.5
+S2279,Term2,Economics,52.0
+S2279,Term2,Biology,55.2
+S2279,Term3,Math,73.4
+S2279,Term3,English,63.2
+S2279,Term3,Science,72.2
+S2279,Term3,History,86.1
+S2279,Term3,Computer Science,65.1
+S2279,Term3,Economics,71.7
+S2279,Term3,Biology,72.3
+S2280,Term1,Math,74.1
+S2280,Term1,English,83.0
+S2280,Term1,Science,81.3
+S2280,Term1,History,64.3
+S2280,Term1,Computer Science,80.5
+S2280,Term1,Economics,72.0
+S2280,Term1,Biology,84.4
+S2280,Term2,Math,81.1
+S2280,Term2,English,73.4
+S2280,Term2,Science,67.7
+S2280,Term2,History,66.7
+S2280,Term2,Computer Science,64.0
+S2280,Term2,Economics,66.7
+S2280,Term2,Biology,59.3
+S2280,Term3,Math,82.7
+S2280,Term3,English,80.6
+S2280,Term3,Science,98.1
+S2280,Term3,History,92.1
+S2280,Term3,Computer Science,71.3
+S2280,Term3,Economics,81.6
+S2280,Term3,Biology,91.0
+S2281,Term1,Math,82.3
+S2281,Term1,English,85.0
+S2281,Term1,Science,75.6
+S2281,Term1,History,90.2
+S2281,Term1,Computer Science,94.7
+S2281,Term1,Economics,91.7
+S2281,Term1,Biology,87.9
+S2281,Term2,Math,53.6
+S2281,Term2,English,56.7
+S2281,Term2,Science,59.6
+S2281,Term2,History,63.7
+S2281,Term2,Computer Science,53.6
+S2281,Term2,Economics,59.0
+S2281,Term2,Biology,47.6
+S2281,Term3,Math,75.1
+S2281,Term3,English,74.3
+S2281,Term3,Science,71.7
+S2281,Term3,History,58.7
+S2281,Term3,Computer Science,77.7
+S2281,Term3,Economics,57.6
+S2281,Term3,Biology,72.5
+S2282,Term1,Math,58.6
+S2282,Term1,English,55.6
+S2282,Term1,Science,76.8
+S2282,Term1,History,49.3
+S2282,Term1,Computer Science,57.4
+S2282,Term1,Economics,54.9
+S2282,Term1,Biology,62.0
+S2282,Term2,Math,61.2
+S2282,Term2,English,93.8
+S2282,Term2,Science,80.3
+S2282,Term2,History,80.8
+S2282,Term2,Computer Science,75.8
+S2282,Term2,Economics,62.4
+S2282,Term2,Biology,74.6
+S2282,Term3,Math,42.9
+S2282,Term3,English,56.7
+S2282,Term3,Science,61.9
+S2282,Term3,History,50.6
+S2282,Term3,Computer Science,39.0
+S2282,Term3,Economics,42.0
+S2282,Term3,Biology,56.3
+S2283,Term1,Math,55.0
+S2283,Term1,English,79.8
+S2283,Term1,Science,69.0
+S2283,Term1,History,65.7
+S2283,Term1,Computer Science,64.3
+S2283,Term1,Economics,64.7
+S2283,Term1,Biology,60.3
+S2283,Term2,Math,50.0
+S2283,Term2,English,37.6
+S2283,Term2,Science,52.4
+S2283,Term2,History,52.1
+S2283,Term2,Computer Science,58.9
+S2283,Term2,Economics,51.4
+S2283,Term2,Biology,52.4
+S2283,Term3,Math,72.8
+S2283,Term3,English,71.1
+S2283,Term3,Science,81.6
+S2283,Term3,History,79.8
+S2283,Term3,Computer Science,73.1
+S2283,Term3,Economics,77.0
+S2283,Term3,Biology,59.4
+S2284,Term1,Math,74.2
+S2284,Term1,English,70.7
+S2284,Term1,Science,81.8
+S2284,Term1,History,60.5
+S2284,Term1,Computer Science,83.9
+S2284,Term1,Economics,96.9
+S2284,Term1,Biology,95.1
+S2284,Term2,Math,56.3
+S2284,Term2,English,69.1
+S2284,Term2,Science,63.5
+S2284,Term2,History,65.1
+S2284,Term2,Computer Science,47.4
+S2284,Term2,Economics,61.8
+S2284,Term2,Biology,65.5
+S2284,Term3,Math,79.4
+S2284,Term3,English,86.6
+S2284,Term3,Science,77.6
+S2284,Term3,History,72.5
+S2284,Term3,Computer Science,95.8
+S2284,Term3,Economics,78.0
+S2284,Term3,Biology,77.5
+S2285,Term1,Math,58.7
+S2285,Term1,English,62.9
+S2285,Term1,Science,68.2
+S2285,Term1,History,80.1
+S2285,Term1,Computer Science,63.2
+S2285,Term1,Economics,61.0
+S2285,Term1,Biology,74.3
+S2285,Term2,Math,54.2
+S2285,Term2,English,73.1
+S2285,Term2,Science,71.2
+S2285,Term2,History,39.3
+S2285,Term2,Computer Science,61.6
+S2285,Term2,Economics,57.3
+S2285,Term2,Biology,45.4
+S2285,Term3,Math,51.5
+S2285,Term3,English,35.7
+S2285,Term3,Science,49.4
+S2285,Term3,History,37.4
+S2285,Term3,Computer Science,48.5
+S2285,Term3,Economics,49.4
+S2285,Term3,Biology,39.8
+S2286,Term1,Math,69.3
+S2286,Term1,English,57.1
+S2286,Term1,Science,44.0
+S2286,Term1,History,76.9
+S2286,Term1,Computer Science,72.8
+S2286,Term1,Economics,50.2
+S2286,Term1,Biology,68.7
+S2286,Term2,Math,64.3
+S2286,Term2,English,58.1
+S2286,Term2,Science,63.3
+S2286,Term2,History,51.3
+S2286,Term2,Computer Science,69.3
+S2286,Term2,Economics,61.1
+S2286,Term2,Biology,64.1
+S2286,Term3,Math,69.9
+S2286,Term3,English,47.5
+S2286,Term3,Science,50.9
+S2286,Term3,History,58.8
+S2286,Term3,Computer Science,60.0
+S2286,Term3,Economics,69.6
+S2286,Term3,Biology,67.6
+S2287,Term1,Math,66.8
+S2287,Term1,English,56.5
+S2287,Term1,Science,67.2
+S2287,Term1,History,45.8
+S2287,Term1,Computer Science,70.0
+S2287,Term1,Economics,76.9
+S2287,Term1,Biology,44.8
+S2287,Term2,Math,62.9
+S2287,Term2,English,66.8
+S2287,Term2,Science,60.2
+S2287,Term2,History,44.5
+S2287,Term2,Computer Science,63.8
+S2287,Term2,Economics,52.5
+S2287,Term2,Biology,53.4
+S2287,Term3,Math,68.8
+S2287,Term3,English,83.1
+S2287,Term3,Science,63.7
+S2287,Term3,History,72.0
+S2287,Term3,Computer Science,69.5
+S2287,Term3,Economics,77.2
+S2287,Term3,Biology,67.3
+S2288,Term1,Math,72.6
+S2288,Term1,English,70.6
+S2288,Term1,Science,77.2
+S2288,Term1,History,74.6
+S2288,Term1,Computer Science,75.4
+S2288,Term1,Economics,77.4
+S2288,Term1,Biology,86.0
+S2288,Term2,Math,66.9
+S2288,Term2,English,68.0
+S2288,Term2,Science,67.2
+S2288,Term2,History,75.6
+S2288,Term2,Computer Science,60.9
+S2288,Term2,Economics,57.9
+S2288,Term2,Biology,74.7
+S2288,Term3,Math,70.6
+S2288,Term3,English,63.3
+S2288,Term3,Science,59.8
+S2288,Term3,History,72.8
+S2288,Term3,Computer Science,57.7
+S2288,Term3,Economics,51.8
+S2288,Term3,Biology,57.7
+S2289,Term1,Math,50.1
+S2289,Term1,English,56.0
+S2289,Term1,Science,52.5
+S2289,Term1,History,66.5
+S2289,Term1,Computer Science,43.0
+S2289,Term1,Economics,57.8
+S2289,Term1,Biology,52.7
+S2289,Term2,Math,66.0
+S2289,Term2,English,73.9
+S2289,Term2,Science,74.1
+S2289,Term2,History,58.6
+S2289,Term2,Computer Science,68.8
+S2289,Term2,Economics,62.4
+S2289,Term2,Biology,84.9
+S2289,Term3,Math,76.0
+S2289,Term3,English,87.1
+S2289,Term3,Science,66.1
+S2289,Term3,History,72.7
+S2289,Term3,Computer Science,80.4
+S2289,Term3,Economics,81.8
+S2289,Term3,Biology,69.9
+S2290,Term1,Math,76.0
+S2290,Term1,English,69.3
+S2290,Term1,Science,64.8
+S2290,Term1,History,62.3
+S2290,Term1,Computer Science,73.7
+S2290,Term1,Economics,80.2
+S2290,Term1,Biology,72.9
+S2290,Term2,Math,95.6
+S2290,Term2,English,73.4
+S2290,Term2,Science,86.6
+S2290,Term2,History,88.3
+S2290,Term2,Computer Science,76.7
+S2290,Term2,Economics,98.2
+S2290,Term2,Biology,90.1
+S2290,Term3,Math,69.7
+S2290,Term3,English,71.3
+S2290,Term3,Science,83.3
+S2290,Term3,History,67.0
+S2290,Term3,Computer Science,79.5
+S2290,Term3,Economics,79.5
+S2290,Term3,Biology,80.6
+S2291,Term1,Math,72.2
+S2291,Term1,English,72.1
+S2291,Term1,Science,60.8
+S2291,Term1,History,60.4
+S2291,Term1,Computer Science,55.8
+S2291,Term1,Economics,70.5
+S2291,Term1,Biology,61.3
+S2291,Term2,Math,86.0
+S2291,Term2,English,98.5
+S2291,Term2,Science,89.2
+S2291,Term2,History,64.2
+S2291,Term2,Computer Science,82.2
+S2291,Term2,Economics,66.1
+S2291,Term2,Biology,80.4
+S2291,Term3,Math,40.5
+S2291,Term3,English,42.5
+S2291,Term3,Science,49.9
+S2291,Term3,History,42.0
+S2291,Term3,Computer Science,43.5
+S2291,Term3,Economics,31.8
+S2291,Term3,Biology,41.6
+S2292,Term1,Math,68.8
+S2292,Term1,English,60.6
+S2292,Term1,Science,69.9
+S2292,Term1,History,64.3
+S2292,Term1,Computer Science,69.8
+S2292,Term1,Economics,59.1
+S2292,Term1,Biology,57.0
+S2292,Term2,Math,82.9
+S2292,Term2,English,75.9
+S2292,Term2,Science,69.6
+S2292,Term2,History,78.6
+S2292,Term2,Computer Science,62.7
+S2292,Term2,Economics,61.8
+S2292,Term2,Biology,94.8
+S2292,Term3,Math,55.2
+S2292,Term3,English,62.6
+S2292,Term3,Science,58.2
+S2292,Term3,History,58.6
+S2292,Term3,Computer Science,58.2
+S2292,Term3,Economics,48.5
+S2292,Term3,Biology,52.5
+S2293,Term1,Math,95.5
+S2293,Term1,English,92.7
+S2293,Term1,Science,79.8
+S2293,Term1,History,73.1
+S2293,Term1,Computer Science,73.5
+S2293,Term1,Economics,99.7
+S2293,Term1,Biology,97.3
+S2293,Term2,Math,67.6
+S2293,Term2,English,73.1
+S2293,Term2,Science,86.2
+S2293,Term2,History,67.9
+S2293,Term2,Computer Science,79.0
+S2293,Term2,Economics,67.9
+S2293,Term2,Biology,56.2
+S2293,Term3,Math,81.7
+S2293,Term3,English,58.6
+S2293,Term3,Science,85.9
+S2293,Term3,History,72.5
+S2293,Term3,Computer Science,100.0
+S2293,Term3,Economics,60.1
+S2293,Term3,Biology,72.8
+S2294,Term1,Math,52.7
+S2294,Term1,English,65.6
+S2294,Term1,Science,35.1
+S2294,Term1,History,58.3
+S2294,Term1,Computer Science,36.1
+S2294,Term1,Economics,36.5
+S2294,Term1,Biology,40.9
+S2294,Term2,Math,66.2
+S2294,Term2,English,49.6
+S2294,Term2,Science,55.7
+S2294,Term2,History,50.0
+S2294,Term2,Computer Science,54.3
+S2294,Term2,Economics,67.5
+S2294,Term2,Biology,63.3
+S2294,Term3,Math,68.2
+S2294,Term3,English,81.0
+S2294,Term3,Science,73.7
+S2294,Term3,History,72.6
+S2294,Term3,Computer Science,67.5
+S2294,Term3,Economics,81.1
+S2294,Term3,Biology,72.6
+S2295,Term1,Math,47.4
+S2295,Term1,English,47.4
+S2295,Term1,Science,49.5
+S2295,Term1,History,43.4
+S2295,Term1,Computer Science,49.6
+S2295,Term1,Economics,57.3
+S2295,Term1,Biology,51.1
+S2295,Term2,Math,90.1
+S2295,Term2,English,96.5
+S2295,Term2,Science,90.9
+S2295,Term2,History,77.7
+S2295,Term2,Computer Science,77.3
+S2295,Term2,Economics,78.0
+S2295,Term2,Biology,70.5
+S2295,Term3,Math,44.6
+S2295,Term3,English,54.8
+S2295,Term3,Science,64.6
+S2295,Term3,History,53.4
+S2295,Term3,Computer Science,64.7
+S2295,Term3,Economics,72.2
+S2295,Term3,Biology,52.2
+S2296,Term1,Math,65.2
+S2296,Term1,English,62.2
+S2296,Term1,Science,44.7
+S2296,Term1,History,63.1
+S2296,Term1,Computer Science,52.7
+S2296,Term1,Economics,58.4
+S2296,Term1,Biology,75.1
+S2296,Term2,Math,72.1
+S2296,Term2,English,70.6
+S2296,Term2,Science,63.6
+S2296,Term2,History,74.0
+S2296,Term2,Computer Science,81.1
+S2296,Term2,Economics,72.9
+S2296,Term2,Biology,65.2
+S2296,Term3,Math,64.4
+S2296,Term3,English,65.1
+S2296,Term3,Science,50.6
+S2296,Term3,History,40.2
+S2296,Term3,Computer Science,57.8
+S2296,Term3,Economics,43.7
+S2296,Term3,Biology,52.2
+S2297,Term1,Math,56.3
+S2297,Term1,English,73.7
+S2297,Term1,Science,69.8
+S2297,Term1,History,77.1
+S2297,Term1,Computer Science,78.9
+S2297,Term1,Economics,70.1
+S2297,Term1,Biology,85.7
+S2297,Term2,Math,82.4
+S2297,Term2,English,64.3
+S2297,Term2,Science,72.6
+S2297,Term2,History,87.4
+S2297,Term2,Computer Science,73.7
+S2297,Term2,Economics,77.6
+S2297,Term2,Biology,72.1
+S2297,Term3,Math,58.1
+S2297,Term3,English,69.8
+S2297,Term3,Science,50.7
+S2297,Term3,History,56.3
+S2297,Term3,Computer Science,60.0
+S2297,Term3,Economics,48.6
+S2297,Term3,Biology,74.6
+S2298,Term1,Math,63.7
+S2298,Term1,English,60.5
+S2298,Term1,Science,45.1
+S2298,Term1,History,54.6
+S2298,Term1,Computer Science,51.6
+S2298,Term1,Economics,53.6
+S2298,Term1,Biology,64.6
+S2298,Term2,Math,61.6
+S2298,Term2,English,72.2
+S2298,Term2,Science,79.8
+S2298,Term2,History,78.7
+S2298,Term2,Computer Science,78.4
+S2298,Term2,Economics,69.5
+S2298,Term2,Biology,74.4
+S2298,Term3,Math,78.0
+S2298,Term3,English,100.0
+S2298,Term3,Science,88.7
+S2298,Term3,History,75.2
+S2298,Term3,Computer Science,81.1
+S2298,Term3,Economics,69.3
+S2298,Term3,Biology,71.3
+S2299,Term1,Math,63.3
+S2299,Term1,English,69.1
+S2299,Term1,Science,66.6
+S2299,Term1,History,60.4
+S2299,Term1,Computer Science,78.1
+S2299,Term1,Economics,69.3
+S2299,Term1,Biology,72.7
+S2299,Term2,Math,52.0
+S2299,Term2,English,64.5
+S2299,Term2,Science,71.3
+S2299,Term2,History,71.3
+S2299,Term2,Computer Science,90.2
+S2299,Term2,Economics,81.6
+S2299,Term2,Biology,68.7
+S2299,Term3,Math,75.5
+S2299,Term3,English,69.3
+S2299,Term3,Science,75.8
+S2299,Term3,History,71.5
+S2299,Term3,Computer Science,76.2
+S2299,Term3,Economics,77.6
+S2299,Term3,Biology,71.9
